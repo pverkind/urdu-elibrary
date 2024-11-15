@@ -1,0 +1,65 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3193,
+          "Name": "Sultan Mohd Dara Shikoh",
+          "Name_Urdu": "سلطان محمد دارا شکوہ",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 21,
+          "Name": "Philosophy",
+          "Name_Urdu": "فلسفہ",
+          "Name_Hindi": "Philosophy",
+          "ModifiedOn": "2021-10-25T09:22:15.1966667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2942,
+          "FileName": "3f5830ca-c87e-4c99-80c8-95c4af9c2533.epub",
+          "IsSample": false,
+          "Book_Id": 2942
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2942,
+          "FileName": "3f5830ca-c87e-4c99-80c8-95c4af9c2533.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2942
+        }
+      ],
+      "Users": [],
+      "Id": 2942,
+      "Title": "Resala-e-Haq Numaq",
+      "Title_Urdu": "رسالہ حق نما",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8391494930567",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-03-12T04:52:52.173",
+      "PublishedYear": "",
+      "CreatedOn": "2024-03-12T04:52:53.127",
+      "ModifiedOn": "2024-03-12T04:52:53.127",
+      "Volume": ""
+    }
+  ],
+  "TotalBooksCount": 1,
+  "TotalPage": [
+    1
+  ]
+}

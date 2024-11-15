@@ -1,0 +1,65 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2980,
+          "Name": "Riyaz Shakir Khan",
+          "Name_Urdu": "ریاض شاکر خان",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 25,
+          "Name": "Economics And Business",
+          "Name_Urdu": "تجارت و معاشیات",
+          "Name_Hindi": "Economics And Business",
+          "ModifiedOn": "2021-10-25T09:22:15.2"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2754,
+          "FileName": "19fb7f20-230e-4701-84f0-41f908ee3274.epub",
+          "IsSample": false,
+          "Book_Id": 2754
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2754,
+          "FileName": "19fb7f20-230e-4701-84f0-41f908ee3274.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2754
+        }
+      ],
+      "Users": [],
+      "Id": 2754,
+      "Title": "Maashiyaat Kaise Padhaen",
+      "Title_Urdu": "معاشیات کیسے پڑھائیں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "3634771022120",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:23:41.617",
+      "PublishedYear": "1982",
+      "CreatedOn": "2021-12-01T10:23:41.99",
+      "ModifiedOn": "2021-12-01T10:23:41.99",
+      "Volume": ""
+    }
+  ],
+  "TotalBooksCount": 1,
+  "TotalPage": [
+    1
+  ]
+}

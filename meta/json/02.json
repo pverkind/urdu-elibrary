@@ -1,0 +1,977 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3199,
+          "Name": "Mohd Hasan",
+          "Name_Urdu": "محمد حسن",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 2,
+          "Name": "Fiction",
+          "Name_Urdu": "افسانوی ادب",
+          "Name_Hindi": "Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2946,
+          "FileName": "0713d1ae-8aca-40ae-ba50-493e5c97dff4.epub",
+          "IsSample": false,
+          "Book_Id": 2946
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2946,
+          "FileName": "0713d1ae-8aca-40ae-ba50-493e5c97dff4.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2946
+        }
+      ],
+      "Users": [],
+      "Id": 2946,
+      "Title": "Daman-e- Maryam",
+      "Title_Urdu": "دامان مریم",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6225877763988",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-03-15T10:12:58.717",
+      "PublishedYear": "",
+      "CreatedOn": "2024-03-15T10:12:59.217",
+      "ModifiedOn": "2024-03-15T10:12:59.217",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3185,
+          "Name": "Jameel Akhtar",
+          "Name_Urdu": "جمیل اختر",
+          "Name_Hindi": "Jameel Akhtar Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 2,
+          "Name": "Fiction",
+          "Name_Urdu": "افسانوی ادب",
+          "Name_Hindi": "Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2938,
+          "FileName": "0c1ba729-2e6b-4e1e-b147-f23cf4f1d66c.epub",
+          "IsSample": false,
+          "Book_Id": 2938
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2938,
+          "FileName": "0c1ba729-2e6b-4e1e-b147-f23cf4f1d66c.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2938
+        }
+      ],
+      "Users": [],
+      "Id": 2938,
+      "Title": "Aina-e-Jahan- ‎Vol-2",
+      "Title_Urdu": "آئینہ جہاں، جلد دوم  ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9022491334686",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-03-07T06:43:15.5",
+      "PublishedYear": "",
+      "CreatedOn": "2024-03-07T06:43:16.123",
+      "ModifiedOn": "2024-03-07T06:43:16.123",
+      "Volume": "Vol. 2"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3183,
+          "Name": "Firoz Bakht Ahmad",
+          "Name_Urdu": "فیروز بخت احمد",
+          "Name_Hindi": "Firoz Bakht Ahmad Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 2,
+          "Name": "Fiction",
+          "Name_Urdu": "افسانوی ادب",
+          "Name_Hindi": "Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2936,
+          "FileName": "b418dca5-d097-4385-ba88-10f90ad9b5ec.epub",
+          "IsSample": false,
+          "Book_Id": 2936
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2936,
+          "FileName": "b418dca5-d097-4385-ba88-10f90ad9b5ec.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2936
+        }
+      ],
+      "Users": [],
+      "Id": 2936,
+      "Title": "Duniya ki Behtareen Kahaniyan",
+      "Title_Urdu": "دنیا کی بہترین کہانیاں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6243540025600",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-03-06T06:59:03.96",
+      "PublishedYear": "",
+      "CreatedOn": "2024-03-06T06:59:04.493",
+      "ModifiedOn": "2024-03-06T06:59:04.493",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3151,
+          "Name": "ABUL HASAN MANSOOR AHMAD",
+          "Name_Urdu": "ابو الحسن منصور احمد",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 2,
+          "Name": "Fiction",
+          "Name_Urdu": "افسانوی ادب",
+          "Name_Hindi": "Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2915,
+          "FileName": "3982079f-590f-41db-a78f-0fbec203477b.epub",
+          "IsSample": false,
+          "Book_Id": 2915
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2915,
+          "FileName": "3982079f-590f-41db-a78f-0fbec203477b.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2915
+        }
+      ],
+      "Users": [],
+      "Id": 2915,
+      "Title": "Afl Laila wa Laila",
+      "Title_Urdu": "الف لیلہ و لیلہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7328617934798",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-08-05T11:45:23.37",
+      "PublishedYear": "",
+      "CreatedOn": "2022-08-05T11:45:23.747",
+      "ModifiedOn": "2022-08-05T11:45:23.747",
+      "Volume": "7"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3147,
+          "Name": "ABUL HASAN MANSOOR AHMAD",
+          "Name_Urdu": "ابو الحسن منصور احمد",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 2,
+          "Name": "Fiction",
+          "Name_Urdu": "افسانوی ادب",
+          "Name_Hindi": "Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2912,
+          "FileName": "74658159-1fcd-453f-83e8-a051888325bd.epub",
+          "IsSample": false,
+          "Book_Id": 2912
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2912,
+          "FileName": "74658159-1fcd-453f-83e8-a051888325bd.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2912
+        }
+      ],
+      "Users": [],
+      "Id": 2912,
+      "Title": "Alf Laila wa Laila",
+      "Title_Urdu": "الف لیلہ و لیلہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0038192104679",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-08-05T07:15:18.45",
+      "PublishedYear": "",
+      "CreatedOn": "2022-08-05T07:15:19.387",
+      "ModifiedOn": "2022-08-05T07:15:19.387",
+      "Volume": "6"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3131,
+          "Name": "ABUL HASAN MANSOOR AHMAD",
+          "Name_Urdu": "ابو الحسن منصور احمد",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 2,
+          "Name": "Fiction",
+          "Name_Urdu": "افسانوی ادب",
+          "Name_Hindi": "Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2901,
+          "FileName": "6a1c7b28-99ad-4e52-b092-7c84f9346de1.epub",
+          "IsSample": false,
+          "Book_Id": 2901
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2901,
+          "FileName": "6a1c7b28-99ad-4e52-b092-7c84f9346de1.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2901
+        }
+      ],
+      "Users": [],
+      "Id": 2901,
+      "Title": "Alf Laila wa Laila",
+      "Title_Urdu": "الف لیلہ و لیلہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8015176276695",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-06-25T10:43:57.587",
+      "PublishedYear": "",
+      "CreatedOn": "2022-06-25T10:43:58.243",
+      "ModifiedOn": "2022-06-25T10:43:58.243",
+      "Volume": "5"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3130,
+          "Name": "ABUL HASAN MANSOOR AHMAD",
+          "Name_Urdu": "ابو الحسن منصور احمد",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 2,
+          "Name": "Fiction",
+          "Name_Urdu": "افسانوی ادب",
+          "Name_Hindi": "Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2900,
+          "FileName": "77609e07-b858-4cd6-9196-0d1f8a8fcc3d.epub",
+          "IsSample": false,
+          "Book_Id": 2900
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2900,
+          "FileName": "77609e07-b858-4cd6-9196-0d1f8a8fcc3d.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2900
+        }
+      ],
+      "Users": [],
+      "Id": 2900,
+      "Title": "Alf Laila wa Laila",
+      "Title_Urdu": "الف لیلہ و لیلہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6870561253919",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-06-25T08:10:03.58",
+      "PublishedYear": "",
+      "CreatedOn": "2022-06-25T08:10:04.203",
+      "ModifiedOn": "2022-06-25T08:10:04.203",
+      "Volume": "4"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3126,
+          "Name": "ABUL HASAN MANSOOR AHMAD",
+          "Name_Urdu": "ابو الحسن منصور احمد",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 2,
+          "Name": "Fiction",
+          "Name_Urdu": "افسانوی ادب",
+          "Name_Hindi": "Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2897,
+          "FileName": "089995a6-4a0e-40e7-98cc-d8e037ed2361.epub",
+          "IsSample": false,
+          "Book_Id": 2897
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2897,
+          "FileName": "089995a6-4a0e-40e7-98cc-d8e037ed2361.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2897
+        }
+      ],
+      "Users": [],
+      "Id": 2897,
+      "Title": "Alf Laila wa Laila",
+      "Title_Urdu": "الف لیلہ و لیلہ ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4624103983283",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-06-25T06:38:47.663",
+      "PublishedYear": "",
+      "CreatedOn": "2022-06-25T06:38:48.057",
+      "ModifiedOn": "2022-06-25T06:38:48.057",
+      "Volume": "1"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3125,
+          "Name": "ABUL HASAN MANSOOR AHMAD",
+          "Name_Urdu": "ابو الحسن منصور احمد",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 2,
+          "Name": "Fiction",
+          "Name_Urdu": "افسانوی ادب",
+          "Name_Hindi": "Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2896,
+          "FileName": "2df26770-ad01-4c64-9138-9397aaf1bf04.epub",
+          "IsSample": false,
+          "Book_Id": 2896
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2896,
+          "FileName": "2df26770-ad01-4c64-9138-9397aaf1bf04.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2896
+        }
+      ],
+      "Users": [],
+      "Id": 2896,
+      "Title": "Alf Laila wa Laila",
+      "Title_Urdu": "الف لیلہ و لیلہ ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0637667664049",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-06-25T06:37:14.467",
+      "PublishedYear": "",
+      "CreatedOn": "2022-06-25T06:37:15.077",
+      "ModifiedOn": "2022-06-25T06:37:15.077",
+      "Volume": "2"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3123,
+          "Name": "ABUL HASAN MANSOOR AHMAD",
+          "Name_Urdu": "ابو الحسن منصور احمد",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 2,
+          "Name": "Fiction",
+          "Name_Urdu": "افسانوی ادب",
+          "Name_Hindi": "Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2894,
+          "FileName": "7368f89a-7d35-4f22-ba17-705385b3b011.epub",
+          "IsSample": false,
+          "Book_Id": 2894
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2894,
+          "FileName": "7368f89a-7d35-4f22-ba17-705385b3b011.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2894
+        }
+      ],
+      "Users": [],
+      "Id": 2894,
+      "Title": "Alf Laila wa Laila",
+      "Title_Urdu": "الف لیلہ و لیلہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8098022044375",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-06-25T06:14:12.147",
+      "PublishedYear": "",
+      "CreatedOn": "2022-06-25T06:14:13.07",
+      "ModifiedOn": "2022-06-25T06:14:13.07",
+      "Volume": "3"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3112,
+          "Name": "Charles Dickens",
+          "Name_Urdu": "چارلس ڈیکنس",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 2,
+          "Name": "Fiction",
+          "Name_Urdu": "افسانوی ادب",
+          "Name_Hindi": "Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2884,
+          "FileName": "437b86e5-33db-4838-bbbe-796ded85a44e.epub",
+          "IsSample": false,
+          "Book_Id": 2884
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2884,
+          "FileName": "437b86e5-33db-4838-bbbe-796ded85a44e.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2884
+        }
+      ],
+      "Users": [],
+      "Id": 2884,
+      "Title": "David CopperField",
+      "Title_Urdu": "ڈیوڈ کاپرفیلڈ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2497780529450",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-14T07:25:28.59",
+      "PublishedYear": "2012",
+      "CreatedOn": "2021-12-14T07:25:29.107",
+      "ModifiedOn": "2021-12-14T07:25:29.107",
+      "Volume": "2"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2991,
+          "Name": "Owais Ahmad Adeeb",
+          "Name_Urdu": "اویس احمد ادیب",
+          "Name_Hindi": "Owais Ahmad Adeeb Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 2,
+          "Name": "Fiction",
+          "Name_Urdu": "افسانوی ادب",
+          "Name_Hindi": "Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2765,
+          "FileName": "463dfcf3-2992-4621-85f9-c3be9c845084.epub",
+          "IsSample": false,
+          "Book_Id": 2765
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2765,
+          "FileName": "463dfcf3-2992-4621-85f9-c3be9c845084.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2765
+        }
+      ],
+      "Users": [],
+      "Id": 2765,
+      "Title": "Usool Afsana Nigari",
+      "Title_Urdu": "اصول افسانہ نگاری",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "3242402573745",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:53:28.56",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-01T10:53:28.717",
+      "ModifiedOn": "2021-12-01T10:53:28.717",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2990,
+          "Name": "Dr. Syed Mahmood Kazmi",
+          "Name_Urdu": "ڈاکٹر سیّد محمود کاظمی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 2,
+          "Name": "Fiction",
+          "Name_Urdu": "افسانوی ادب",
+          "Name_Hindi": "Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2764,
+          "FileName": "81c9a7a8-aa89-43cd-89c3-aa85717bc449.epub",
+          "IsSample": false,
+          "Book_Id": 2764
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2764,
+          "FileName": "81c9a7a8-aa89-43cd-89c3-aa85717bc449.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2764
+        }
+      ],
+      "Users": [],
+      "Id": 2764,
+      "Title": "Novel Aur Awam",
+      "Title_Urdu": "ناول اور عوام",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7986667329938",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:53:04.987",
+      "PublishedYear": "2014",
+      "CreatedOn": "2021-12-01T10:53:05.22",
+      "ModifiedOn": "2021-12-01T10:53:05.22",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2989,
+          "Name": "Ratan Singh",
+          "Name_Urdu": "رتن سنگھ",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 2,
+          "Name": "Fiction",
+          "Name_Urdu": "افسانوی ادب",
+          "Name_Hindi": "Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2763,
+          "FileName": "328e8c47-92eb-4637-9264-bf347d54c8da.epub",
+          "IsSample": false,
+          "Book_Id": 2763
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2763,
+          "FileName": "328e8c47-92eb-4637-9264-bf347d54c8da.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2763
+        }
+      ],
+      "Users": [],
+      "Id": 2763,
+      "Title": "Ek Nadi",
+      "Title_Urdu": "اِک ندی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4630415724809",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:52:11.357",
+      "PublishedYear": "2018",
+      "CreatedOn": "2021-12-01T10:52:11.653",
+      "ModifiedOn": "2021-12-01T10:52:11.653",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2988,
+          "Name": "Syed Imtiyaz Ali Taj",
+          "Name_Urdu": "سیّد امتیاز علی تاج",
+          "Name_Hindi": "Syed Imtiyaz Ali Taj_Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 2,
+          "Name": "Fiction",
+          "Name_Urdu": "افسانوی ادب",
+          "Name_Hindi": "Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2762,
+          "FileName": "99a2cc86-2d62-4415-b120-a926b8c4a97e.epub",
+          "IsSample": false,
+          "Book_Id": 2762
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2762,
+          "FileName": "99a2cc86-2d62-4415-b120-a926b8c4a97e.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2762
+        }
+      ],
+      "Users": [],
+      "Id": 2762,
+      "Title": "Anar Kali",
+      "Title_Urdu": "انار کلی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9800043527191",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:49:07.097",
+      "PublishedYear": "201ٓ7",
+      "CreatedOn": "2021-12-01T10:49:07.31",
+      "ModifiedOn": "2021-12-01T10:49:07.31",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2913,
+          "Name": "Rajab Ali Beg Sarvar",
+          "Name_Urdu": "رجب علی بیگ سرور",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 2,
+          "Name": "Fiction",
+          "Name_Urdu": "افسانوی ادب",
+          "Name_Hindi": "Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2689,
+          "FileName": "a9b89827-6f26-4f22-b9ed-e21db01861c7.epub",
+          "IsSample": false,
+          "Book_Id": 2689
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2689,
+          "FileName": "a9b89827-6f26-4f22-b9ed-e21db01861c7.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2689
+        }
+      ],
+      "Users": [],
+      "Id": 2689,
+      "Title": "Fasana-e-Ajaib",
+      "Title_Urdu": "فسانۂ عجائب",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7694749942434",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-07-28T06:28:26.827",
+      "PublishedYear": "",
+      "CreatedOn": "2021-07-28T06:28:26.97",
+      "ModifiedOn": "2021-07-28T06:28:26.97",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 821,
+          "Name": "Dr. Mohammad Kazim",
+          "Name_Urdu": "ڈاکٹر محمد کاظم",
+          "Name_Hindi": "Dr. Mohammad Kazim Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 2,
+          "Name": "Fiction",
+          "Name_Urdu": "افسانوی ادب",
+          "Name_Hindi": "Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 599,
+          "FileName": "6be9184c-aa9e-4d30-b82d-520c7b974483.epub",
+          "IsSample": false,
+          "Book_Id": 599
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 599,
+          "FileName": "6be9184c-aa9e-4d30-b82d-520c7b974483.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 599
+        }
+      ],
+      "Users": [],
+      "Id": 599,
+      "Title": "Mohammad Mujib Ke Dramay",
+      "Title_Urdu": "محمد مجیب کے ڈرامے",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0736377146407",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2019-10-03T17:21:33.817",
+      "PublishedYear": "2015",
+      "CreatedOn": "2019-10-03T17:21:36.173",
+      "ModifiedOn": "2019-10-03T17:21:36.173",
+      "Volume": ""
+    }
+  ],
+  "TotalBooksCount": 17,
+  "TotalPage": [
+    1
+  ]
+}

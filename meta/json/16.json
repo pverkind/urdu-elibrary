@@ -1,0 +1,863 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3218,
+          "Name": "K. S. Lal",
+          "Name_Urdu": "کے ایس لال",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 16,
+          "Name": "History",
+          "Name_Urdu": "تاریخ",
+          "Name_Hindi": "History",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2958,
+          "FileName": "0b41913b-2d16-4893-ad01-9836db715908.epub",
+          "IsSample": false,
+          "Book_Id": 2958
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2958,
+          "FileName": "0b41913b-2d16-4893-ad01-9836db715908.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2958
+        }
+      ],
+      "Users": [],
+      "Id": 2958,
+      "Title": "Khilji Khandan",
+      "Title_Urdu": "خلجی خاندان",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1646584845331",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان ",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-08-07T10:24:08.607",
+      "PublishedYear": "2022",
+      "CreatedOn": "2024-08-07T10:24:09.23",
+      "ModifiedOn": "2024-08-07T10:24:09.23",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3208,
+          "Name": "Narendra Nath La",
+          "Name_Urdu": "نریندرناتھ لا",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 16,
+          "Name": "History",
+          "Name_Urdu": "تاریخ",
+          "Name_Hindi": "History",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2951,
+          "FileName": "6b67b8de-4116-4ee3-80db-7877cf2b242c.epub",
+          "IsSample": false,
+          "Book_Id": 2951
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2951,
+          "FileName": "6b67b8de-4116-4ee3-80db-7877cf2b242c.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2951
+        }
+      ],
+      "Users": [],
+      "Id": 2951,
+      "Title": "Muslim Hukumat ke Dauran Hindustan mein Ilm ka Farogh",
+      "Title_Urdu": "مسلم حکومت کے دوران ہندوستان میں علم کا فروغ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0167147797457",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-03-21T09:54:31.527",
+      "PublishedYear": "",
+      "CreatedOn": "2024-03-21T09:54:32.807",
+      "ModifiedOn": "2024-03-21T09:54:32.807",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3196,
+          "Name": "Mirza Zafar Hussain",
+          "Name_Urdu": "مرزا جعفر حسین",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 16,
+          "Name": "History",
+          "Name_Urdu": "تاریخ",
+          "Name_Hindi": "History",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2944,
+          "FileName": "0d94aa0e-9e5b-448b-88cd-37f5456a1eb1.epub",
+          "IsSample": false,
+          "Book_Id": 2944
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2944,
+          "FileName": "0d94aa0e-9e5b-448b-88cd-37f5456a1eb1.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2944
+        }
+      ],
+      "Users": [],
+      "Id": 2944,
+      "Title": "Qadeem Lucknow ki Akhri Bahar",
+      "Title_Urdu": "قدیم لکھنو کی آخری بہار",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "3871927766714",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-03-15T09:04:14.25",
+      "PublishedYear": "",
+      "CreatedOn": "2024-03-15T09:04:15.953",
+      "ModifiedOn": "2024-03-15T09:04:15.953",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3140,
+          "Name": "Mohammed Sajjad",
+          "Name_Urdu": " محمد سجاد",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 16,
+          "Name": "History",
+          "Name_Urdu": "تاریخ",
+          "Name_Hindi": "History",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2908,
+          "FileName": "76834bad-2581-4694-93d6-f5ef514a6a08.epub",
+          "IsSample": false,
+          "Book_Id": 2908
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2908,
+          "FileName": "76834bad-2581-4694-93d6-f5ef514a6a08.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2908
+        }
+      ],
+      "Users": [],
+      "Id": 2908,
+      "Title": "Nauabadiyat aur Alehdgi Pasandi Ki Muzahmat",
+      "Title_Urdu": "نو آبادیات اور علیحدگی پسندی کی مزاحمت",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6040018627003",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-07-13T06:55:08.183",
+      "PublishedYear": "",
+      "CreatedOn": "2022-07-13T06:55:08.683",
+      "ModifiedOn": "2022-07-13T06:55:08.683",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3004,
+          "Name": "L.F. Rashbroke Williams",
+          "Name_Urdu": "ایل۔ ایف۔ رش بروک ولیمز",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 16,
+          "Name": "History",
+          "Name_Urdu": "تاریخ",
+          "Name_Hindi": "History",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2778,
+          "FileName": "b548c757-aa94-411d-b3ba-3eeb155a9153.epub",
+          "IsSample": false,
+          "Book_Id": 2778
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2778,
+          "FileName": "b548c757-aa94-411d-b3ba-3eeb155a9153.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2778
+        }
+      ],
+      "Users": [],
+      "Id": 2778,
+      "Title": "Zahir Uddin Mohammad Babar",
+      "Title_Urdu": "ظہیرالدین محمد بابر",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9171417243155",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T11:30:59.397",
+      "PublishedYear": "2010",
+      "CreatedOn": "2021-12-01T11:30:59.833",
+      "ModifiedOn": "2021-12-01T11:30:59.833",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3003,
+          "Name": "Hamid Ansari",
+          "Name_Urdu": "حامد انصاری",
+          "Name_Hindi": "Hamid Ansari Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 16,
+          "Name": "History",
+          "Name_Urdu": "تاریخ",
+          "Name_Hindi": "History",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2777,
+          "FileName": "d1686803-dd85-4140-a41c-d6d56e230cd1.epub",
+          "IsSample": false,
+          "Book_Id": 2777
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2777,
+          "FileName": "d1686803-dd85-4140-a41c-d6d56e230cd1.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2777
+        }
+      ],
+      "Users": [],
+      "Id": 2777,
+      "Title": "Safar Ashoob",
+      "Title_Urdu": "سفر آشوب",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4313683830790",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T11:28:38.403",
+      "PublishedYear": "2014",
+      "CreatedOn": "2021-12-01T11:28:38.827",
+      "ModifiedOn": "2021-12-01T11:28:38.827",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3002,
+          "Name": "Dr. Kamlesh Mohan",
+          "Name_Urdu": "ڈاکٹر کملیش موہن",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 16,
+          "Name": "History",
+          "Name_Urdu": "تاریخ",
+          "Name_Hindi": "History",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2776,
+          "FileName": "87f50221-cf93-456a-a3b6-fa1812b139f1.epub",
+          "IsSample": false,
+          "Book_Id": 2776
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2776,
+          "FileName": "87f50221-cf93-456a-a3b6-fa1812b139f1.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2776
+        }
+      ],
+      "Users": [],
+      "Id": 2776,
+      "Title": "Punjab Mein Inqalabi WatanPrasti Ki Tehreek",
+      "Title_Urdu": "پنجاب میں وطن پرستی کی تحریک ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1129528975676",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T11:26:57.027",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-01T11:26:57.417",
+      "ModifiedOn": "2021-12-01T11:26:57.417",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3001,
+          "Name": "Mohammad Sajjad",
+          "Name_Urdu": "محمد سجاد",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 16,
+          "Name": "History",
+          "Name_Urdu": "تاریخ",
+          "Name_Hindi": "History",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2775,
+          "FileName": "1b48fed0-7478-481e-b7d6-6eca9ed751af.epub",
+          "IsSample": false,
+          "Book_Id": 2775
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2775,
+          "FileName": "1b48fed0-7478-481e-b7d6-6eca9ed751af.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2775
+        }
+      ],
+      "Users": [],
+      "Id": 2775,
+      "Title": "Nau Abadiyat Aur Elahdgi Pasandi Ki Muzahemat",
+      "Title_Urdu": " نو آبادیات اور علیحدگی پسندی کی مزاحمت",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8353775039791",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T11:23:34.117",
+      "PublishedYear": "",
+      "CreatedOn": "2021-12-01T11:23:34.43",
+      "ModifiedOn": "2021-12-01T11:23:34.43",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3000,
+          "Name": "Mulla Abdul Qadir Badayuni",
+          "Name_Urdu": "ملّا عبدالقادر بدایونی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 16,
+          "Name": "History",
+          "Name_Urdu": "تاریخ",
+          "Name_Hindi": "History",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2774,
+          "FileName": "acdf5522-39ff-4042-a5f2-c909671fd547.epub",
+          "IsSample": false,
+          "Book_Id": 2774
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2774,
+          "FileName": "acdf5522-39ff-4042-a5f2-c909671fd547.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2774
+        }
+      ],
+      "Users": [],
+      "Id": 2774,
+      "Title": "Muntakhabut Tawareekh",
+      "Title_Urdu": "منتخب التواریخ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4597465065684",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T11:22:31.953",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-01T11:22:32.373",
+      "ModifiedOn": "2021-12-01T11:22:32.373",
+      "Volume": "1"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2999,
+          "Name": "Mulla Abdul Qadir Badayuni",
+          "Name_Urdu": "ملّا عبدالقادر بدایونی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 16,
+          "Name": "History",
+          "Name_Urdu": "تاریخ",
+          "Name_Hindi": "History",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2773,
+          "FileName": "cad43f7f-50c0-4c34-a69f-ddc438541f90.epub",
+          "IsSample": false,
+          "Book_Id": 2773
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2773,
+          "FileName": "cad43f7f-50c0-4c34-a69f-ddc438541f90.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2773
+        }
+      ],
+      "Users": [],
+      "Id": 2773,
+      "Title": "Muntakhabut Tawareekh",
+      "Title_Urdu": "منتخب التواریخ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9226278887177",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T11:19:06.017",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-01T11:19:06.44",
+      "ModifiedOn": "2021-12-01T11:19:06.44",
+      "Volume": "2,3"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2998,
+          "Name": "Sir Walter Ropert Lawrance",
+          "Name_Urdu": "سر والٹرروپرٹ لارنس",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 16,
+          "Name": "History",
+          "Name_Urdu": "تاریخ",
+          "Name_Hindi": "History",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2772,
+          "FileName": "073b9c76-63c1-45b7-b1bf-350a077a7dbd.epub",
+          "IsSample": false,
+          "Book_Id": 2772
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2772,
+          "FileName": "073b9c76-63c1-45b7-b1bf-350a077a7dbd.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2772
+        }
+      ],
+      "Users": [],
+      "Id": 2772,
+      "Title": "Kashmir Ki Waadi",
+      "Title_Urdu": "کشمیر کی وادی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0137187064371",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T11:16:02.157",
+      "PublishedYear": "2014",
+      "CreatedOn": "2021-12-01T11:16:02.657",
+      "ModifiedOn": "2021-12-01T11:16:02.657",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2997,
+          "Name": "Cecil Earle Tyndale Biscoe",
+          "Name_Urdu": "سی۔ ای۔ ٹنڈیل بسکو",
+          "Name_Hindi": "Cecil Earle Tyndale Biscoe Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 16,
+          "Name": "History",
+          "Name_Urdu": "تاریخ",
+          "Name_Hindi": "History",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2771,
+          "FileName": "2b24cf45-38e8-4137-b08b-27b192734e71.epub",
+          "IsSample": false,
+          "Book_Id": 2771
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2771,
+          "FileName": "2b24cf45-38e8-4137-b08b-27b192734e71.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2771
+        }
+      ],
+      "Users": [],
+      "Id": 2771,
+      "Title": "Kashmir Dhoop Aur Chhaon Mein",
+      "Title_Urdu": "کشمیر دھوپ اور چھاؤں میں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2425698891902",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T11:13:48.767",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-01T11:13:49.03",
+      "ModifiedOn": "2021-12-01T11:13:49.03",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2996,
+          "Name": "Prof. Bipin Chandra",
+          "Name_Urdu": "پروفیسر بپن ",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 16,
+          "Name": "History",
+          "Name_Urdu": "تاریخ",
+          "Name_Hindi": "History",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2770,
+          "FileName": "3fc009c8-819d-49e5-b2a9-fde8c221fab2.epub",
+          "IsSample": false,
+          "Book_Id": 2770
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2770,
+          "FileName": "3fc009c8-819d-49e5-b2a9-fde8c221fab2.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2770
+        }
+      ],
+      "Users": [],
+      "Id": 2770,
+      "Title": "Husool-e-Azadi Ke Liye Hindustan Ki Jadd-o-Jehad",
+      "Title_Urdu": "حصولِ آزادی کے لئے ہندوستان کی جدوجہد",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1428553290956",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T11:12:59.103",
+      "PublishedYear": "2014",
+      "CreatedOn": "2021-12-01T11:12:59.68",
+      "ModifiedOn": "2021-12-01T11:12:59.68",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2995,
+          "Name": "Tafazzal Husain Kokab",
+          "Name_Urdu": "تفضّل حسین کوکب",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 16,
+          "Name": "History",
+          "Name_Urdu": "تاریخ",
+          "Name_Hindi": "History",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2769,
+          "FileName": "c3aa43f5-7bd3-42ac-ac1b-0167a10ef2f9.epub",
+          "IsSample": false,
+          "Book_Id": 2769
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2769,
+          "FileName": "c3aa43f5-7bd3-42ac-ac1b-0167a10ef2f9.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2769
+        }
+      ],
+      "Users": [],
+      "Id": 2769,
+      "Title": "Fughan-e-Dehli",
+      "Title_Urdu": "فغانِ دہلی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7833633587827",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T11:11:23.78",
+      "PublishedYear": "2013",
+      "CreatedOn": "2021-12-01T11:11:24.013",
+      "ModifiedOn": "2021-12-01T11:11:24.013",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2994,
+          "Name": "W H Morland",
+          "Name_Urdu": "ڈبلیو ایچ مورلینڈ",
+          "Name_Hindi": "W H Morland Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 16,
+          "Name": "History",
+          "Name_Urdu": "تاریخ",
+          "Name_Hindi": "History",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2768,
+          "FileName": "b8470e05-a7c2-42e8-a348-316a68702e47.epub",
+          "IsSample": false,
+          "Book_Id": 2768
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2768,
+          "FileName": "b8470e05-a7c2-42e8-a348-316a68702e47.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2768
+        }
+      ],
+      "Users": [],
+      "Id": 2768,
+      "Title": "Akbar Se Aurangzeb Tak",
+      "Title_Urdu": "اکبر سے اورنگ زیب تک",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7987892132291",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T11:09:39.277",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T11:09:39.793",
+      "ModifiedOn": "2021-12-01T11:09:39.793",
+      "Volume": ""
+    }
+  ],
+  "TotalBooksCount": 15,
+  "TotalPage": [
+    1
+  ]
+}

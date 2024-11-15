@@ -1,0 +1,464 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3182,
+          "Name": "Syed Zaheer",
+          "Name_Urdu": "سید  ظہیر",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 1,
+          "Name": "Poetry",
+          "Name_Urdu": "شاعری",
+          "Name_Hindi": "Poetry",
+          "ModifiedOn": "2017-08-24T13:13:50.2866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2935,
+          "FileName": "495ba242-cf40-46ca-8a7a-57562f501a3b.epub",
+          "IsSample": false,
+          "Book_Id": 2935
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2935,
+          "FileName": "495ba242-cf40-46ca-8a7a-57562f501a3b.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2935
+        }
+      ],
+      "Users": [],
+      "Id": 2935,
+      "Title": "Kulliya-e-Kawish Badri",
+      "Title_Urdu": "کلیات کاوش بدری",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4379854964179",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-03-05T09:34:06.033",
+      "PublishedYear": "",
+      "CreatedOn": "2024-03-05T09:34:07.177",
+      "ModifiedOn": "2024-03-05T09:34:07.177",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3134,
+          "Name": "Syed Ahmad Esar",
+          "Name_Urdu": "سید احمد ایثار",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 1,
+          "Name": "Poetry",
+          "Name_Urdu": "شاعری",
+          "Name_Hindi": "Poetry",
+          "ModifiedOn": "2017-08-24T13:13:50.2866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2903,
+          "FileName": "55df7f6e-7f87-4e98-98ed-be4ce9f96dcf.epub",
+          "IsSample": false,
+          "Book_Id": 2903
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2903,
+          "FileName": "55df7f6e-7f87-4e98-98ed-be4ce9f96dcf.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2903
+        }
+      ],
+      "Users": [],
+      "Id": 2903,
+      "Title": "Masnavi Maulana Room",
+      "Title_Urdu": "مثنوی مولانا روم",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6429272927456",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-07-06T06:45:32.043",
+      "PublishedYear": "",
+      "CreatedOn": "2022-07-06T06:45:32.84",
+      "ModifiedOn": "2022-07-06T06:45:32.84",
+      "Volume": "2"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3133,
+          "Name": "Syed Ahmad Esar",
+          "Name_Urdu": "سید احمد ایثار",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 1,
+          "Name": "Poetry",
+          "Name_Urdu": "شاعری",
+          "Name_Hindi": "Poetry",
+          "ModifiedOn": "2017-08-24T13:13:50.2866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2902,
+          "FileName": "578e7718-f07f-4e72-8bc7-1f991bcd9ac4.epub",
+          "IsSample": false,
+          "Book_Id": 2902
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2902,
+          "FileName": "578e7718-f07f-4e72-8bc7-1f991bcd9ac4.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2902
+        }
+      ],
+      "Users": [],
+      "Id": 2902,
+      "Title": "Masnavi Maulana Room",
+      "Title_Urdu": "مثنوی مولانا روم",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1365533084471",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-06-28T10:01:36.637",
+      "PublishedYear": "",
+      "CreatedOn": "2022-06-28T10:01:38.01",
+      "ModifiedOn": "2022-06-28T10:01:38.01",
+      "Volume": "1"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3065,
+          "Name": "Anand Verdhan",
+          "Name_Urdu": "آنند وردھن",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 1,
+          "Name": "Poetry",
+          "Name_Urdu": "شاعری",
+          "Name_Hindi": "Poetry",
+          "ModifiedOn": "2017-08-24T13:13:50.2866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2839,
+          "FileName": "38f01590-e30d-4fd9-a29b-1da9374a2d1b.epub",
+          "IsSample": false,
+          "Book_Id": 2839
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2839,
+          "FileName": "38f01590-e30d-4fd9-a29b-1da9374a2d1b.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2839
+        }
+      ],
+      "Users": [],
+      "Id": 2839,
+      "Title": "Dhwanyalok",
+      "Title_Urdu": "دھونیا لوک",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2710744459938",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T06:40:43.31",
+      "PublishedYear": "",
+      "CreatedOn": "2021-12-10T06:40:43.45",
+      "ModifiedOn": "2021-12-10T06:40:43.45",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 904,
+          "Name": "Moeed Rasheedi",
+          "Name_Urdu": "معید رشیدی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 1,
+          "Name": "Poetry",
+          "Name_Urdu": "شاعری",
+          "Name_Hindi": "Poetry",
+          "ModifiedOn": "2017-08-24T13:13:50.2866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 682,
+          "FileName": "a447f1c4-dd15-4a6d-8efb-68ed1b303a19.epub",
+          "IsSample": false,
+          "Book_Id": 682
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 682,
+          "FileName": "a447f1c4-dd15-4a6d-8efb-68ed1b303a19.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 682
+        }
+      ],
+      "Users": [],
+      "Id": 682,
+      "Title": "Momin Khan Momin",
+      "Title_Urdu": "مومن خاں مومن",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4977044126713",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2020-03-04T15:25:16.717",
+      "PublishedYear": "",
+      "CreatedOn": "2020-03-04T15:25:17.013",
+      "ModifiedOn": "2020-03-04T15:25:17.013",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 855,
+          "Name": "Dr. Sumatheendra Nadig",
+          "Name_Urdu": "ڈاکٹر سمتیندرا ناڈگ",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 1,
+          "Name": "Poetry",
+          "Name_Urdu": "شاعری",
+          "Name_Hindi": "Poetry",
+          "ModifiedOn": "2017-08-24T13:13:50.2866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 633,
+          "FileName": "c2de964f-9442-4080-a727-1cfd7c5093f5.epub",
+          "IsSample": false,
+          "Book_Id": 633
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 633,
+          "FileName": "c2de964f-9442-4080-a727-1cfd7c5093f5.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 633
+        }
+      ],
+      "Users": [],
+      "Id": 633,
+      "Title": "Sirf Tumhare Liye",
+      "Title_Urdu": "صرف تمہارے لئے",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4413326206024",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2019-10-03T17:30:47.987",
+      "PublishedYear": "2017",
+      "CreatedOn": "2019-10-03T17:30:49.843",
+      "ModifiedOn": "2019-10-03T17:30:49.843",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 795,
+          "Name": "Ataur Rahman Qasmi",
+          "Name_Urdu": "عطاء الرحمن قاسمی",
+          "Name_Hindi": "Ataur Rahman Qasmi Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 1,
+          "Name": "Poetry",
+          "Name_Urdu": "شاعری",
+          "Name_Hindi": "Poetry",
+          "ModifiedOn": "2017-08-24T13:13:50.2866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 573,
+          "FileName": "8682f2d6-5e4b-4f71-9c53-a76574d0dc21.epub",
+          "IsSample": false,
+          "Book_Id": 573
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 573,
+          "FileName": "8682f2d6-5e4b-4f71-9c53-a76574d0dc21.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 573
+        }
+      ],
+      "Users": [],
+      "Id": 573,
+      "Title": "Kulliyat-e-Majidi",
+      "Title_Urdu": "کلیات ماجدی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2077572869140",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2019-10-03T17:14:32.14",
+      "PublishedYear": "2017",
+      "CreatedOn": "2019-10-03T17:14:34.807",
+      "ModifiedOn": "2019-10-03T17:14:34.807",
+      "Volume": "4"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 758,
+          "Name": "Hasrat Mohani",
+          "Name_Urdu": "حسرت موہانی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 1,
+          "Name": "Poetry",
+          "Name_Urdu": "شاعری",
+          "Name_Hindi": "Poetry",
+          "ModifiedOn": "2017-08-24T13:13:50.2866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 537,
+          "FileName": "530f7045-951f-4294-be82-2bb56f9b2173.epub",
+          "IsSample": false,
+          "Book_Id": 537
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 537,
+          "FileName": "530f7045-951f-4294-be82-2bb56f9b2173.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 537
+        }
+      ],
+      "Users": [],
+      "Id": 537,
+      "Title": "Intekhab-e-Sukhan",
+      "Title_Urdu": "انتخاب سخن",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7590711488654",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2019-10-03T17:06:33.52",
+      "PublishedYear": "2016",
+      "CreatedOn": "2019-10-03T17:06:35.92",
+      "ModifiedOn": "2019-10-03T17:06:35.92",
+      "Volume": "1"
+    }
+  ],
+  "TotalBooksCount": 8,
+  "TotalPage": [
+    1
+  ]
+}

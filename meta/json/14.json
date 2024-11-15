@@ -1,0 +1,236 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3204,
+          "Name": "Ahmed Jawed",
+          "Name_Urdu": "احمد جاوید",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 14,
+          "Name": "Journalism",
+          "Name_Urdu": "صحافت",
+          "Name_Hindi": "Journalism",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2949,
+          "FileName": "1f6924f0-ffbe-4973-8d95-8938747c0949.epub",
+          "IsSample": false,
+          "Book_Id": 2949
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2949,
+          "FileName": "1f6924f0-ffbe-4973-8d95-8938747c0949.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2949
+        }
+      ],
+      "Users": [],
+      "Id": 2949,
+      "Title": "Mabadiyat-e- Sahafat wa Idarat",
+      "Title_Urdu": "مبادیات صحافت و ادارت",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8370184126083",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-03-20T09:56:29.567",
+      "PublishedYear": "",
+      "CreatedOn": "2024-03-20T09:56:30.207",
+      "ModifiedOn": "2024-03-20T09:56:30.207",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3164,
+          "Name": "Devendra Issar",
+          "Name_Urdu": "دیویندر اسر ",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 14,
+          "Name": "Journalism",
+          "Name_Urdu": "صحافت",
+          "Name_Hindi": "Journalism",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2925,
+          "FileName": "5d9ca304-addf-4942-b4a1-4b73851c5db9.epub",
+          "IsSample": false,
+          "Book_Id": 2925
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2925,
+          "FileName": "5d9ca304-addf-4942-b4a1-4b73851c5db9.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2925
+        }
+      ],
+      "Users": [],
+      "Id": 2925,
+      "Title": "Awami Zara-e- Iblgah, Taseer Aur Tameer-o-Tarraqi",
+      "Title_Urdu": "عوامی ذرائع ابلاغ، ترسیل اور تعمیر و ترقی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6739544961504",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-12-06T07:36:23.857",
+      "PublishedYear": "",
+      "CreatedOn": "2022-12-06T07:36:24.777",
+      "ModifiedOn": "2022-12-06T07:36:24.777",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3006,
+          "Name": "Syed Iqbal Qadri",
+          "Name_Urdu": "سیِد اقبال قادری",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 14,
+          "Name": "Journalism",
+          "Name_Urdu": "صحافت",
+          "Name_Hindi": "Journalism",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2780,
+          "FileName": "fef5ba39-7443-4b54-b6a8-475b1135de28.epub",
+          "IsSample": false,
+          "Book_Id": 2780
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2780,
+          "FileName": "fef5ba39-7443-4b54-b6a8-475b1135de28.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2780
+        }
+      ],
+      "Users": [],
+      "Id": 2780,
+      "Title": "Rahbar-e-Akhbar Navesi",
+      "Title_Urdu": "رہبرِ اخبار نویسی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1213270643184",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T12:09:17.367",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T12:09:17.93",
+      "ModifiedOn": "2021-12-01T12:09:17.93",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3005,
+          "Name": "Abdul Hai",
+          "Name_Urdu": "عبدالحئی",
+          "Name_Hindi": "Abdul Hai Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 14,
+          "Name": "Journalism",
+          "Name_Urdu": "صحافت",
+          "Name_Hindi": "Journalism",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2779,
+          "FileName": "6d164192-4ec8-4dd9-8c73-7d43489eba94.epub",
+          "IsSample": false,
+          "Book_Id": 2779
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2779,
+          "FileName": "6d164192-4ec8-4dd9-8c73-7d43489eba94.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2779
+        }
+      ],
+      "Users": [],
+      "Id": 2779,
+      "Title": "Adabi Sahafat Azadi Ke Baad",
+      "Title_Urdu": "ادبی صحافت آزادی کے بعد ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0075480104961",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T11:33:53.923",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-01T11:33:54.203",
+      "ModifiedOn": "2021-12-01T11:33:54.203",
+      "Volume": ""
+    }
+  ],
+  "TotalBooksCount": 4,
+  "TotalPage": [
+    1
+  ]
+}

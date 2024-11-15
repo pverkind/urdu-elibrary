@@ -1,0 +1,1661 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3215,
+          "Name": "Zafar Kamali",
+          "Name_Urdu": "ظفر کمالی",
+          "Name_Hindi": "जफर कमाली"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2956,
+          "FileName": "d88d39dc-1ae9-48db-8fbf-bc8fd30d972a.epub",
+          "IsSample": false,
+          "Book_Id": 2956
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2956,
+          "FileName": "d88d39dc-1ae9-48db-8fbf-bc8fd30d972a.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2956
+        }
+      ],
+      "Users": [],
+      "Id": 2956,
+      "Title": "Bachchon Ka Bagh",
+      "Title_Urdu": "بچوں کا باغ",
+      "Title_Hindi": "बच्चाो का बाग",
+      "Language": "Urdu",
+      "ISBN": "3268614910731",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "राषट्रीय उर्दू भाषा विकास परिषद्",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-08-05T09:54:35.6",
+      "PublishedYear": "",
+      "CreatedOn": "2024-08-05T09:54:36.053",
+      "ModifiedOn": "2024-08-05T09:54:36.053",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2947,
+          "Name": "Athar Parwez",
+          "Name_Urdu": "اطہر پرویز",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2721,
+          "FileName": "81fe13f7-503e-41d8-8296-0bd58b3b7312.epub",
+          "IsSample": false,
+          "Book_Id": 2721
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2721,
+          "FileName": "81fe13f7-503e-41d8-8296-0bd58b3b7312.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2721
+        }
+      ],
+      "Users": [],
+      "Id": 2721,
+      "Title": "Ek Din Ka Badshah",
+      "Title_Urdu": "ایک دن کا بادشاہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9870976732528",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T07:06:08.687",
+      "PublishedYear": "2010",
+      "CreatedOn": "2021-12-01T07:06:08.92",
+      "ModifiedOn": "2021-12-01T07:06:08.92",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2946,
+          "Name": "Ansar Ahmad Marufi",
+          "Name_Urdu": "انصار احمد معروفی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2720,
+          "FileName": "4adadb34-4a5a-4147-aa91-b4efa98af262.epub",
+          "IsSample": false,
+          "Book_Id": 2720
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2720,
+          "FileName": "4adadb34-4a5a-4147-aa91-b4efa98af262.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2720
+        }
+      ],
+      "Users": [],
+      "Id": 2720,
+      "Title": "Ye Zameen",
+      "Title_Urdu": "یہ زمین",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6134569653041",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T07:01:51.143",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-01T07:01:51.393",
+      "ModifiedOn": "2021-12-01T07:01:51.393",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2945,
+          "Name": "Ansar Ahmad Marufi",
+          "Name_Urdu": "انصار احمد معروفی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2719,
+          "FileName": "ab0a948d-f7fb-4d99-9511-d18a7ac9f97f.epub",
+          "IsSample": false,
+          "Book_Id": 2719
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2719,
+          "FileName": "ab0a948d-f7fb-4d99-9511-d18a7ac9f97f.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2719
+        }
+      ],
+      "Users": [],
+      "Id": 2719,
+      "Title": "Ye Ped Paudhe",
+      "Title_Urdu": "یہ پیڑ پودے",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "3871750031276",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T07:01:00.847",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-01T07:01:01.033",
+      "ModifiedOn": "2021-12-01T07:01:01.033",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2944,
+          "Name": "Ansar Ahmad Marufi",
+          "Name_Urdu": "انصار احمد معروفی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2718,
+          "FileName": "e6d243dc-8837-4e0b-b51c-81f781694b6f.epub",
+          "IsSample": false,
+          "Book_Id": 2718
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2718,
+          "FileName": "e6d243dc-8837-4e0b-b51c-81f781694b6f.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2718
+        }
+      ],
+      "Users": [],
+      "Id": 2718,
+      "Title": "Ye Mahine Aur Mausam",
+      "Title_Urdu": "یہ مہینے اور موسم",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1811330588343",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T07:00:10.807",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-01T07:00:11.023",
+      "ModifiedOn": "2021-12-01T07:00:11.023",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2943,
+          "Name": "Ansar Ahmad Marufi",
+          "Name_Urdu": "انصار احمد معروفی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2717,
+          "FileName": "8ae56b0f-399b-4003-8d59-f38e882cdf4e.epub",
+          "IsSample": false,
+          "Book_Id": 2717
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2717,
+          "FileName": "8ae56b0f-399b-4003-8d59-f38e882cdf4e.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2717
+        }
+      ],
+      "Users": [],
+      "Id": 2717,
+      "Title": "Ye Jism o Jaan",
+      "Title_Urdu": "یہ جسم و جان",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8889538941588",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T06:59:06.08",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-01T06:59:06.267",
+      "ModifiedOn": "2021-12-01T06:59:06.267",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2942,
+          "Name": "Ansar Ahmad Marufi",
+          "Name_Urdu": "انصار احمد معروفی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2716,
+          "FileName": "e2c739f2-f95b-4383-ac98-aac301ebff9f.epub",
+          "IsSample": false,
+          "Book_Id": 2716
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2716,
+          "FileName": "e2c739f2-f95b-4383-ac98-aac301ebff9f.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2716
+        }
+      ],
+      "Users": [],
+      "Id": 2716,
+      "Title": "Ye Badan Ke Hisse",
+      "Title_Urdu": "یہ بدن کے حصّے",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5390474722169",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T06:57:58.447",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-01T06:57:58.633",
+      "ModifiedOn": "2021-12-01T06:57:58.633",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2941,
+          "Name": "Ansar Ahmad Marufi",
+          "Name_Urdu": "انصار احمد معروفی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2715,
+          "FileName": "d7853994-ff4b-4047-83d9-bfc76050ebc8.epub",
+          "IsSample": false,
+          "Book_Id": 2715
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2715,
+          "FileName": "d7853994-ff4b-4047-83d9-bfc76050ebc8.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2715
+        }
+      ],
+      "Users": [],
+      "Id": 2715,
+      "Title": "Ye Aabo Hawa",
+      "Title_Urdu": "یہ آب و ہوا",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7939617806500",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T06:56:52.803",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-01T06:56:53.02",
+      "ModifiedOn": "2021-12-01T06:56:53.02",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2940,
+          "Name": "Quaisar Sarmast",
+          "Name_Urdu": "قیصر سرمست",
+          "Name_Hindi": "Quaisar Sarmast Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2714,
+          "FileName": "ea61c7f4-2cf8-4c7c-b469-efa5478c0f71.epub",
+          "IsSample": false,
+          "Book_Id": 2714
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2714,
+          "FileName": "ea61c7f4-2cf8-4c7c-b469-efa5478c0f71.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2714
+        }
+      ],
+      "Users": [],
+      "Id": 2714,
+      "Title": "Rengne Waley Jaanwar",
+      "Title_Urdu": "رینگنے والے جانور",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2069257561790",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T06:55:19.547",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-01T06:55:19.89",
+      "ModifiedOn": "2021-12-01T06:55:19.89",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2939,
+          "Name": "Kalathirani",
+          "Name_Urdu": "کلاتھیرانی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2713,
+          "FileName": "574ae6af-f0ed-4f87-bcd9-c5596b543b15.epub",
+          "IsSample": false,
+          "Book_Id": 2713
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2713,
+          "FileName": "574ae6af-f0ed-4f87-bcd9-c5596b543b15.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2713
+        }
+      ],
+      "Users": [],
+      "Id": 2713,
+      "Title": "Purbi Deson Ki Kahaniyan",
+      "Title_Urdu": "پوربی دیسوں کی کہانیاں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8803462204203",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T06:54:07.17",
+      "PublishedYear": "1988",
+      "CreatedOn": "2021-12-01T06:54:07.527",
+      "ModifiedOn": "2021-12-01T06:54:07.527",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2938,
+          "Name": "Shameem Ahmed",
+          "Name_Urdu": "شمیم احمد",
+          "Name_Hindi": "Shameem Ahmed_Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2712,
+          "FileName": "237ea0fa-4146-4921-b1ca-558097db5bf8.epub",
+          "IsSample": false,
+          "Book_Id": 2712
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2712,
+          "FileName": "237ea0fa-4146-4921-b1ca-558097db5bf8.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2712
+        }
+      ],
+      "Users": [],
+      "Id": 2712,
+      "Title": "Nauratan Kahaniyan",
+      "Title_Urdu": "نورتن کہانیاں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "3005179811940",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T06:53:00.547",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-01T06:53:00.827",
+      "ModifiedOn": "2021-12-01T06:53:00.827",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2937,
+          "Name": "Mohdammad Hafizuddin",
+          "Name_Urdu": "محمد حفیظ الدین",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2711,
+          "FileName": "0c0aa1e5-35c9-4b36-bf5f-aca81d37ed23.epub",
+          "IsSample": false,
+          "Book_Id": 2711
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2711,
+          "FileName": "0c0aa1e5-35c9-4b36-bf5f-aca81d37ed23.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2711
+        }
+      ],
+      "Users": [],
+      "Id": 2711,
+      "Title": "Maulana Rome Ki Kahaniyan",
+      "Title_Urdu": "مولانا روم کی کہانیاں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5854719593288",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T06:52:00.457",
+      "PublishedYear": "2008",
+      "CreatedOn": "2021-12-01T06:52:00.643",
+      "ModifiedOn": "2021-12-01T06:52:00.643",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2936,
+          "Name": "Anisul Hasan Siddiqui",
+          "Name_Urdu": "انیس الحسن صدیقی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2710,
+          "FileName": "950ada3a-b945-463e-9acb-2f3885a58181.epub",
+          "IsSample": false,
+          "Book_Id": 2710
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2710,
+          "FileName": "950ada3a-b945-463e-9acb-2f3885a58181.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2710
+        }
+      ],
+      "Users": [],
+      "Id": 2710,
+      "Title": "Khala Mein Hindustani Program ki JhalkiyaN",
+      "Title_Urdu": "خلا میں ہندوستانی پروگرام کی جھلکیاں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6331326132748",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T06:50:29.237",
+      "PublishedYear": "2018",
+      "CreatedOn": "2021-12-01T06:50:29.643",
+      "ModifiedOn": "2021-12-01T06:50:29.643",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2935,
+          "Name": "Zebun-nisa Begum",
+          "Name_Urdu": "زیب النساء بیگم",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2709,
+          "FileName": "6ae5322e-8425-4988-a01f-cd26270e7e60.epub",
+          "IsSample": false,
+          "Book_Id": 2709
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2709,
+          "FileName": "6ae5322e-8425-4988-a01f-cd26270e7e60.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2709
+        }
+      ],
+      "Users": [],
+      "Id": 2709,
+      "Title": "Iqbal Aur Bachchon Ka Adab",
+      "Title_Urdu": "اقبال اور بچوں کا ادب",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6267362757356",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T06:42:39.603",
+      "PublishedYear": "2006",
+      "CreatedOn": "2021-12-01T06:42:39.883",
+      "ModifiedOn": "2021-12-01T06:42:39.883",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2934,
+          "Name": "Faragh Rohvi",
+          "Name_Urdu": "فراغ روہوی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2708,
+          "FileName": "feea1ee0-889d-4570-8135-1a1932a28eff.epub",
+          "IsSample": false,
+          "Book_Id": 2708
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2708,
+          "FileName": "feea1ee0-889d-4570-8135-1a1932a28eff.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2708
+        }
+      ],
+      "Users": [],
+      "Id": 2708,
+      "Title": "Hamari Nazm",
+      "Title_Urdu": "ہماری نظم",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2172539079728",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T06:41:02.82",
+      "PublishedYear": "0000",
+      "CreatedOn": "2021-12-01T06:41:02.93",
+      "ModifiedOn": "2021-12-01T06:41:02.93",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2933,
+          "Name": "Sualeha Abid Husain",
+          "Name_Urdu": "صالحہ عابد حسین",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2707,
+          "FileName": "54660fec-ea3f-40cd-bf33-db78936dc09b.epub",
+          "IsSample": false,
+          "Book_Id": 2707
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2707,
+          "FileName": "54660fec-ea3f-40cd-bf33-db78936dc09b.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2707
+        }
+      ],
+      "Users": [],
+      "Id": 2707,
+      "Title": "Hali",
+      "Title_Urdu": "حالی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6048251888459",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T06:40:03.577",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T06:40:03.903",
+      "ModifiedOn": "2021-12-01T06:40:03.903",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2932,
+          "Name": "Mohd. Khaleel",
+          "Name_Urdu": "محمد خلیل",
+          "Name_Hindi": "Mohd. Khaleel Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2706,
+          "FileName": "bd331dc2-86dd-4e9f-ae0a-35957ffb09e9.epub",
+          "IsSample": false,
+          "Book_Id": 2706
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2706,
+          "FileName": "bd331dc2-86dd-4e9f-ae0a-35957ffb09e9.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2706
+        }
+      ],
+      "Users": [],
+      "Id": 2706,
+      "Title": "Haiwanat Ki Dilchasp Duniya",
+      "Title_Urdu": "حیوانات کی دلچسپ دنیا",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4752899689363",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T06:37:42.44",
+      "PublishedYear": "2014",
+      "CreatedOn": "2021-12-01T06:37:42.767",
+      "ModifiedOn": "2021-12-01T06:37:42.767",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2931,
+          "Name": "Anisul Hasan Siddiqui",
+          "Name_Urdu": "انیس الحسن صدیقی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2705,
+          "FileName": "8b79e8e7-08b1-45e0-a3c6-bf09e2d3348b.epub",
+          "IsSample": false,
+          "Book_Id": 2705
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2705,
+          "FileName": "8b79e8e7-08b1-45e0-a3c6-bf09e2d3348b.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2705
+        }
+      ],
+      "Users": [],
+      "Id": 2705,
+      "Title": "Falkiyati Basta",
+      "Title_Urdu": " فلکیاتی بستہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "3362884925412",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T06:35:47.58",
+      "PublishedYear": "2018",
+      "CreatedOn": "2021-12-01T06:35:48.703",
+      "ModifiedOn": "2021-12-01T06:35:48.703",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2930,
+          "Name": "Abdul Wadood Ansari",
+          "Name_Urdu": "عبدالودود انصاری",
+          "Name_Hindi": "Abdul Wadood Ansari Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2704,
+          "FileName": "f69977f7-1893-4ea8-92b6-13249839b93c.epub",
+          "IsSample": false,
+          "Book_Id": 2704
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2704,
+          "FileName": "f69977f7-1893-4ea8-92b6-13249839b93c.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2704
+        }
+      ],
+      "Users": [],
+      "Id": 2704,
+      "Title": "Baton Baton Mein Science",
+      "Title_Urdu": "باتوں باتوں میں سائنس",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2793132027525",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-11-30T14:55:35.083",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-11-30T14:55:35.253",
+      "ModifiedOn": "2021-11-30T14:55:35.253",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2929,
+          "Name": "Ahrar Husain",
+          "Name_Urdu": "احرار حسین",
+          "Name_Hindi": "Ahrar Husain Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2703,
+          "FileName": "fb7a4b0b-3c83-475f-b6dd-33ab7af1c5b5.epub",
+          "IsSample": false,
+          "Book_Id": 2703
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2703,
+          "FileName": "fb7a4b0b-3c83-475f-b6dd-33ab7af1c5b5.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2703
+        }
+      ],
+      "Users": [],
+      "Id": 2703,
+      "Title": "Azeem Sciencedan",
+      "Title_Urdu": "عظیم سائنسداں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2756977499692",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-11-30T14:54:34.343",
+      "PublishedYear": "201ً6",
+      "CreatedOn": "2021-11-30T14:54:34.653",
+      "ModifiedOn": "2021-11-30T14:54:34.653",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2928,
+          "Name": "Mohdammad Shamsul Haq",
+          "Name_Urdu": "محمد شمس الحق",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2702,
+          "FileName": "47abc66a-c9b1-43fe-af74-43c97cb5d725.epub",
+          "IsSample": false,
+          "Book_Id": 2702
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2702,
+          "FileName": "47abc66a-c9b1-43fe-af74-43c97cb5d725.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2702
+        }
+      ],
+      "Users": [],
+      "Id": 2702,
+      "Title": "Aao Samander Ki Sair Karein",
+      "Title_Urdu": "آؤ سمندر کی سیر کریں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "3626291573536",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-11-30T14:53:33.007",
+      "PublishedYear": "2008",
+      "CreatedOn": "2021-11-30T14:53:34.04",
+      "ModifiedOn": "2021-11-30T14:53:34.04",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2927,
+          "Name": "Shabnam Kamali",
+          "Name_Urdu": "شبنم کمالی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2701,
+          "FileName": "4efcbd73-95ea-4ef5-a3d1-24dd2fbea414.epub",
+          "IsSample": false,
+          "Book_Id": 2701
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2701,
+          "FileName": "4efcbd73-95ea-4ef5-a3d1-24dd2fbea414.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2701
+        }
+      ],
+      "Users": [],
+      "Id": 2701,
+      "Title": "Aao Geet Gaaen",
+      "Title_Urdu": "آؤ گیت گائیں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5201924582639",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-11-30T14:52:10.98",
+      "PublishedYear": "",
+      "CreatedOn": "2021-11-30T14:52:11.167",
+      "ModifiedOn": "2021-11-30T14:52:11.167",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2926,
+          "Name": "Azhar Afsar",
+          "Name_Urdu": "اظہر افسر",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2700,
+          "FileName": "b441d45d-5a29-44ba-8f1f-bb4ed27e77bd.epub",
+          "IsSample": false,
+          "Book_Id": 2700
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2700,
+          "FileName": "b441d45d-5a29-44ba-8f1f-bb4ed27e77bd.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2700
+        }
+      ],
+      "Users": [],
+      "Id": 2700,
+      "Title": "Bachchon Ke Drame",
+      "Title_Urdu": "بچوں کے ڈرامے",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4720585359533",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-11-30T12:32:32.26",
+      "PublishedYear": "2012",
+      "CreatedOn": "2021-11-30T12:32:32.4",
+      "ModifiedOn": "2021-11-30T12:32:32.4",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2925,
+          "Name": "Athar Parwez",
+          "Name_Urdu": "اطہر پرویز",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2699,
+          "FileName": "8120b2ed-49bc-42ab-aaee-68929624a241.epub",
+          "IsSample": false,
+          "Book_Id": 2699
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2699,
+          "FileName": "8120b2ed-49bc-42ab-aaee-68929624a241.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2699
+        }
+      ],
+      "Users": [],
+      "Id": 2699,
+      "Title": "Ek Nai Aur Rangsaaz Ka Qissa",
+      "Title_Urdu": "ایک نائی اور رنگساز کا قصّہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4219736270321",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-11-30T12:32:20.457",
+      "PublishedYear": "2010",
+      "CreatedOn": "2021-11-30T12:32:20.563",
+      "ModifiedOn": "2021-11-30T12:32:20.563",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2924,
+          "Name": "Firoz Bakht Ahmad",
+          "Name_Urdu": "فیروز بخت احمد",
+          "Name_Hindi": "Firoz Bakht Ahmad Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2698,
+          "FileName": "20ed7847-35da-4231-bb4c-80d157a632ef.epub",
+          "IsSample": false,
+          "Book_Id": 2698
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2698,
+          "FileName": "20ed7847-35da-4231-bb4c-80d157a632ef.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2698
+        }
+      ],
+      "Users": [],
+      "Id": 2698,
+      "Title": "Hanso Aur Hansao",
+      "Title_Urdu": "ہنسو اور ہنساؤ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1417310821362",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-11-30T12:23:22.957",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-11-30T12:23:23.097",
+      "ModifiedOn": "2021-11-30T12:23:23.097",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2923,
+          "Name": "Idrees Siddique",
+          "Name_Urdu": "ادریس صدیقی",
+          "Name_Hindi": "Idrees Siddique Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2697,
+          "FileName": "e5da9735-0e79-4d0f-9947-721aed416afb.epub",
+          "IsSample": false,
+          "Book_Id": 2697
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2697,
+          "FileName": "e5da9735-0e79-4d0f-9947-721aed416afb.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2697
+        }
+      ],
+      "Users": [],
+      "Id": 2697,
+      "Title": "Zameeni Aloodgi Per Mabni Kahaniyan",
+      "Title_Urdu": "زمینی آلودگی پر مبنی کہانیاں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0543258881375",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-11-30T12:23:11.37",
+      "PublishedYear": "201ً6",
+      "CreatedOn": "2021-11-30T12:23:11.51",
+      "ModifiedOn": "2021-11-30T12:23:11.51",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2922,
+          "Name": "Dr. Nasreen Ramzan Sayyed",
+          "Name_Urdu": "ڈاکٹر نسرین رمضان سیّد",
+          "Name_Hindi": "Dr. Nasreen Ramzan Sayyed Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2696,
+          "FileName": "01fcb7ed-0809-4656-8b5a-9f2215178d60.epub",
+          "IsSample": false,
+          "Book_Id": 2696
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2696,
+          "FileName": "01fcb7ed-0809-4656-8b5a-9f2215178d60.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2696
+        }
+      ],
+      "Users": [],
+      "Id": 2696,
+      "Title": "Lakeer Ka Faqueer",
+      "Title_Urdu": "لکیر کا فقیر",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0731249501350",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-11-30T12:21:35.71",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-11-30T12:21:35.897",
+      "ModifiedOn": "2021-11-30T12:21:35.897",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2921,
+          "Name": "Raziya Tahseen",
+          "Name_Urdu": "رضیہ تحسین",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2695,
+          "FileName": "23f2c227-36ec-4938-9672-0795604a10c4.epub",
+          "IsSample": false,
+          "Book_Id": 2695
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2695,
+          "FileName": "23f2c227-36ec-4938-9672-0795604a10c4.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2695
+        }
+      ],
+      "Users": [],
+      "Id": 2695,
+      "Title": "Shikari Shikar Aur Jangal Se Piyar",
+      "Title_Urdu": "شکاری شکار اور جنگل سے پیار",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6780752764782",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-11-30T12:21:14.997",
+      "PublishedYear": "2012",
+      "CreatedOn": "2021-11-30T12:21:15.233",
+      "ModifiedOn": "2021-11-30T12:21:15.233",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2920,
+          "Name": "Aziz Ansari",
+          "Name_Urdu": "عزیز انصاری",
+          "Name_Hindi": "Aziz Ansari Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 28,
+          "Name": "Children Literature",
+          "Name_Urdu": " بچوں کا ادب",
+          "Name_Hindi": "Children Literature",
+          "ModifiedOn": "2021-11-30T12:08:38.7533333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2694,
+          "FileName": "5d97a73c-dc80-4273-b8c4-ddd35b35b527.epub",
+          "IsSample": false,
+          "Book_Id": 2694
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2694,
+          "FileName": "5d97a73c-dc80-4273-b8c4-ddd35b35b527.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2694
+        }
+      ],
+      "Users": [],
+      "Id": 2694,
+      "Title": "Titli Taare Phool",
+      "Title_Urdu": "تتلی تارے پھول",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1333045089772",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-11-30T12:14:06.053",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-11-30T12:14:06.433",
+      "ModifiedOn": "2021-11-30T12:14:06.433",
+      "Volume": ""
+    }
+  ],
+  "TotalBooksCount": 29,
+  "TotalPage": [
+    1
+  ]
+}

@@ -1,0 +1,863 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3178,
+          "Name": "Hakim Fakhre Alam",
+          "Name_Urdu": "حکیم فخرعالم",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 20,
+          "Name": "Medicine and Therapies",
+          "Name_Urdu": "طب ومعالجات",
+          "Name_Hindi": "Medicine and Therapies",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2933,
+          "FileName": "c03a4359-fb55-4b81-9ab0-3f4ef09b9b4b.epub",
+          "IsSample": false,
+          "Book_Id": 2933
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2933,
+          "FileName": "c03a4359-fb55-4b81-9ab0-3f4ef09b9b4b.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2933
+        }
+      ],
+      "Users": [],
+      "Id": 2933,
+      "Title": "Tibbi Akhlaqiyat",
+      "Title_Urdu": "طبی اخلاقیات",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4364945288087",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2023-09-18T09:21:46.827",
+      "PublishedYear": "",
+      "CreatedOn": "2023-09-18T09:21:47.643",
+      "ModifiedOn": "2023-09-18T09:21:47.643",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3090,
+          "Name": "Dr. Husain Faruqi",
+          "Name_Urdu": "ڈاکٹر حسین فاروقی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 20,
+          "Name": "Medicine and Therapies",
+          "Name_Urdu": "طب ومعالجات",
+          "Name_Hindi": "Medicine and Therapies",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2864,
+          "FileName": "c71e37d3-9bda-42a0-b872-04cb8d920c3f.epub",
+          "IsSample": false,
+          "Book_Id": 2864
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2864,
+          "FileName": "c71e37d3-9bda-42a0-b872-04cb8d920c3f.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2864
+        }
+      ],
+      "Users": [],
+      "Id": 2864,
+      "Title": "Chand Aam Bemariyan",
+      "Title_Urdu": "چند عام بیماریاں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1775813007892",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:19:44.53",
+      "PublishedYear": "2002",
+      "CreatedOn": "2021-12-10T11:19:44.89",
+      "ModifiedOn": "2021-12-10T11:19:44.89",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3085,
+          "Name": "Syed Kamaluddin Hussain Hamdani",
+          "Name_Urdu": "سیّد کمال الدین حسین ہمدانی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 20,
+          "Name": "Medicine and Therapies",
+          "Name_Urdu": "طب ومعالجات",
+          "Name_Hindi": "Medicine and Therapies",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2859,
+          "FileName": "889237e1-3856-4b64-86d7-45d3167b4f71.epub",
+          "IsSample": false,
+          "Book_Id": 2859
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2859,
+          "FileName": "889237e1-3856-4b64-86d7-45d3167b4f71.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2859
+        }
+      ],
+      "Users": [],
+      "Id": 2859,
+      "Title": "Usool-e-Tib",
+      "Title_Urdu": "اصولِ طب",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5005918017351",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:13:01.73",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-10T11:13:02.12",
+      "ModifiedOn": "2021-12-10T11:13:02.12",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3082,
+          "Name": "H S Mohd. Hassan Nigrami",
+          "Name_Urdu": "حکیم سیّد محمد حسان نگرامی",
+          "Name_Hindi": "H S Mohd. Hassan Nigrami Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 20,
+          "Name": "Medicine and Therapies",
+          "Name_Urdu": "طب ومعالجات",
+          "Name_Hindi": "Medicine and Therapies",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2856,
+          "FileName": "bcfdb471-cd6d-4024-93cc-3f333c53901d.epub",
+          "IsSample": false,
+          "Book_Id": 2856
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2856,
+          "FileName": "bcfdb471-cd6d-4024-93cc-3f333c53901d.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2856
+        }
+      ],
+      "Users": [],
+      "Id": 2856,
+      "Title": "Tareekh-e-Tib",
+      "Title_Urdu": "تاریخِ طب",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9693579992754",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T10:24:09.28",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-10T10:24:09.733",
+      "ModifiedOn": "2021-12-10T10:24:09.733",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3081,
+          "Name": "Hakeem Syed Mohd. Hassan Nigrami",
+          "Name_Urdu": "حکیم سیّد محمد حسان نگرامی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 20,
+          "Name": "Medicine and Therapies",
+          "Name_Urdu": "طب ومعالجات",
+          "Name_Hindi": "Medicine and Therapies",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2855,
+          "FileName": "add0ac6f-7e5e-4544-9164-545bacea4b59.epub",
+          "IsSample": false,
+          "Book_Id": 2855
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2855,
+          "FileName": "add0ac6f-7e5e-4544-9164-545bacea4b59.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2855
+        }
+      ],
+      "Users": [],
+      "Id": 2855,
+      "Title": "Tareekh-e-Ilmul Adviya",
+      "Title_Urdu": "تاریخ علم الادویّہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4135483539183",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T10:23:40.947",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-10T10:23:41.903",
+      "ModifiedOn": "2021-12-10T10:23:41.903",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3078,
+          "Name": "Editorial Board",
+          "Name_Urdu": "ادارتی بورڈ",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 20,
+          "Name": "Medicine and Therapies",
+          "Name_Urdu": "طب ومعالجات",
+          "Name_Hindi": "Medicine and Therapies",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2852,
+          "FileName": "9888564a-9e95-4f4d-97b4-a39ae5205813.epub",
+          "IsSample": false,
+          "Book_Id": 2852
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2852,
+          "FileName": "9888564a-9e95-4f4d-97b4-a39ae5205813.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2852
+        }
+      ],
+      "Users": [],
+      "Id": 2852,
+      "Title": "Munafeul Aaza",
+      "Title_Urdu": "منافع الاعضاء",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1407245182186",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T10:20:04.59",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-10T10:20:05.213",
+      "ModifiedOn": "2021-12-10T10:20:05.213",
+      "Volume": "3"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3077,
+          "Name": "Editorial Board",
+          "Name_Urdu": "ادارتی بورڈ",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 20,
+          "Name": "Medicine and Therapies",
+          "Name_Urdu": "طب ومعالجات",
+          "Name_Hindi": "Medicine and Therapies",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2851,
+          "FileName": "448c55dd-ac60-492a-afc0-abc9a094230f.epub",
+          "IsSample": false,
+          "Book_Id": 2851
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2851,
+          "FileName": "448c55dd-ac60-492a-afc0-abc9a094230f.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2851
+        }
+      ],
+      "Users": [],
+      "Id": 2851,
+      "Title": "Munafeul Aaza",
+      "Title_Urdu": "منافع الاعضاء",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5267299694027",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T10:18:36.423",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-10T10:18:36.813",
+      "ModifiedOn": "2021-12-10T10:18:36.813",
+      "Volume": "2"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3076,
+          "Name": "Editorial Board",
+          "Name_Urdu": "ادارتی بورڈ",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 20,
+          "Name": "Medicine and Therapies",
+          "Name_Urdu": "طب ومعالجات",
+          "Name_Hindi": "Medicine and Therapies",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2850,
+          "FileName": "489e5487-6dbd-4194-86ca-53c8dc5ce704.epub",
+          "IsSample": false,
+          "Book_Id": 2850
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2850,
+          "FileName": "489e5487-6dbd-4194-86ca-53c8dc5ce704.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2850
+        }
+      ],
+      "Users": [],
+      "Id": 2850,
+      "Title": "Munafeul Aaza",
+      "Title_Urdu": "منافع الاعضاء",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9914866004313",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T10:17:32.333",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-10T10:17:33.02",
+      "ModifiedOn": "2021-12-10T10:17:33.02",
+      "Volume": "1"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3075,
+          "Name": "Wasim Ahmad Azmi",
+          "Name_Urdu": "وسیم احمد اعظمی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 20,
+          "Name": "Medicine and Therapies",
+          "Name_Urdu": "طب ومعالجات",
+          "Name_Hindi": "Medicine and Therapies",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2849,
+          "FileName": "e95803fb-a6fc-4c6a-b7cb-0057ec472b36.epub",
+          "IsSample": false,
+          "Book_Id": 2849
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2849,
+          "FileName": "e95803fb-a6fc-4c6a-b7cb-0057ec472b36.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2849
+        }
+      ],
+      "Users": [],
+      "Id": 2849,
+      "Title": "Moalijat",
+      "Title_Urdu": "معالجات",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "3324874309633",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T10:16:00.827",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-10T10:16:01.28",
+      "ModifiedOn": "2021-12-10T10:16:01.28",
+      "Volume": "3"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3074,
+          "Name": "Wasim Ahmad Azmi",
+          "Name_Urdu": "وسیم احمد اعظمی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 20,
+          "Name": "Medicine and Therapies",
+          "Name_Urdu": "طب ومعالجات",
+          "Name_Hindi": "Medicine and Therapies",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2848,
+          "FileName": "0fed849e-a8a2-4bbf-b10e-e1436706370e.epub",
+          "IsSample": false,
+          "Book_Id": 2848
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2848,
+          "FileName": "0fed849e-a8a2-4bbf-b10e-e1436706370e.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2848
+        }
+      ],
+      "Users": [],
+      "Id": 2848,
+      "Title": "Moalijat",
+      "Title_Urdu": "معالجات",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9558842514880",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T10:15:20.073",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-10T10:15:20.573",
+      "ModifiedOn": "2021-12-10T10:15:20.573",
+      "Volume": "4"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3073,
+          "Name": "Hakeem Mohammad Akbar",
+          "Name_Urdu": "حکیم محمد اکبر",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 20,
+          "Name": "Medicine and Therapies",
+          "Name_Urdu": "طب ومعالجات",
+          "Name_Hindi": "Medicine and Therapies",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2847,
+          "FileName": "c51b4b98-4978-46b5-9aa8-6c5f90a65ee8.epub",
+          "IsSample": false,
+          "Book_Id": 2847
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2847,
+          "FileName": "c51b4b98-4978-46b5-9aa8-6c5f90a65ee8.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2847
+        }
+      ],
+      "Users": [],
+      "Id": 2847,
+      "Title": "Meezanut Tib",
+      "Title_Urdu": "میزان الطّب",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5075033203172",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T07:25:31.293",
+      "PublishedYear": "",
+      "CreatedOn": "2021-12-10T07:25:31.57",
+      "ModifiedOn": "2021-12-10T07:25:31.57",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3068,
+          "Name": "Dr. Abdul Moiz Shams",
+          "Name_Urdu": "ڈاکٹر عبدالمعزّ شمس",
+          "Name_Hindi": "Dr. Abdul Moiz Shams Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 20,
+          "Name": "Medicine and Therapies",
+          "Name_Urdu": "طب ومعالجات",
+          "Name_Hindi": "Medicine and Therapies",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2842,
+          "FileName": "5233208c-5576-4b77-95ac-753b0142b62f.epub",
+          "IsSample": false,
+          "Book_Id": 2842
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2842,
+          "FileName": "5233208c-5576-4b77-95ac-753b0142b62f.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2842
+        }
+      ],
+      "Users": [],
+      "Id": 2842,
+      "Title": "Jism Bejaan",
+      "Title_Urdu": "جسم بے جان",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0341183061554",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T07:17:15.613",
+      "PublishedYear": "2014",
+      "CreatedOn": "2021-12-10T07:17:15.877",
+      "ModifiedOn": "2021-12-10T07:17:15.877",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3067,
+          "Name": "Dr. Javed Ahmed Saeedi Kamatvi",
+          "Name_Urdu": "ڈاکٹر جاوید احمد سعیدی کامٹوی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 20,
+          "Name": "Medicine and Therapies",
+          "Name_Urdu": "طب ومعالجات",
+          "Name_Hindi": "Medicine and Therapies",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2841,
+          "FileName": "c37984b1-17c9-4efc-80e3-7f7e5fed188c.epub",
+          "IsSample": false,
+          "Book_Id": 2841
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2841,
+          "FileName": "c37984b1-17c9-4efc-80e3-7f7e5fed188c.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2841
+        }
+      ],
+      "Users": [],
+      "Id": 2841,
+      "Title": "Hamara Tarze Zindagi Aur Bimaryan",
+      "Title_Urdu": "ہمارا طرزِ زندگی اور بیماریاں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0554274537880",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T06:44:23.2",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-10T06:44:23.513",
+      "ModifiedOn": "2021-12-10T06:44:23.513",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3046,
+          "Name": "Hakeem Hafiz Syed Habibur Rahman",
+          "Name_Urdu": "حکیم حافظ سیّد حبیب الرحمن",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 20,
+          "Name": "Medicine and Therapies",
+          "Name_Urdu": "طب ومعالجات",
+          "Name_Hindi": "Medicine and Therapies",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2820,
+          "FileName": "2822f594-cf5b-4666-b291-92a8371e94a6.epub",
+          "IsSample": false,
+          "Book_Id": 2820
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2820,
+          "FileName": "2822f594-cf5b-4666-b291-92a8371e94a6.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2820
+        }
+      ],
+      "Users": [],
+      "Id": 2820,
+      "Title": "Hindustan Ke Mashhoor Atibba",
+      "Title_Urdu": "ہندوستان کے مشہور اطبّا",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6881015412349",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T10:03:18.503",
+      "PublishedYear": "2014",
+      "CreatedOn": "2021-12-09T10:03:18.8",
+      "ModifiedOn": "2021-12-09T10:03:18.8",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3039,
+          "Name": "Mohammad Bin Zakariya Razi",
+          "Name_Urdu": "محمد بن زکریا رازی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 20,
+          "Name": "Medicine and Therapies",
+          "Name_Urdu": "طب ومعالجات",
+          "Name_Hindi": "Medicine and Therapies",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2813,
+          "FileName": "a38f252a-9b0d-4a0a-b0d4-2874002390bb.epub",
+          "IsSample": false,
+          "Book_Id": 2813
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2813,
+          "FileName": "a38f252a-9b0d-4a0a-b0d4-2874002390bb.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2813
+        }
+      ],
+      "Users": [],
+      "Id": 2813,
+      "Title": "Kitabul Murshid",
+      "Title_Urdu": "کتاب المرشد",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5429857898131",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T07:00:22.287",
+      "PublishedYear": "2000",
+      "CreatedOn": "2021-12-09T07:00:22.537",
+      "ModifiedOn": "2021-12-09T07:00:22.537",
+      "Volume": ""
+    }
+  ],
+  "TotalBooksCount": 15,
+  "TotalPage": [
+    1
+  ]
+}

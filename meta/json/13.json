@@ -1,0 +1,2060 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3201,
+          "Name": "Alif Nazim",
+          "Name_Urdu": "الف ناظم",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2947,
+          "FileName": "51ce6d9e-9a41-4db6-8396-c09fc710a967.epub",
+          "IsSample": false,
+          "Book_Id": 2947
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2947,
+          "FileName": "51ce6d9e-9a41-4db6-8396-c09fc710a967.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2947
+        }
+      ],
+      "Users": [],
+      "Id": 2947,
+      "Title": "Pandit Badri Nath Sudarshan",
+      "Title_Urdu": "پنڈت بدری ناتھ سدرشن",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7775373223876",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-03-18T05:49:24.143",
+      "PublishedYear": "",
+      "CreatedOn": "2024-03-18T05:49:25.473",
+      "ModifiedOn": "2024-03-18T05:49:25.473",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3191,
+          "Name": "Zafar Mahmood",
+          "Name_Urdu": "ظفر محمود",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2941,
+          "FileName": "cebb04e1-c534-47de-a489-0d055a464855.epub",
+          "IsSample": false,
+          "Book_Id": 2941
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2941,
+          "FileName": "cebb04e1-c534-47de-a489-0d055a464855.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2941
+        }
+      ],
+      "Users": [],
+      "Id": 2941,
+      "Title": "Josh Malihabadi",
+      "Title_Urdu": "جوش ملیح آبادی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0472907356069",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-03-11T05:44:28.717",
+      "PublishedYear": "",
+      "CreatedOn": "2024-03-11T05:44:29.267",
+      "ModifiedOn": "2024-03-11T05:44:29.267",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3189,
+          "Name": "Misbah Ahmed Siddiqi",
+          "Name_Urdu": "مصباح احمد صدیقی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2940,
+          "FileName": "8e29daaa-68ca-4005-80d1-99ff3d45d279.epub",
+          "IsSample": false,
+          "Book_Id": 2940
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2940,
+          "FileName": "8e29daaa-68ca-4005-80d1-99ff3d45d279.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2940
+        }
+      ],
+      "Users": [],
+      "Id": 2940,
+      "Title": "Tazkira-e-Shora-e- Rampur",
+      "Title_Urdu": "تذکرہ شعرائے رامپور",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8386499645038",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-03-08T06:01:06.973",
+      "PublishedYear": "",
+      "CreatedOn": "2024-03-08T06:01:08.177",
+      "ModifiedOn": "2024-03-08T06:01:08.177",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3113,
+          "Name": "Gholam Husain Shorish",
+          "Name_Urdu": "غلام حسین شورش",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2885,
+          "FileName": "88198609-6425-42f3-8a93-56ed8591f53d.epub",
+          "IsSample": false,
+          "Book_Id": 2885
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2885,
+          "FileName": "88198609-6425-42f3-8a93-56ed8591f53d.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2885
+        }
+      ],
+      "Users": [],
+      "Id": 2885,
+      "Title": "Tazkera-e-Shorish",
+      "Title_Urdu": "تذکرۂ شورش",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1871982081293",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-14T07:29:11.97",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-14T07:29:12.627",
+      "ModifiedOn": "2021-12-14T07:29:12.627",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2979,
+          "Name": "Jameel Akhtar",
+          "Name_Urdu": "جمیل اختر",
+          "Name_Hindi": "Jameel Akhtar Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2753,
+          "FileName": "2e3d7e9c-c748-44ff-a8ac-bd98526fff33.epub",
+          "IsSample": false,
+          "Book_Id": 2753
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2753,
+          "FileName": "2e3d7e9c-c748-44ff-a8ac-bd98526fff33.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2753
+        }
+      ],
+      "Users": [],
+      "Id": 2753,
+      "Title": "Zindagi Namah",
+      "Title_Urdu": "زندگی نامہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1239064817878",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:19:02.857",
+      "PublishedYear": "2014",
+      "CreatedOn": "2021-12-01T10:19:03.39",
+      "ModifiedOn": "2021-12-01T10:19:03.39",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2978,
+          "Name": "Hasan Musanna",
+          "Name_Urdu": "حسن مثنیٰ",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2752,
+          "FileName": "c6ce5d3a-2e52-4293-92eb-7359c19a6911.epub",
+          "IsSample": false,
+          "Book_Id": 2752
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2752,
+          "FileName": "c6ce5d3a-2e52-4293-92eb-7359c19a6911.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2752
+        }
+      ],
+      "Users": [],
+      "Id": 2752,
+      "Title": "Yaas Yagana Changezee",
+      "Title_Urdu": "یاس یگانہ چنگیزی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9294949905677",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:17:06.46",
+      "PublishedYear": "201ً6",
+      "CreatedOn": "2021-12-01T10:17:06.69",
+      "ModifiedOn": "2021-12-01T10:17:06.69",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2977,
+          "Name": "Kaleem Hazique",
+          "Name_Urdu": "کلیم حاذق",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2751,
+          "FileName": "2c079c32-625e-4483-9ac8-93133e4e517d.epub",
+          "IsSample": false,
+          "Book_Id": 2751
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2751,
+          "FileName": "2c079c32-625e-4483-9ac8-93133e4e517d.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2751
+        }
+      ],
+      "Users": [],
+      "Id": 2751,
+      "Title": "Wehshat Kalkatvi",
+      "Title_Urdu": "وحشت کلکتوی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4836733599808",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:14:46.783",
+      "PublishedYear": "201ً6",
+      "CreatedOn": "2021-12-01T10:14:47",
+      "ModifiedOn": "2021-12-01T10:14:47",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2976,
+          "Name": "Mohd. Shahid Husain",
+          "Name_Urdu": "محمد شاہد حسین",
+          "Name_Hindi": "Mohd. Shahid Husain Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2750,
+          "FileName": "73f3c411-b109-405f-9265-3c666fc6001e.epub",
+          "IsSample": false,
+          "Book_Id": 2750
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2750,
+          "FileName": "73f3c411-b109-405f-9265-3c666fc6001e.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2750
+        }
+      ],
+      "Users": [],
+      "Id": 2750,
+      "Title": "Syed Imtiyaz Ali Taj",
+      "Title_Urdu": "سیّد امتیاز علی تاج",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5802080485822",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:13:34.71",
+      "PublishedYear": "201ٓ7",
+      "CreatedOn": "2021-12-01T10:13:34.96",
+      "ModifiedOn": "2021-12-01T10:13:34.96",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2975,
+          "Name": "Dr. Alif Nazim",
+          "Name_Urdu": "ڈاکٹر الف ناظم ",
+          "Name_Hindi": "Dr. Alif Nazim Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2749,
+          "FileName": "039a1b17-5e8f-48f6-9770-c449af3d86e3.epub",
+          "IsSample": false,
+          "Book_Id": 2749
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2749,
+          "FileName": "039a1b17-5e8f-48f6-9770-c449af3d86e3.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2749
+        }
+      ],
+      "Users": [],
+      "Id": 2749,
+      "Title": "Suroor Jahanabadi Aur Akseer-e-Sukhan",
+      "Title_Urdu": "سرور جہان آبادی اور اکسیرِ سخن",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5801615794951",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:11:34.39",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-01T10:11:34.78",
+      "ModifiedOn": "2021-12-01T10:11:34.78",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2974,
+          "Name": "Dr. Syed Yahya Nasheet",
+          "Name_Urdu": "ڈاکٹر سیّد یحییٰ نشیط",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2748,
+          "FileName": "5f7213bd-7926-4be0-888d-267c39585292.epub",
+          "IsSample": false,
+          "Book_Id": 2748
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2748,
+          "FileName": "5f7213bd-7926-4be0-888d-267c39585292.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2748
+        }
+      ],
+      "Users": [],
+      "Id": 2748,
+      "Title": "Siraj Aurangabadi",
+      "Title_Urdu": "سراج اورنگ آبادی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5860091172490",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:06:35.253",
+      "PublishedYear": "201ً6",
+      "CreatedOn": "2021-12-01T10:06:35.457",
+      "ModifiedOn": "2021-12-01T10:06:35.457",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2973,
+          "Name": "Tabish Mehdi",
+          "Name_Urdu": "تابش مہدی",
+          "Name_Hindi": "Tabish Mehdi Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2747,
+          "FileName": "919588c8-02c9-48dc-aeab-897c1df71bcb.epub",
+          "IsSample": false,
+          "Book_Id": 2747
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2747,
+          "FileName": "919588c8-02c9-48dc-aeab-897c1df71bcb.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2747
+        }
+      ],
+      "Users": [],
+      "Id": 2747,
+      "Title": "Shafiq Jaunpuri",
+      "Title_Urdu": "شفیق جونپوری",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0726323682598",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:05:18.663",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T10:05:18.817",
+      "ModifiedOn": "2021-12-01T10:05:18.817",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2972,
+          "Name": "Muzaffar Hanfi",
+          "Name_Urdu": "مظفر حنفی",
+          "Name_Hindi": "Muzaffar Hanfi Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2746,
+          "FileName": "4002c6cd-c74b-40dc-b15f-7d9a62c31767.epub",
+          "IsSample": false,
+          "Book_Id": 2746
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2746,
+          "FileName": "4002c6cd-c74b-40dc-b15f-7d9a62c31767.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2746
+        }
+      ],
+      "Users": [],
+      "Id": 2746,
+      "Title": "Shaad Arfi",
+      "Title_Urdu": "شاد عافی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5824816670706",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T09:59:22.143",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T09:59:22.317",
+      "ModifiedOn": "2021-12-01T09:59:22.317",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2971,
+          "Name": "Rahman Abbas",
+          "Name_Urdu": "رحمن عباس",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2745,
+          "FileName": "c2a5f2e2-7bee-4e78-96ab-4f94f7fa969e.epub",
+          "IsSample": false,
+          "Book_Id": 2745
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2745,
+          "FileName": "c2a5f2e2-7bee-4e78-96ab-4f94f7fa969e.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2745
+        }
+      ],
+      "Users": [],
+      "Id": 2745,
+      "Title": "Sajid Rasheed",
+      "Title_Urdu": "ساجد رشید",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9842153386139",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T09:57:54.277",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T09:57:54.48",
+      "ModifiedOn": "2021-12-01T09:57:54.48",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2970,
+          "Name": "Syed Mansoor Agha",
+          "Name_Urdu": "سیّد منصور آغا",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2744,
+          "FileName": "8766b715-fcd8-45ef-87b2-f1f2af81e1ac.epub",
+          "IsSample": false,
+          "Book_Id": 2744
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2744,
+          "FileName": "8766b715-fcd8-45ef-87b2-f1f2af81e1ac.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2744
+        }
+      ],
+      "Users": [],
+      "Id": 2744,
+      "Title": "Saiyid Hamid",
+      "Title_Urdu": "سیّد حامد",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9255212655204",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T09:56:13.343",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-01T09:56:13.75",
+      "ModifiedOn": "2021-12-01T09:56:13.75",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2969,
+          "Name": "Saheb Ali",
+          "Name_Urdu": "صاحب علی",
+          "Name_Hindi": "Saheb Ali Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2743,
+          "FileName": "64fbe6c4-f2f3-4f48-8709-9bfe237f2d2f.epub",
+          "IsSample": false,
+          "Book_Id": 2743
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2743,
+          "FileName": "64fbe6c4-f2f3-4f48-8709-9bfe237f2d2f.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2743
+        }
+      ],
+      "Users": [],
+      "Id": 2743,
+      "Title": "Reyaz Khairabadi",
+      "Title_Urdu": "ریاض خیر آبادی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7078766442353",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T09:37:57.173",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T09:37:57.297",
+      "ModifiedOn": "2021-12-01T09:37:57.297",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2968,
+          "Name": "Abdul Hameed",
+          "Name_Urdu": "عبدالحمید",
+          "Name_Hindi": "Abdul Hameed Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2742,
+          "FileName": "e0eb2a23-5b33-4067-99f4-f14274e860a8.epub",
+          "IsSample": false,
+          "Book_Id": 2742
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2742,
+          "FileName": "e0eb2a23-5b33-4067-99f4-f14274e860a8.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2742
+        }
+      ],
+      "Users": [],
+      "Id": 2742,
+      "Title": "Rasheed Hasan Khan",
+      "Title_Urdu": "رشید حسن خان ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6560170205778",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T09:11:57.583",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-01T09:11:57.77",
+      "ModifiedOn": "2021-12-01T09:11:57.77",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2967,
+          "Name": "Mazhar Mehmood",
+          "Name_Urdu": "مظہر محمود",
+          "Name_Hindi": "Mazhar Mehmood Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2741,
+          "FileName": "ce5512f0-9c51-40d6-94e4-27f63655fcaf.epub",
+          "IsSample": false,
+          "Book_Id": 2741
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2741,
+          "FileName": "ce5512f0-9c51-40d6-94e4-27f63655fcaf.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2741
+        }
+      ],
+      "Users": [],
+      "Id": 2741,
+      "Title": "Ramlal Hayat O Fun",
+      "Title_Urdu": "رام لعل حیات و فن",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7933252085109",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T09:10:58.933",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T09:10:59.2",
+      "ModifiedOn": "2021-12-01T09:10:59.2",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2966,
+          "Name": "Umair Manzar",
+          "Name_Urdu": "عمیر منظر",
+          "Name_Hindi": "Umair Manzar Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2740,
+          "FileName": "96ac8f0c-91b0-4ac6-90e1-ff5e3d1eff06.epub",
+          "IsSample": false,
+          "Book_Id": 2740
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2740,
+          "FileName": "96ac8f0c-91b0-4ac6-90e1-ff5e3d1eff06.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2740
+        }
+      ],
+      "Users": [],
+      "Id": 2740,
+      "Title": "Rajinder Manchanda Baani",
+      "Title_Urdu": "راجیندر منچندا بانی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2868596428351",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T09:01:25.75",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T09:01:25.92",
+      "ModifiedOn": "2021-12-01T09:01:25.92",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2965,
+          "Name": "Aftab Ahmad Afaqui",
+          "Name_Urdu": "آفتاب احمد آفاقی",
+          "Name_Hindi": "Aftab Ahmad Afaqui Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2739,
+          "FileName": "40c18128-b2aa-44c4-bde7-fb669ee10a96.epub",
+          "IsSample": false,
+          "Book_Id": 2739
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2739,
+          "FileName": "40c18128-b2aa-44c4-bde7-fb669ee10a96.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2739
+        }
+      ],
+      "Users": [],
+      "Id": 2739,
+      "Title": "Qazi Abdul Wadood",
+      "Title_Urdu": "قاضی عبدالودود",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6200003140323",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T09:00:14.113",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T09:00:14.363",
+      "ModifiedOn": "2021-12-01T09:00:14.363",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2964,
+          "Name": "M. R. Kohli",
+          "Name_Urdu": "ایم آر کوہلی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2738,
+          "FileName": "6cc6a48f-cfb2-4127-9072-8a475d017be8.epub",
+          "IsSample": false,
+          "Book_Id": 2738
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2738,
+          "FileName": "6cc6a48f-cfb2-4127-9072-8a475d017be8.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2738
+        }
+      ],
+      "Users": [],
+      "Id": 2738,
+      "Title": "Noor Jahan",
+      "Title_Urdu": "نور جہاں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9201058573112",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T08:57:32.233",
+      "PublishedYear": "",
+      "CreatedOn": "2021-12-01T08:57:32.547",
+      "ModifiedOn": "2021-12-01T08:57:32.547",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2963,
+          "Name": "Mohammad Nauman Khan",
+          "Name_Urdu": "محمد نعمان خان",
+          "Name_Hindi": "Mohammad Nauman Khan Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2737,
+          "FileName": "46e11d4b-bad0-4e3b-b3c0-f920fef6b1cc.epub",
+          "IsSample": false,
+          "Book_Id": 2737
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2737,
+          "FileName": "46e11d4b-bad0-4e3b-b3c0-f920fef6b1cc.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2737
+        }
+      ],
+      "Users": [],
+      "Id": 2737,
+      "Title": "Mulla Ramuzi",
+      "Title_Urdu": "ملّا رموزی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6412454391661",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T08:56:28.137",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T08:56:28.34",
+      "ModifiedOn": "2021-12-01T08:56:28.34",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2962,
+          "Name": "Abul Kalam Qasmi",
+          "Name_Urdu": "ابوالکلام قاسمی",
+          "Name_Hindi": "Abul Kalam Qasmi Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2736,
+          "FileName": "7d7597cb-9d4d-40b2-a6fc-865f1ebaa316.epub",
+          "IsSample": false,
+          "Book_Id": 2736
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2736,
+          "FileName": "7d7597cb-9d4d-40b2-a6fc-865f1ebaa316.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2736
+        }
+      ],
+      "Users": [],
+      "Id": 2736,
+      "Title": "Mohammad Hussain Azaad",
+      "Title_Urdu": "محمد حسین آزاد",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4986213201477",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T08:55:03.247",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T08:55:03.433",
+      "ModifiedOn": "2021-12-01T08:55:03.433",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2961,
+          "Name": "Rasheeduddin Khan",
+          "Name_Urdu": "رشید الدین خاں",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2735,
+          "FileName": "a8b5a04f-032c-4b11-ac14-117b106584b1.epub",
+          "IsSample": false,
+          "Book_Id": 2735
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2735,
+          "FileName": "a8b5a04f-032c-4b11-ac14-117b106584b1.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2735
+        }
+      ],
+      "Users": [],
+      "Id": 2735,
+      "Title": "Maulana Abul Kalam Azad",
+      "Title_Urdu": "مولانا ابوالکلام آزاد",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4770531944844",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T08:54:18.85",
+      "PublishedYear": "2003",
+      "CreatedOn": "2021-12-01T08:54:19.21",
+      "ModifiedOn": "2021-12-01T08:54:19.21",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2960,
+          "Name": "B. R. Nanda",
+          "Name_Urdu": " بی آر نندا",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2734,
+          "FileName": "d4604f59-20c9-4a27-9be9-ee16cbd4ad33.epub",
+          "IsSample": false,
+          "Book_Id": 2734
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2734,
+          "FileName": "d4604f59-20c9-4a27-9be9-ee16cbd4ad33.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2734
+        }
+      ],
+      "Users": [],
+      "Id": 2734,
+      "Title": "Mahatma Gandhi",
+      "Title_Urdu": "آزادی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7978719851015",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T08:52:56.647",
+      "PublishedYear": "1986",
+      "CreatedOn": "2021-12-01T08:52:57.177",
+      "ModifiedOn": "2021-12-01T08:52:57.177",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2959,
+          "Name": "Mohd. Khurshid Alam Nadvi",
+          "Name_Urdu": "محمد خورشید عالم ندوی",
+          "Name_Hindi": "Mohd. Khurshid Alam Nadvi Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2733,
+          "FileName": "b2f9c4c7-bd5a-4d6c-b6ad-b6cca52c3c07.epub",
+          "IsSample": false,
+          "Book_Id": 2733
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2733,
+          "FileName": "b2f9c4c7-bd5a-4d6c-b6ad-b6cca52c3c07.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2733
+        }
+      ],
+      "Users": [],
+      "Id": 2733,
+      "Title": "Karnataka Ki Adabi Shakhsiyat",
+      "Title_Urdu": "کرناٹک کی ادبی شخصیات",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1309445220842",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T08:51:54.577",
+      "PublishedYear": "201ٓ5",
+      "CreatedOn": "2021-12-01T08:51:54.767",
+      "ModifiedOn": "2021-12-01T08:51:54.767",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2958,
+          "Name": "Sagheer Ifraheem",
+          "Name_Urdu": "صغیر افراہیم",
+          "Name_Hindi": "Sagheer Ifraheem Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2732,
+          "FileName": "a3f3e805-77f7-40dc-90f8-a4d03ac54325.epub",
+          "IsSample": false,
+          "Book_Id": 2732
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2732,
+          "FileName": "a3f3e805-77f7-40dc-90f8-a4d03ac54325.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2732
+        }
+      ],
+      "Users": [],
+      "Id": 2732,
+      "Title": "Jagat Mohan Lal Rawan",
+      "Title_Urdu": "جگت موہن لال رواں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0136692827480",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T08:48:26.633",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T08:48:26.823",
+      "ModifiedOn": "2021-12-01T08:48:26.823",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2957,
+          "Name": "Ghazanfar Iqbal",
+          "Name_Urdu": "غضنفر اقبال",
+          "Name_Hindi": "Ghazanfar Iqbal Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2731,
+          "FileName": "71344a51-238e-49a6-9368-f15793e0a2ac.epub",
+          "IsSample": false,
+          "Book_Id": 2731
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2731,
+          "FileName": "71344a51-238e-49a6-9368-f15793e0a2ac.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2731
+        }
+      ],
+      "Users": [],
+      "Id": 2731,
+      "Title": "Ismat Javed",
+      "Title_Urdu": "عصمت جاوید",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1899761525697",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T08:31:31.833",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T08:31:31.987",
+      "ModifiedOn": "2021-12-01T08:31:31.987",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2956,
+          "Name": "Khuwaja Altaf Husain Hali",
+          "Name_Urdu": "خواجہ الطاف حسین حالی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2730,
+          "FileName": "c59f4277-c0f8-430e-918a-baf48b5e8143.epub",
+          "IsSample": false,
+          "Book_Id": 2730
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2730,
+          "FileName": "c59f4277-c0f8-430e-918a-baf48b5e8143.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2730
+        }
+      ],
+      "Users": [],
+      "Id": 2730,
+      "Title": "Hayat-e-Saadi",
+      "Title_Urdu": "حیات سعدی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9414955786161",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T08:30:40.803",
+      "PublishedYear": "2004",
+      "CreatedOn": "2021-12-01T08:30:41.037",
+      "ModifiedOn": "2021-12-01T08:30:41.037",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2955,
+          "Name": "Shamim Tariq",
+          "Name_Urdu": "شمیم طارق",
+          "Name_Hindi": "Shamim Tariq Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2729,
+          "FileName": "59b35fc6-2e3b-4585-a780-7df079febb33.epub",
+          "IsSample": false,
+          "Book_Id": 2729
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2729,
+          "FileName": "59b35fc6-2e3b-4585-a780-7df079febb33.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2729
+        }
+      ],
+      "Users": [],
+      "Id": 2729,
+      "Title": "Hasan Naim",
+      "Title_Urdu": "حسن نعیم",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1616958848118",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T08:29:53.16",
+      "PublishedYear": "201ٰ6",
+      "CreatedOn": "2021-12-01T08:29:53.35",
+      "ModifiedOn": "2021-12-01T08:29:53.35",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2954,
+          "Name": "Prem Gopal Mittal",
+          "Name_Urdu": "پریم گوپال متّل",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2728,
+          "FileName": "f3d0c292-9e4f-471e-b49b-91abf7252e44.epub",
+          "IsSample": false,
+          "Book_Id": 2728
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2728,
+          "FileName": "f3d0c292-9e4f-471e-b49b-91abf7252e44.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2728
+        }
+      ],
+      "Users": [],
+      "Id": 2728,
+      "Title": "Gopal Mittal Monograph",
+      "Title_Urdu": "مونوگراف گوپال متّل",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9699255034905",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T08:28:26.867",
+      "PublishedYear": "",
+      "CreatedOn": "2021-12-01T08:28:27.007",
+      "ModifiedOn": "2021-12-01T08:28:27.007",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2953,
+          "Name": "Syyada Jafar",
+          "Name_Urdu": "سیّدہ جعفر",
+          "Name_Hindi": "Syyada Jafar_Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2727,
+          "FileName": "2a618a20-fb9d-49e0-9055-a007319159d7.epub",
+          "IsSample": false,
+          "Book_Id": 2727
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2727,
+          "FileName": "2a618a20-fb9d-49e0-9055-a007319159d7.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2727
+        }
+      ],
+      "Users": [],
+      "Id": 2727,
+      "Title": "Ghawasi",
+      "Title_Urdu": "غواصی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1800351803706",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T08:27:11.243",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T08:27:11.477",
+      "ModifiedOn": "2021-12-01T08:27:11.477",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2952,
+          "Name": "Khawaja Abdul Muntaqim",
+          "Name_Urdu": "خواجہ عبدالمنتقم",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2726,
+          "FileName": "d128217c-4e2d-4c3f-8982-4dc6e21d1e78.epub",
+          "IsSample": false,
+          "Book_Id": 2726
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2726,
+          "FileName": "d128217c-4e2d-4c3f-8982-4dc6e21d1e78.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2726
+        }
+      ],
+      "Users": [],
+      "Id": 2726,
+      "Title": "Dastoore Hind Ka Memaar, Dr. B. Ambedkar",
+      "Title_Urdu": "دستورِ ہند کا معمار، ڈاکٹر بھیم راؤ امبیڈکر",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4354867100813",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T08:23:25.383",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T08:23:25.57",
+      "ModifiedOn": "2021-12-01T08:23:25.57",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2951,
+          "Name": "Seema Sagheer",
+          "Name_Urdu": "سیما صغیر",
+          "Name_Hindi": "Seema Sagheer Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2725,
+          "FileName": "d297457a-7347-46fa-bd07-6be84518391f.epub",
+          "IsSample": false,
+          "Book_Id": 2725
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2725,
+          "FileName": "d297457a-7347-46fa-bd07-6be84518391f.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2725
+        }
+      ],
+      "Users": [],
+      "Id": 2725,
+      "Title": "Begum Sultan Jahan",
+      "Title_Urdu": "بیگم سلطان جہاں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6027470978746",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T08:22:01.97",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T08:22:02.173",
+      "ModifiedOn": "2021-12-01T08:22:02.173",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2950,
+          "Name": "S M Khan",
+          "Name_Urdu": "ایس ایم خان",
+          "Name_Hindi": "S M Khan Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2724,
+          "FileName": "385d790f-6b93-4735-bc2c-beb6edea99a1.epub",
+          "IsSample": false,
+          "Book_Id": 2724
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2724,
+          "FileName": "385d790f-6b93-4735-bc2c-beb6edea99a1.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2724
+        }
+      ],
+      "Users": [],
+      "Id": 2724,
+      "Title": "Awamunnas Ke Sadr Dr. A P J Abdul Kalam",
+      "Title_Urdu": "عوام الناس کے صدر ڈاکٹر اے پی جے عبدالکلام",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8279146502447",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T08:20:54.58",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-01T08:20:54.783",
+      "ModifiedOn": "2021-12-01T08:20:54.783",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2949,
+          "Name": "Tayyaba Begum",
+          "Name_Urdu": "طیبہ بیگم",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2723,
+          "FileName": "25e24095-000a-474f-a913-2f800ccdc04b.epub",
+          "IsSample": false,
+          "Book_Id": 2723
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2723,
+          "FileName": "25e24095-000a-474f-a913-2f800ccdc04b.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2723
+        }
+      ],
+      "Users": [],
+      "Id": 2723,
+      "Title": "Asif Sabe Meer Usman Ali Khan",
+      "Title_Urdu": "آصف سابع میر عثمان علی خان",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0008707697592",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T08:19:40.343",
+      "PublishedYear": "1999",
+      "CreatedOn": "2021-12-01T08:19:40.64",
+      "ModifiedOn": "2021-12-01T08:19:40.64",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2948,
+          "Name": "Umar Raza",
+          "Name_Urdu": "عمر رضا",
+          "Name_Hindi": "Umar Raza_Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 13,
+          "Name": "Biography",
+          "Name_Urdu": "حیات و خدمات",
+          "Name_Hindi": "Biography",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2722,
+          "FileName": "59b6fc8c-16bb-471b-88d9-d0fe5148ccf6.epub",
+          "IsSample": false,
+          "Book_Id": 2722
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2722,
+          "FileName": "59b6fc8c-16bb-471b-88d9-d0fe5148ccf6.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2722
+        }
+      ],
+      "Users": [],
+      "Id": 2722,
+      "Title": "Ali Sardar Jafri",
+      "Title_Urdu": "علی سردار جعفری",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1443982429862",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T08:11:27.29",
+      "PublishedYear": "201ٓ7",
+      "CreatedOn": "2021-12-01T08:11:27.727",
+      "ModifiedOn": "2021-12-01T08:11:27.727",
+      "Volume": ""
+    }
+  ],
+  "TotalBooksCount": 36,
+  "TotalPage": [
+    1
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3224,
+          "Name": "Shahzada Mohammad Dara Shakoh Translated by Prof Azarmi Dukht Safavi",
+          "Name_Urdu": "شہزادہ محمد دارا شکوہ",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 15,
+          "Name": "Sociology and Religion",
+          "Name_Urdu": "سماجیات اور مذہب",
+          "Name_Hindi": "Sociology and Religion",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2962,
+          "FileName": "a827f315-a321-469c-aa8d-5895c49498d6.epub",
+          "IsSample": false,
+          "Book_Id": 2962
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2962,
+          "FileName": "a827f315-a321-469c-aa8d-5895c49498d6.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2962
+        }
+      ],
+      "Users": [],
+      "Id": 2962,
+      "Title": "Sirr-e-Akbar",
+      "Title_Urdu": "سراکبر ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4638783731242",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان ",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-09-04T09:47:10.773",
+      "PublishedYear": "2022",
+      "CreatedOn": "2024-09-04T09:47:11.99",
+      "ModifiedOn": "2024-09-04T09:47:11.99",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3142,
+          "Name": "Azra Abidi",
+          "Name_Urdu": "عذرا عابدی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 15,
+          "Name": "Sociology and Religion",
+          "Name_Urdu": "سماجیات اور مذہب",
+          "Name_Hindi": "Sociology and Religion",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2909,
+          "FileName": "56ca7212-7135-4d19-bb02-49225ebe8fa4.epub",
+          "IsSample": false,
+          "Book_Id": 2909
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2909,
+          "FileName": "56ca7212-7135-4d19-bb02-49225ebe8fa4.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2909
+        }
+      ],
+      "Users": [],
+      "Id": 2909,
+      "Title": "Hindustan Mein Tanisiyat",
+      "Title_Urdu": "ہندوستان میں تانیثیت",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4354223648567",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-07-13T10:33:45.88",
+      "PublishedYear": "",
+      "CreatedOn": "2022-07-13T10:33:46.567",
+      "ModifiedOn": "2022-07-13T10:33:46.567",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3108,
+          "Name": "Prof. Akhtarul Wasey",
+          "Name_Urdu": "پروفیسر اخترالواسع",
+          "Name_Hindi": "Prof. Akhtarul Wasey"
+        },
+        {
+          "Books": [],
+          "Id": 3109,
+          "Name": " Dr.Mohammad Arshad",
+          "Name_Urdu": " ڈاکٹر محمد ارشد",
+          "Name_Hindi": " Dr.Mohammad Arshad"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 15,
+          "Name": "Sociology and Religion",
+          "Name_Urdu": "سماجیات اور مذہب",
+          "Name_Hindi": "Sociology and Religion",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2881,
+          "FileName": "7b368049-ecd4-4bfa-8287-9a2abcb9255b.epub",
+          "IsSample": false,
+          "Book_Id": 2881
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2881,
+          "FileName": "7b368049-ecd4-4bfa-8287-9a2abcb9255b.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2881
+        }
+      ],
+      "Users": [],
+      "Id": 2881,
+      "Title": "Islam Taaruf O Tareekh",
+      "Title_Urdu": "اسلام تعارف و تاریخ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1278539134792",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-13T10:10:50.633",
+      "PublishedYear": "201ٓ5",
+      "CreatedOn": "2021-12-13T10:10:50.883",
+      "ModifiedOn": "2021-12-13T10:10:50.883",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3092,
+          "Name": "Sadeeduddeen Muhammad Aufi",
+          "Name_Urdu": "سدیدالدین محمد عوفی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 15,
+          "Name": "Sociology and Religion",
+          "Name_Urdu": "سماجیات اور مذہب",
+          "Name_Hindi": "Sociology and Religion",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2866,
+          "FileName": "de68782c-14c6-4714-a3eb-14c56e91dce1.epub",
+          "IsSample": false,
+          "Book_Id": 2866
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2866,
+          "FileName": "de68782c-14c6-4714-a3eb-14c56e91dce1.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2866
+        }
+      ],
+      "Users": [],
+      "Id": 2866,
+      "Title": "Jawmeul Hikayaat & Wameur Riwayaat",
+      "Title_Urdu": "جوامع الحکایات ولوامع الروایات",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4861314853801",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:20:59.16",
+      "PublishedYear": "",
+      "CreatedOn": "2021-12-10T11:20:59.643",
+      "ModifiedOn": "2021-12-10T11:20:59.643",
+      "Volume": "1"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3083,
+          "Name": "Shamim Tariq",
+          "Name_Urdu": "شمیم طارق",
+          "Name_Hindi": "Shamim Tariq Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 15,
+          "Name": "Sociology and Religion",
+          "Name_Urdu": "سماجیات اور مذہب",
+          "Name_Hindi": "Sociology and Religion",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2857,
+          "FileName": "03e87184-4772-4874-8cb5-e8cd80c4a5f4.epub",
+          "IsSample": false,
+          "Book_Id": 2857
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2857,
+          "FileName": "03e87184-4772-4874-8cb5-e8cd80c4a5f4.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2857
+        }
+      ],
+      "Users": [],
+      "Id": 2857,
+      "Title": "Tasawwuf Aur Bhakti ki Aham Istelahat",
+      "Title_Urdu": "تصوّف اور بھکتی کی اہم اصطلاحات",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7445552941130",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T10:25:04.603",
+      "PublishedYear": "2018",
+      "CreatedOn": "2021-12-10T10:25:05.29",
+      "ModifiedOn": "2021-12-10T10:25:05.29",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3080,
+          "Name": "Dr. Ghulam Yahya Anjum",
+          "Name_Urdu": "ڈاکٹر غلام یحییٰ انجم",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 15,
+          "Name": "Sociology and Religion",
+          "Name_Urdu": "سماجیات اور مذہب",
+          "Name_Hindi": "Sociology and Religion",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2854,
+          "FileName": "9d6e109a-bc5c-4864-9348-c8d530471460.epub",
+          "IsSample": false,
+          "Book_Id": 2854
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2854,
+          "FileName": "9d6e109a-bc5c-4864-9348-c8d530471460.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2854
+        }
+      ],
+      "Users": [],
+      "Id": 2854,
+      "Title": "Quran-e-Karim ke Hindustani Tarajum wa Tafasir ka Ijmali Jaiza",
+      "Title_Urdu": "قرآن کریم کے ہندوستانی تراجم وتفاسیرکا اجمالی جائزہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9527799532521",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T10:22:01.037",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-10T10:22:01.363",
+      "ModifiedOn": "2021-12-10T10:22:01.363",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3052,
+          "Name": "Dr Sayyed Abid Husain",
+          "Name_Urdu": "ڈاکٹر سیّد عابد حسین",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 15,
+          "Name": "Sociology and Religion",
+          "Name_Urdu": "سماجیات اور مذہب",
+          "Name_Hindi": "Sociology and Religion",
+          "ModifiedOn": "2021-10-25T09:22:15.19"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2826,
+          "FileName": "4454fe9a-34b6-46c1-98db-5bb44a8ba255.epub",
+          "IsSample": false,
+          "Book_Id": 2826
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2826,
+          "FileName": "4454fe9a-34b6-46c1-98db-5bb44a8ba255.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2826
+        }
+      ],
+      "Users": [],
+      "Id": 2826,
+      "Title": "Qaumi Tehzeeb Ka Masala",
+      "Title_Urdu": "قومی تہذیب کا مسئلہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6973854430590",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T10:34:06.967",
+      "PublishedYear": "",
+      "CreatedOn": "2021-12-09T10:34:07.263",
+      "ModifiedOn": "2021-12-09T10:34:07.263",
+      "Volume": ""
+    }
+  ],
+  "TotalBooksCount": 7,
+  "TotalPage": [
+    1
+  ]
+}

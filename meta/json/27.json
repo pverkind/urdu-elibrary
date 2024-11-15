@@ -1,0 +1,293 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3161,
+          "Name": "NCPUL",
+          "Name_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 27,
+          "Name": "Encyclopedia And Dictionary",
+          "Name_Urdu": " انسائیکلوپیڈیا و لغات",
+          "Name_Hindi": "Encyclopedia And Dictionary",
+          "ModifiedOn": "2021-10-25T09:22:15.2"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2923,
+          "FileName": "c5aa20e2-c723-4e76-804d-a409a02f412c.epub",
+          "IsSample": false,
+          "Book_Id": 2923
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2923,
+          "FileName": "c5aa20e2-c723-4e76-804d-a409a02f412c.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2923
+        }
+      ],
+      "Users": [],
+      "Id": 2923,
+      "Title": "Jame Urdu Encyclopedia, Adbiyat",
+      "Title_Urdu": "جامع اردو انسائیکلو پیڈیا،ادبیات",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9418905058796",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-12-05T05:28:47.97",
+      "PublishedYear": "",
+      "CreatedOn": "2022-12-05T05:28:57.423",
+      "ModifiedOn": "2022-12-05T05:28:57.423",
+      "Volume": "1"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3158,
+          "Name": "NCPUL",
+          "Name_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 27,
+          "Name": "Encyclopedia And Dictionary",
+          "Name_Urdu": " انسائیکلوپیڈیا و لغات",
+          "Name_Hindi": "Encyclopedia And Dictionary",
+          "ModifiedOn": "2021-10-25T09:22:15.2"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2921,
+          "FileName": "1c6ca42d-d3d0-48b8-b103-9390e3ab0e5e.epub",
+          "IsSample": false,
+          "Book_Id": 2921
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2921,
+          "FileName": "1c6ca42d-d3d0-48b8-b103-9390e3ab0e5e.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2921
+        }
+      ],
+      "Users": [],
+      "Id": 2921,
+      "Title": "Jame Urdu Encylopedia, Tareekh",
+      "Title_Urdu": "جامع اردو انسائیکلو پیڈیا، تاریخ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2795627802732",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو بان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-09-02T11:19:37.48",
+      "PublishedYear": "",
+      "CreatedOn": "2022-09-02T11:19:38.62",
+      "ModifiedOn": "2022-09-02T11:19:38.62",
+      "Volume": "2"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2987,
+          "Name": "Prof. Naseer Ahmad Khan",
+          "Name_Urdu": "پروفیسر نصیر احمد خاں",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 27,
+          "Name": "Encyclopedia And Dictionary",
+          "Name_Urdu": " انسائیکلوپیڈیا و لغات",
+          "Name_Hindi": "Encyclopedia And Dictionary",
+          "ModifiedOn": "2021-10-25T09:22:15.2"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2761,
+          "FileName": "01e4628a-ba8e-432c-9034-ef13eb875f59.epub",
+          "IsSample": false,
+          "Book_Id": 2761
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2761,
+          "FileName": "01e4628a-ba8e-432c-9034-ef13eb875f59.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2761
+        }
+      ],
+      "Users": [],
+      "Id": 2761,
+      "Title": "Urdu Ki Sauti Lughat",
+      "Title_Urdu": "اردو کی صوتی لغت",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1696580543237",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:44:53.553",
+      "PublishedYear": "2014",
+      "CreatedOn": "2021-12-01T10:44:54.333",
+      "ModifiedOn": "2021-12-01T10:44:54.333",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2986,
+          "Name": "Khaja Abdul Muntaqim",
+          "Name_Urdu": "خواجہ عبدالمنتقم",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 27,
+          "Name": "Encyclopedia And Dictionary",
+          "Name_Urdu": " انسائیکلوپیڈیا و لغات",
+          "Name_Hindi": "Encyclopedia And Dictionary",
+          "ModifiedOn": "2021-10-25T09:22:15.2"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2760,
+          "FileName": "0ba5bd38-1896-4bbb-8776-1a2278b385b4.epub",
+          "IsSample": false,
+          "Book_Id": 2760
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2760,
+          "FileName": "0ba5bd38-1896-4bbb-8776-1a2278b385b4.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2760
+        }
+      ],
+      "Users": [],
+      "Id": 2760,
+      "Title": "Farhang-e-Qanooni, Tejarti W Mali Istelahat",
+      "Title_Urdu": "فرہنگِ قانونی، تجارتی و مالی اصطلاحات",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0968064257627",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:44:07.393",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-01T10:44:07.767",
+      "ModifiedOn": "2021-12-01T10:44:07.767",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2985,
+          "Name": "NCPUL",
+          "Name_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 27,
+          "Name": "Encyclopedia And Dictionary",
+          "Name_Urdu": " انسائیکلوپیڈیا و لغات",
+          "Name_Hindi": "Encyclopedia And Dictionary",
+          "ModifiedOn": "2021-10-25T09:22:15.2"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2759,
+          "FileName": "56d5c6ca-2ec9-49f7-bae4-70c921e69f2c.epub",
+          "IsSample": false,
+          "Book_Id": 2759
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2759,
+          "FileName": "56d5c6ca-2ec9-49f7-bae4-70c921e69f2c.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2759
+        }
+      ],
+      "Users": [],
+      "Id": 2759,
+      "Title": "Commerce Farhang",
+      "Title_Urdu": "کامرس فرہنگ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2320094374627",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:43:09.763",
+      "PublishedYear": "2014",
+      "CreatedOn": "2021-12-01T10:43:09.937",
+      "ModifiedOn": "2021-12-01T10:43:09.937",
+      "Volume": ""
+    }
+  ],
+  "TotalBooksCount": 5,
+  "TotalPage": [
+    1
+  ]
+}

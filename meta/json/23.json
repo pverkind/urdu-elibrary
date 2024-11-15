@@ -1,0 +1,236 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3197,
+          "Name": "Khwaja Abdul Muntaqim",
+          "Name_Urdu": "خواجہ عبد المنتقم",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 23,
+          "Name": "Laws",
+          "Name_Urdu": "قانون",
+          "Name_Hindi": "Laws",
+          "ModifiedOn": "2021-10-25T09:22:15.1966667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2945,
+          "FileName": "a6ca6d0c-8ac9-4436-b57e-cfd544428060.epub",
+          "IsSample": false,
+          "Book_Id": 2945
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2945,
+          "FileName": "a6ca6d0c-8ac9-4436-b57e-cfd544428060.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2945
+        }
+      ],
+      "Users": [],
+      "Id": 2945,
+      "Title": "Insani Haquq",
+      "Title_Urdu": "انسانی حقوق",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5051250275368",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-03-15T09:05:22.853",
+      "PublishedYear": "",
+      "CreatedOn": "2024-03-15T09:05:23.587",
+      "ModifiedOn": "2024-03-15T09:05:23.587",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3089,
+          "Name": "Ansar Ahmad Marufi",
+          "Name_Urdu": "انصار احمد معروفی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 23,
+          "Name": "Laws",
+          "Name_Urdu": "قانون",
+          "Name_Hindi": "Laws",
+          "ModifiedOn": "2021-10-25T09:22:15.1966667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2863,
+          "FileName": "6660bd1c-8c1d-402f-8a96-c1596f36b217.epub",
+          "IsSample": false,
+          "Book_Id": 2863
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2863,
+          "FileName": "6660bd1c-8c1d-402f-8a96-c1596f36b217.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2863
+        }
+      ],
+      "Users": [],
+      "Id": 2863,
+      "Title": "Khawateen Ki Ikhtiyarkari wa Sinfi Masawat",
+      "Title_Urdu": "خواتین کی اختیارکاری وصنفی مساوات",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0497038402171",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:19:01.63",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-10T11:19:01.897",
+      "ModifiedOn": "2021-12-10T11:19:01.897",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3086,
+          "Name": "K.A. Muntaquim",
+          "Name_Urdu": "خواجہ عبدالمنتقم",
+          "Name_Hindi": "K.A. Muntaquim_Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 23,
+          "Name": "Laws",
+          "Name_Urdu": "قانون",
+          "Name_Hindi": "Laws",
+          "ModifiedOn": "2021-10-25T09:22:15.1966667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2860,
+          "FileName": "d28ec176-3ebb-4371-bcdc-9bbd735863c5.epub",
+          "IsSample": false,
+          "Book_Id": 2860
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2860,
+          "FileName": "d28ec176-3ebb-4371-bcdc-9bbd735863c5.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2860
+        }
+      ],
+      "Users": [],
+      "Id": 2860,
+      "Title": "Waqf Qawaneen",
+      "Title_Urdu": "وقف قوانین",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4649491852064",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:16:32.423",
+      "PublishedYear": "201ً6",
+      "CreatedOn": "2021-12-10T11:16:32.643",
+      "ModifiedOn": "2021-12-10T11:16:32.643",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3069,
+          "Name": "K.Abdul Muntaquim",
+          "Name_Urdu": "خواجہ عبدالمنتقم",
+          "Name_Hindi": "K.Abdul Muntaquim Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 23,
+          "Name": "Laws",
+          "Name_Urdu": "قانون",
+          "Name_Hindi": "Laws",
+          "ModifiedOn": "2021-10-25T09:22:15.1966667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2843,
+          "FileName": "9095fcdb-13a4-42f2-8268-5e07eeee48ba.epub",
+          "IsSample": false,
+          "Book_Id": 2843
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2843,
+          "FileName": "9095fcdb-13a4-42f2-8268-5e07eeee48ba.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2843
+        }
+      ],
+      "Users": [],
+      "Id": 2843,
+      "Title": "Khawateen Se Mutallique Jinsi Wa Deegar Jaraim",
+      "Title_Urdu": "خواتین سے متعلق جنسی و دیگر جرائم",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9620622346877",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T07:18:46.12",
+      "PublishedYear": "201ٓ7",
+      "CreatedOn": "2021-12-10T07:18:46.277",
+      "ModifiedOn": "2021-12-10T07:18:46.277",
+      "Volume": ""
+    }
+  ],
+  "TotalBooksCount": 4,
+  "TotalPage": [
+    1
+  ]
+}

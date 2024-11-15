@@ -1,0 +1,1775 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3202,
+          "Name": "Haneef Kaifi",
+          "Name_Urdu": "حنیف کیفی  ",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2948,
+          "FileName": "2266a290-6eb4-4f30-9a06-f2d93a7dafc9.epub",
+          "IsSample": false,
+          "Book_Id": 2948
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2948,
+          "FileName": "2266a290-6eb4-4f30-9a06-f2d93a7dafc9.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2948
+        }
+      ],
+      "Users": [],
+      "Id": 2948,
+      "Title": "Urdu Me Nazme-Muarra Aur Azad Nazm",
+      "Title_Urdu": "اردو میں نظم معرا اور آزاد نظم",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1361246375061",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-03-18T07:07:51.663",
+      "PublishedYear": "",
+      "CreatedOn": "2024-03-18T07:07:52.743",
+      "ModifiedOn": "2024-03-18T07:07:52.743",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3160,
+          "Name": "Brij Mohan Dattatreya Kaifi",
+          "Name_Urdu": "برج موہن دتاتریہ کیفی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2922,
+          "FileName": "85e0662f-8b1c-4970-a5b3-0ec168b075b8.epub",
+          "IsSample": false,
+          "Book_Id": 2922
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2922,
+          "FileName": "85e0662f-8b1c-4970-a5b3-0ec168b075b8.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2922
+        }
+      ],
+      "Users": [],
+      "Id": 2922,
+      "Title": "Kafiyah",
+      "Title_Urdu": "کیفیہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7012008890445",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-09-07T07:07:38.223",
+      "PublishedYear": "",
+      "CreatedOn": "2022-09-07T07:07:39.66",
+      "ModifiedOn": "2022-09-07T07:07:39.66",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3154,
+          "Name": "Mohsin Usmani Nadvi",
+          "Name_Urdu": "محسن عثمانی ندوی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2917,
+          "FileName": "b65ad588-f0b3-4d39-8c5a-979677712211.epub",
+          "IsSample": false,
+          "Book_Id": 2917
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2917,
+          "FileName": "b65ad588-f0b3-4d39-8c5a-979677712211.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2917
+        }
+      ],
+      "Users": [],
+      "Id": 2917,
+      "Title": "Mashahir-e-Adbiyat Mashriqui",
+      "Title_Urdu": "مشاہیر ادبیات مشرقی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "3395617049085",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-08-11T09:42:54.4",
+      "PublishedYear": "",
+      "CreatedOn": "2022-08-11T09:42:54.667",
+      "ModifiedOn": "2022-08-11T09:42:54.667",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3146,
+          "Name": "Shaikh Aquil Ahmad",
+          "Name_Urdu": "شیخ عقیل احمد",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2911,
+          "FileName": "d6dc15ac-2436-41d8-b829-ad30bf7c9f84.epub",
+          "IsSample": false,
+          "Book_Id": 2911
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2911,
+          "FileName": "d6dc15ac-2436-41d8-b829-ad30bf7c9f84.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2911
+        }
+      ],
+      "Users": [],
+      "Id": 2911,
+      "Title": "Tafhimaat-O- Tarjihaat",
+      "Title_Urdu": "تفہیمات و ترجیحات",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5875447906690",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-07-28T05:40:24.323",
+      "PublishedYear": "",
+      "CreatedOn": "2022-07-28T05:40:25.917",
+      "ModifiedOn": "2022-07-28T05:40:25.917",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3144,
+          "Name": "Syed Aleem Ashraf Jaisi",
+          "Name_Urdu": "سید علیم اشرف جائسی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2910,
+          "FileName": "bb965b5d-e968-4803-9beb-bd8ca4e37ebb.epub",
+          "IsSample": false,
+          "Book_Id": 2910
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2910,
+          "FileName": "bb965b5d-e968-4803-9beb-bd8ca4e37ebb.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2910
+        }
+      ],
+      "Users": [],
+      "Id": 2910,
+      "Title": "Urdu Zaban Wa Adab Per Arabi Ke Asarat",
+      "Title_Urdu": "اردو زبان و ادب پر عربی کے اثرات",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2226379073674",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2022-07-18T09:18:37.327",
+      "PublishedYear": "",
+      "CreatedOn": "2022-07-18T09:18:37.98",
+      "ModifiedOn": "2022-07-18T09:18:37.98",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3099,
+          "Name": "Khushtar Noorani",
+          "Name_Urdu": "خوشتر نورانی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2873,
+          "FileName": "5759bf33-eb22-43f7-bd85-c0d801926cb7.epub",
+          "IsSample": false,
+          "Book_Id": 2873
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2873,
+          "FileName": "5759bf33-eb22-43f7-bd85-c0d801926cb7.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2873
+        }
+      ],
+      "Users": [],
+      "Id": 2873,
+      "Title": "Allama Fazle Haq Khairabadi, Chand Unwanaat",
+      "Title_Urdu": "علامہ فضلِ حق خیرآبادی، چند عنوانات",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6955927204000",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:35:57.727",
+      "PublishedYear": "2013",
+      "CreatedOn": "2021-12-10T11:35:57.933",
+      "ModifiedOn": "2021-12-10T11:35:57.933",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3088,
+          "Name": "Haneef Naqvi",
+          "Name_Urdu": "حنیف نقوی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2862,
+          "FileName": "73477170-60e4-41cb-959c-42d3aa29d9bf.epub",
+          "IsSample": false,
+          "Book_Id": 2862
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2862,
+          "FileName": "73477170-60e4-41cb-959c-42d3aa29d9bf.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2862
+        }
+      ],
+      "Users": [],
+      "Id": 2862,
+      "Title": "Tahqeeq-O-Taaruf",
+      "Title_Urdu": "حنیف نقوی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "3590154264766",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:18:23.023",
+      "PublishedYear": "2013",
+      "CreatedOn": "2021-12-10T11:18:23.24",
+      "ModifiedOn": "2021-12-10T11:18:23.24",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3071,
+          "Name": "Akram Naqqash",
+          "Name_Urdu": "اکرم نقّاش",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2845,
+          "FileName": "3103a365-7a24-430d-a6ed-d5a0c9308588.epub",
+          "IsSample": false,
+          "Book_Id": 2845
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2845,
+          "FileName": "3103a365-7a24-430d-a6ed-d5a0c9308588.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2845
+        }
+      ],
+      "Users": [],
+      "Id": 2845,
+      "Title": "Mahmood Ayaz ki Tahreerien",
+      "Title_Urdu": "محمود ایاز کی تحریریں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5446989794353",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T07:23:20.653",
+      "PublishedYear": "2018",
+      "CreatedOn": "2021-12-10T07:23:20.95",
+      "ModifiedOn": "2021-12-10T07:23:20.95",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3066,
+          "Name": "Aijaz Ali Arshad",
+          "Name_Urdu": "سیما صغیر",
+          "Name_Hindi": "Aijaz Ali Arshad Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2840,
+          "FileName": "524dd382-848a-41ca-b905-14fbb8e2c7db.epub",
+          "IsSample": false,
+          "Book_Id": 2840
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2840,
+          "FileName": "524dd382-848a-41ca-b905-14fbb8e2c7db.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2840
+        }
+      ],
+      "Users": [],
+      "Id": 2840,
+      "Title": "Bihar Ki Bahar Vol 2",
+      "Title_Urdu": "بہار کی بَہار",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0921161236878",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T06:41:58.183",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-10T06:41:58.737",
+      "ModifiedOn": "2021-12-10T06:41:58.737",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3064,
+          "Name": "Abdul Haleem Nadvi",
+          "Name_Urdu": "عبدالحلیم ندوی",
+          "Name_Hindi": "Abdul Haleem Nadvi Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2838,
+          "FileName": "c517c898-b9bb-475a-aba9-9581787de6b1.epub",
+          "IsSample": false,
+          "Book_Id": 2838
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2838,
+          "FileName": "c517c898-b9bb-475a-aba9-9581787de6b1.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2838
+        }
+      ],
+      "Users": [],
+      "Id": 2838,
+      "Title": "Arabi Adab Ki Tareekh Vol 2",
+      "Title_Urdu": "عربی ادب کی تاریخ جلد دوم",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2232802028808",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T06:37:18.507",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-10T06:37:19.053",
+      "ModifiedOn": "2021-12-10T06:37:19.053",
+      "Volume": "2"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3063,
+          "Name": "Shamsur Rahman Faruqi",
+          "Name_Urdu": "شمس الرحمن فاروقی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2837,
+          "FileName": "79f120bb-6b5e-4e12-aa2d-c10c7e425b05.epub",
+          "IsSample": false,
+          "Book_Id": 2837
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2837,
+          "FileName": "79f120bb-6b5e-4e12-aa2d-c10c7e425b05.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2837
+        }
+      ],
+      "Users": [],
+      "Id": 2837,
+      "Title": "Urooz Aahang Aur Bayaan",
+      "Title_Urdu": "عروض آہنگ اور بیان",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8902310775301",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T03:38:51.217",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-10T03:38:51.92",
+      "ModifiedOn": "2021-12-10T03:38:51.92",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3062,
+          "Name": "Huma Mirza",
+          "Name_Urdu": "ہما مرزا",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2836,
+          "FileName": "76d813ea-ac99-4a9a-93b4-f533b7cc9724.epub",
+          "IsSample": false,
+          "Book_Id": 2836
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2836,
+          "FileName": "76d813ea-ac99-4a9a-93b4-f533b7cc9724.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2836
+        }
+      ],
+      "Users": [],
+      "Id": 2836,
+      "Title": "Urooj-e-Fun",
+      "Title_Urdu": "عروجِ فن",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9589734785794",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T16:08:34.863",
+      "PublishedYear": "2018",
+      "CreatedOn": "2021-12-09T16:08:35.287",
+      "ModifiedOn": "2021-12-09T16:08:35.287",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3060,
+          "Name": "Prof. Irteza Karim",
+          "Name_Urdu": "پروفیسر ارتضیٰ کریم",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2834,
+          "FileName": "6d20a702-7f18-4a0c-9f06-38530ac96279.epub",
+          "IsSample": false,
+          "Book_Id": 2834
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2834,
+          "FileName": "6d20a702-7f18-4a0c-9f06-38530ac96279.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2834
+        }
+      ],
+      "Users": [],
+      "Id": 2834,
+      "Title": "Urdu Fiction Ki Tanqeed",
+      "Title_Urdu": "اردو فکشن کی تنقید",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "3612325202947",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T12:38:09.9",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-09T12:38:10.37",
+      "ModifiedOn": "2021-12-09T12:38:10.37",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3059,
+          "Name": "Mohammad Ansarullah",
+          "Name_Urdu": "محمد انصار اللہ",
+          "Name_Hindi": "Mohammad Ansarullah Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2833,
+          "FileName": "a8e49518-b6b2-4b83-8e61-8a8d6888b028.epub",
+          "IsSample": false,
+          "Book_Id": 2833
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2833,
+          "FileName": "a8e49518-b6b2-4b83-8e61-8a8d6888b028.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2833
+        }
+      ],
+      "Users": [],
+      "Id": 2833,
+      "Title": "Tareekh-e-Adab-e-Urdu",
+      "Title_Urdu": "تاریخ ادب اردو",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9710455866254",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T10:38:09.41",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-09T10:38:09.85",
+      "ModifiedOn": "2021-12-09T10:38:09.85",
+      "Volume": "15"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3058,
+          "Name": "Mohammad Ansarullah",
+          "Name_Urdu": "محمد انصار اللہ",
+          "Name_Hindi": "Mohammad Ansarullah Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2832,
+          "FileName": "67a03cfb-b384-4484-a11e-90f6366d8740.epub",
+          "IsSample": false,
+          "Book_Id": 2832
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2832,
+          "FileName": "67a03cfb-b384-4484-a11e-90f6366d8740.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2832
+        }
+      ],
+      "Users": [],
+      "Id": 2832,
+      "Title": "Tareekh-e-Adab-e-Urdu",
+      "Title_Urdu": "تاریخ ادب اردو",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8778718562516",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T10:37:56.253",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-09T10:37:56.723",
+      "ModifiedOn": "2021-12-09T10:37:56.723",
+      "Volume": "16"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3057,
+          "Name": "Mohammad Ansarullah",
+          "Name_Urdu": "محمد انصار اللہ",
+          "Name_Hindi": "Mohammad Ansarullah Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2831,
+          "FileName": "17b8ce67-b941-4b71-8967-1e6652fd5758.epub",
+          "IsSample": false,
+          "Book_Id": 2831
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2831,
+          "FileName": "17b8ce67-b941-4b71-8967-1e6652fd5758.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2831
+        }
+      ],
+      "Users": [],
+      "Id": 2831,
+      "Title": "Tareekh-e-Adab-e-Urdu Vol 17",
+      "Title_Urdu": "تاریخ ادب اردو",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "3733476532616",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T10:37:41.76",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-09T10:37:42.21",
+      "ModifiedOn": "2021-12-09T10:37:42.21",
+      "Volume": "17"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3056,
+          "Name": "Mohammad Ansarullah",
+          "Name_Urdu": "محمد انصار اللہ",
+          "Name_Hindi": "Mohammad Ansarullah Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2830,
+          "FileName": "b933b0b6-cc47-4688-91e8-3d6cf88a8466.epub",
+          "IsSample": false,
+          "Book_Id": 2830
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2830,
+          "FileName": "b933b0b6-cc47-4688-91e8-3d6cf88a8466.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2830
+        }
+      ],
+      "Users": [],
+      "Id": 2830,
+      "Title": "Tareekh-e-Adab-e-Urdu Vol 14",
+      "Title_Urdu": "تاریخِ ادبِ اردو",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2537884856913",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T10:37:28.307",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-09T10:37:28.65",
+      "ModifiedOn": "2021-12-09T10:37:28.65",
+      "Volume": "14"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3055,
+          "Name": "Mohammad Ansarullah",
+          "Name_Urdu": "محمد انصار اللہ",
+          "Name_Hindi": "Mohammad Ansarullah Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2829,
+          "FileName": "ffa799dd-1bfa-4c7d-a996-328ab67f8ba8.epub",
+          "IsSample": false,
+          "Book_Id": 2829
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2829,
+          "FileName": "ffa799dd-1bfa-4c7d-a996-328ab67f8ba8.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2829
+        }
+      ],
+      "Users": [],
+      "Id": 2829,
+      "Title": "Tareekh-e-Adab-e-Urdu Vol 13",
+      "Title_Urdu": "تاریخِ ادبِ اردو",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7111136121746",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T10:37:12.723",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-09T10:37:13.24",
+      "ModifiedOn": "2021-12-09T10:37:13.24",
+      "Volume": "13"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3054,
+          "Name": "Mohammad Ansarullah",
+          "Name_Urdu": "محمد انصار اللہ",
+          "Name_Hindi": "Mohammad Ansarullah Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2828,
+          "FileName": "55029c75-6f34-41bc-a484-d9a18bab92a7.epub",
+          "IsSample": false,
+          "Book_Id": 2828
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2828,
+          "FileName": "55029c75-6f34-41bc-a484-d9a18bab92a7.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2828
+        }
+      ],
+      "Users": [],
+      "Id": 2828,
+      "Title": "Tareekh-e-Adab-e-Urdu Vol 12",
+      "Title_Urdu": "تاریخِ ادبِ اردو",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7392016714599",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T10:36:59.123",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-09T10:36:59.407",
+      "ModifiedOn": "2021-12-09T10:36:59.407",
+      "Volume": "12"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3053,
+          "Name": "Qaiser Zoha Alam",
+          "Name_Urdu": "قیصرضحیٰ عالم",
+          "Name_Hindi": "Qaiser Zoha Alam Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2827,
+          "FileName": "bcd86b24-bad4-4f67-9c52-696de9678fdc.epub",
+          "IsSample": false,
+          "Book_Id": 2827
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2827,
+          "FileName": "bcd86b24-bad4-4f67-9c52-696de9678fdc.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2827
+        }
+      ],
+      "Users": [],
+      "Id": 2827,
+      "Title": "Sharar-e-Justuju",
+      "Title_Urdu": "شرارِ جستجو",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7974943722433",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T10:35:45.613",
+      "PublishedYear": "201ً5",
+      "CreatedOn": "2021-12-09T10:35:45.787",
+      "ModifiedOn": "2021-12-09T10:35:45.787",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3051,
+          "Name": "Mohammad Hasan",
+          "Name_Urdu": "محمد حسن",
+          "Name_Hindi": "Mohammad Hasan Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2825,
+          "FileName": "3e966c1d-0f70-4004-a935-c5399ab4edbe.epub",
+          "IsSample": false,
+          "Book_Id": 2825
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2825,
+          "FileName": "3e966c1d-0f70-4004-a935-c5399ab4edbe.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2825
+        }
+      ],
+      "Users": [],
+      "Id": 2825,
+      "Title": "Mashriq-Wa-Maghrib Mein Tanqidi Tasawwurat Ki Tareekh",
+      "Title_Urdu": "مشرق و مغرب میں تنقیدی تصوّرات کی تاریخ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8168293387956",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T10:33:16.953",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-09T10:33:17.297",
+      "ModifiedOn": "2021-12-09T10:33:17.297",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3050,
+          "Name": "Atiqullah",
+          "Name_Urdu": "عتیق اللہ",
+          "Name_Hindi": "Atiqullah Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2824,
+          "FileName": "1fec1646-bbae-4a5a-b5fa-a6c8fa2cd84b.epub",
+          "IsSample": false,
+          "Book_Id": 2824
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2824,
+          "FileName": "1fec1646-bbae-4a5a-b5fa-a6c8fa2cd84b.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2824
+        }
+      ],
+      "Users": [],
+      "Id": 2824,
+      "Title": "Maghrib Mein Tanqeed Ki Riwayat",
+      "Title_Urdu": "مغرب میں تنقید کی روایت",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7806268489011",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T10:32:22.043",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-09T10:32:22.467",
+      "ModifiedOn": "2021-12-09T10:32:22.467",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3049,
+          "Name": "Syed Abdul Bari",
+          "Name_Urdu": "سیّدعبد الباری",
+          "Name_Hindi": "Syed Abdul Bari Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2823,
+          "FileName": "42ad042b-69c7-4dcb-8a53-db7b2424587b.epub",
+          "IsSample": false,
+          "Book_Id": 2823
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2823,
+          "FileName": "42ad042b-69c7-4dcb-8a53-db7b2424587b.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2823
+        }
+      ],
+      "Users": [],
+      "Id": 2823,
+      "Title": "Lucknow Ke Sher-O-Adab",
+      "Title_Urdu": "لکھنؤ کے شعر و ادب ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1571968862194",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T10:31:21.8",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-09T10:31:22.24",
+      "ModifiedOn": "2021-12-09T10:31:22.24",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3048,
+          "Name": "Abdul Qadir Sarwari",
+          "Name_Urdu": "عبدالقادر سروری",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2822,
+          "FileName": "2198c153-b5e8-4581-a0d1-a00929dd8717.epub",
+          "IsSample": false,
+          "Book_Id": 2822
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2822,
+          "FileName": "2198c153-b5e8-4581-a0d1-a00929dd8717.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2822
+        }
+      ],
+      "Users": [],
+      "Id": 2822,
+      "Title": "Kirdar Aur Afsana",
+      "Title_Urdu": "کردار اور افسانہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "3186629402159",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T10:31:06.85",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-09T10:31:07.083",
+      "ModifiedOn": "2021-12-09T10:31:07.083",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3047,
+          "Name": "Dr Naresh",
+          "Name_Urdu": "ڈاکٹر نریش",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2821,
+          "FileName": "6ff5f10b-678c-4637-9a34-eceda3b5d77a.epub",
+          "IsSample": false,
+          "Book_Id": 2821
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2821,
+          "FileName": "6ff5f10b-678c-4637-9a34-eceda3b5d77a.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2821
+        }
+      ],
+      "Users": [],
+      "Id": 2821,
+      "Title": "Jadeed Hindi Shairi Par Urdu Ka Asar",
+      "Title_Urdu": "جدید ہندی شاعری پر اردو کا اثر",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8114822196920",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T10:30:02.053",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-09T10:30:02.24",
+      "ModifiedOn": "2021-12-09T10:30:02.24",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3045,
+          "Name": "Ali Ahmad Fatmi",
+          "Name_Urdu": "علی احمد فاطمی",
+          "Name_Hindi": "Ali Ahmad Fatmi Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2819,
+          "FileName": "a4439130-523d-4f05-9175-0b1f277985e0.epub",
+          "IsSample": false,
+          "Book_Id": 2819
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2819,
+          "FileName": "a4439130-523d-4f05-9175-0b1f277985e0.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2819
+        }
+      ],
+      "Users": [],
+      "Id": 2819,
+      "Title": "Baqiyate Ali Sardar Jafri",
+      "Title_Urdu": "باقیاتِ علی سردار جعفری",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8239122783302",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T09:59:03.92",
+      "PublishedYear": "2014",
+      "CreatedOn": "2021-12-09T09:59:04.583",
+      "ModifiedOn": "2021-12-09T09:59:04.583",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3044,
+          "Name": "Zubair Rizvi",
+          "Name_Urdu": "زبیر رضوی",
+          "Name_Hindi": "Zubair Rizvi Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2818,
+          "FileName": "a0826be5-813f-4916-b8d9-85307efa4101.epub",
+          "IsSample": false,
+          "Book_Id": 2818
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2818,
+          "FileName": "a0826be5-813f-4916-b8d9-85307efa4101.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2818
+        }
+      ],
+      "Users": [],
+      "Id": 2818,
+      "Title": "Asri Aalmi Adab Ke Sutoon",
+      "Title_Urdu": "عصری عالمی ادب کے ستون",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0295143065308",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T09:57:35.397",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-09T09:57:35.617",
+      "ModifiedOn": "2021-12-09T09:57:35.617",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3043,
+          "Name": "Mirza Khalil Ahmad Baig",
+          "Name_Urdu": "مرزا خلیل احمد بیگ",
+          "Name_Hindi": "Mirza Khalil Ahmad Baig Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2817,
+          "FileName": "e3fb6e3f-c831-4af2-afc5-92d8aa02abdc.epub",
+          "IsSample": false,
+          "Book_Id": 2817
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2817,
+          "FileName": "e3fb6e3f-c831-4af2-afc5-92d8aa02abdc.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2817
+        }
+      ],
+      "Users": [],
+      "Id": 2817,
+      "Title": "Asloobiyati Tanqeed",
+      "Title_Urdu": "اسلوبیاتی تنقید",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0530097350243",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T09:56:37.42",
+      "PublishedYear": "2014",
+      "CreatedOn": "2021-12-09T09:56:37.717",
+      "ModifiedOn": "2021-12-09T09:56:37.717",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3041,
+          "Name": "Ateequllah",
+          "Name_Urdu": "عتیق اللہ",
+          "Name_Hindi": "Ateequllah_Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2815,
+          "FileName": "2139f475-2bb7-4727-b8ed-b612e7527cc7.epub",
+          "IsSample": false,
+          "Book_Id": 2815
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2815,
+          "FileName": "2139f475-2bb7-4727-b8ed-b612e7527cc7.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2815
+        }
+      ],
+      "Users": [],
+      "Id": 2815,
+      "Title": "Asaaleeb",
+      "Title_Urdu": "اسالیب",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2936271821575",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T07:19:44.853",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-09T07:19:45.15",
+      "ModifiedOn": "2021-12-09T07:19:45.15",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3040,
+          "Name": "Dr Abdul Haleem Nadvi",
+          "Name_Urdu": "ڈاکٹر عبدالحلیم ندوی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2814,
+          "FileName": "074c1f0c-3812-4da2-80a5-4b9d4a0f9271.epub",
+          "IsSample": false,
+          "Book_Id": 2814
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2814,
+          "FileName": "074c1f0c-3812-4da2-80a5-4b9d4a0f9271.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2814
+        }
+      ],
+      "Users": [],
+      "Id": 2814,
+      "Title": "Arabi Adab Ki Tarikh",
+      "Title_Urdu": "عربی ادب کی تاریخ، جلد اوّل",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1928053120057",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T07:18:46.637",
+      "PublishedYear": "2009",
+      "CreatedOn": "2021-12-09T07:18:47.057",
+      "ModifiedOn": "2021-12-09T07:18:47.057",
+      "Volume": "3"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3038,
+          "Name": "Zoe Ansari Abul Faiz Sahar",
+          "Name_Urdu": "ظ انصاری ابو الفیض سحر",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 10,
+          "Name": "Research and Criticism",
+          "Name_Urdu": "تحقیق و تنقید",
+          "Name_Hindi": "Research and Criticism",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2812,
+          "FileName": "4a67b149-43c0-4bad-baff-881b1b227f29.epub",
+          "IsSample": false,
+          "Book_Id": 2812
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2812,
+          "FileName": "4a67b149-43c0-4bad-baff-881b1b227f29.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2812
+        }
+      ],
+      "Users": [],
+      "Id": 2812,
+      "Title": "KHUSRO SHANASI",
+      "Title_Urdu": "خسرو شناسی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5681688632800",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T06:33:49.217",
+      "PublishedYear": "2010",
+      "CreatedOn": "2021-12-09T06:33:49.59",
+      "ModifiedOn": "2021-12-09T06:33:49.59",
+      "Volume": ""
+    }
+  ],
+  "TotalBooksCount": 31,
+  "TotalPage": [
+    1
+  ]
+}

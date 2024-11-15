@@ -1,0 +1,471 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3106,
+          "Name": "Abra Husni Ginnori",
+          "Name_Urdu": "ابرا حسنی گنوری",
+          "Name_Hindi": "Abra Husni Ginnori"
+        },
+        {
+          "Books": [],
+          "Id": 3107,
+          "Name": " Shams Ramzi",
+          "Name_Urdu": " شمس رمزی",
+          "Name_Hindi": " Shams Ramzi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 11,
+          "Name": "Language and Linguistics",
+          "Name_Urdu": "زبان ولسانیات",
+          "Name_Hindi": "Language and Linguistics",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2880,
+          "FileName": "ec9abfdb-8da2-4456-99c1-87804333dc7c.epub",
+          "IsSample": false,
+          "Book_Id": 2880
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2880,
+          "FileName": "ec9abfdb-8da2-4456-99c1-87804333dc7c.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2880
+        }
+      ],
+      "Users": [],
+      "Id": 2880,
+      "Title": "Islahul Islah",
+      "Title_Urdu": "اصلاح الاصلاح",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6086585385951",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-13T10:08:16.68",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-13T10:08:16.867",
+      "ModifiedOn": "2021-12-13T10:08:16.867",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3097,
+          "Name": "Raghu Nath Ghai",
+          "Name_Urdu": "رگھو ناتھ گھئی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 11,
+          "Name": "Language and Linguistics",
+          "Name_Urdu": "زبان ولسانیات",
+          "Name_Hindi": "Language and Linguistics",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2871,
+          "FileName": "8b1d5d40-c612-490d-9946-b5fc703ad537.epub",
+          "IsSample": false,
+          "Book_Id": 2871
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2871,
+          "FileName": "8b1d5d40-c612-490d-9946-b5fc703ad537.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2871
+        }
+      ],
+      "Users": [],
+      "Id": 2871,
+      "Title": "Lamat-e-Baseerat",
+      "Title_Urdu": "لمعات بصیرت",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8505815163100",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:33:46.623",
+      "PublishedYear": "",
+      "CreatedOn": "2021-12-10T11:33:47.217",
+      "ModifiedOn": "2021-12-10T11:33:47.217",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3091,
+          "Name": "Authors",
+          "Name_Urdu": "مصنّفین",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 11,
+          "Name": "Language and Linguistics",
+          "Name_Urdu": "زبان ولسانیات",
+          "Name_Hindi": "Language and Linguistics",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2865,
+          "FileName": "9b6b9290-8f28-4c0d-9862-d687d18e4943.epub",
+          "IsSample": false,
+          "Book_Id": 2865
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2865,
+          "FileName": "9b6b9290-8f28-4c0d-9862-d687d18e4943.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2865
+        }
+      ],
+      "Users": [],
+      "Id": 2865,
+      "Title": "Dars-e-Balaghat",
+      "Title_Urdu": "درسِ بلاغت",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0423983700114",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:20:16.58",
+      "PublishedYear": "2009",
+      "CreatedOn": "2021-12-10T11:20:16.91",
+      "ModifiedOn": "2021-12-10T11:20:16.91",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3087,
+          "Name": "M.J. Warsi",
+          "Name_Urdu": "ایم جے وارثی",
+          "Name_Hindi": "M.J. Warsi_Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 11,
+          "Name": "Language and Linguistics",
+          "Name_Urdu": "زبان ولسانیات",
+          "Name_Hindi": "Language and Linguistics",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2861,
+          "FileName": "ba545557-3cec-4f35-ae72-d6ae0a96820a.epub",
+          "IsSample": false,
+          "Book_Id": 2861
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2861,
+          "FileName": "ba545557-3cec-4f35-ae72-d6ae0a96820a.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2861
+        }
+      ],
+      "Users": [],
+      "Id": 2861,
+      "Title": "Zuban-O-Tarseel",
+      "Title_Urdu": "زبان و ترسیل",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8466252493337",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:17:18.333",
+      "PublishedYear": "201ً5",
+      "CreatedOn": "2021-12-10T11:17:18.523",
+      "ModifiedOn": "2021-12-10T11:17:18.523",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3084,
+          "Name": "Prof. A. R. Fatihi",
+          "Name_Urdu": "پروفیسر علی رفاد فتیحی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 11,
+          "Name": "Language and Linguistics",
+          "Name_Urdu": "زبان ولسانیات",
+          "Name_Hindi": "Language and Linguistics",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2858,
+          "FileName": "9aae3ee2-f294-4930-9bb9-1082f0f8ff77.epub",
+          "IsSample": false,
+          "Book_Id": 2858
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2858,
+          "FileName": "9aae3ee2-f294-4930-9bb9-1082f0f8ff77.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2858
+        }
+      ],
+      "Users": [],
+      "Id": 2858,
+      "Title": "Urdu Lisaniyat",
+      "Title_Urdu": "اردو لسانیات",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4786312960405",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T10:26:01.66",
+      "PublishedYear": "2012",
+      "CreatedOn": "2021-12-10T10:26:01.91",
+      "ModifiedOn": "2021-12-10T10:26:01.91",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3079,
+          "Name": "Ismat Javed",
+          "Name_Urdu": "عصمت جاوید",
+          "Name_Hindi": "Ismat Javed Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 11,
+          "Name": "Language and Linguistics",
+          "Name_Urdu": "زبان ولسانیات",
+          "Name_Hindi": "Language and Linguistics",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2853,
+          "FileName": "aefda3c6-c332-4813-ae74-89035913764c.epub",
+          "IsSample": false,
+          "Book_Id": 2853
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2853,
+          "FileName": "aefda3c6-c332-4813-ae74-89035913764c.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2853
+        }
+      ],
+      "Users": [],
+      "Id": 2853,
+      "Title": "Nai Urdu Qawaid",
+      "Title_Urdu": "نئی اردو قواعد",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5752278373561",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T10:21:06.74",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-10T10:21:07.113",
+      "ModifiedOn": "2021-12-10T10:21:07.113",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3070,
+          "Name": "Ali Rafad Fatihi",
+          "Name_Urdu": "علی رفاد فتحیی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 11,
+          "Name": "Language and Linguistics",
+          "Name_Urdu": "زبان ولسانیات",
+          "Name_Hindi": "Language and Linguistics",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2844,
+          "FileName": "72078274-7262-4476-b3ca-5bf1b4ad37c4.epub",
+          "IsSample": false,
+          "Book_Id": 2844
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2844,
+          "FileName": "72078274-7262-4476-b3ca-5bf1b4ad37c4.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2844
+        }
+      ],
+      "Users": [],
+      "Id": 2844,
+      "Title": "Lafz Saazi",
+      "Title_Urdu": "لفظ سازی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9732806544856",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T07:20:29.713",
+      "PublishedYear": "2013",
+      "CreatedOn": "2021-12-10T07:20:29.917",
+      "ModifiedOn": "2021-12-10T07:20:29.917",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3061,
+          "Name": "Prof. Abdus Sattar Dalvi",
+          "Name_Urdu": "پروفیسر عبد الستّار دلوی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 11,
+          "Name": "Language and Linguistics",
+          "Name_Urdu": "زبان ولسانیات",
+          "Name_Hindi": "Language and Linguistics",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2835,
+          "FileName": "d08492ed-ac6c-4c7d-a0d7-889cf9607f24.epub",
+          "IsSample": false,
+          "Book_Id": 2835
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2835,
+          "FileName": "d08492ed-ac6c-4c7d-a0d7-889cf9607f24.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2835
+        }
+      ],
+      "Users": [],
+      "Id": 2835,
+      "Title": "Urdu Mein Lisani Tehqeeq",
+      "Title_Urdu": "اردو میں لسانی تحقیق",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2699787152157",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T12:41:09.017",
+      "PublishedYear": "201ً5",
+      "CreatedOn": "2021-12-09T12:41:09.567",
+      "ModifiedOn": "2021-12-09T12:41:09.567",
+      "Volume": ""
+    }
+  ],
+  "TotalBooksCount": 8,
+  "TotalPage": [
+    1
+  ]
+}

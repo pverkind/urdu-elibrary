@@ -1,0 +1,179 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3105,
+          "Name": "Abdul Wadood Ansari",
+          "Name_Urdu": "عبدالودود انصاری",
+          "Name_Hindi": "Abdul Wadood Ansari Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 18,
+          "Name": "Science, Technology and Geography",
+          "Name_Urdu": "سائنس، تکنیک  جغرافیہ",
+          "Name_Hindi": "Science, Technology and Geography",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2879,
+          "FileName": "f351dedb-7533-4e69-b2cc-7f685929bf5f.epub",
+          "IsSample": false,
+          "Book_Id": 2879
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2879,
+          "FileName": "f351dedb-7533-4e69-b2cc-7f685929bf5f.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2879
+        }
+      ],
+      "Users": [],
+      "Id": 2879,
+      "Title": "AWRAQ-E-SCIENCE",
+      "Title_Urdu": "اوراق سائنس",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8736291613889",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:47:03.107",
+      "PublishedYear": "",
+      "CreatedOn": "2021-12-10T11:47:03.277",
+      "ModifiedOn": "2021-12-10T11:47:03.277",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3102,
+          "Name": "Mateen Achalpuri",
+          "Name_Urdu": "متین اچلپوری",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 18,
+          "Name": "Science, Technology and Geography",
+          "Name_Urdu": "سائنس، تکنیک  جغرافیہ",
+          "Name_Hindi": "Science, Technology and Geography",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2876,
+          "FileName": "fbbc1228-aa6d-4144-87d2-84ceb25324ee.epub",
+          "IsSample": false,
+          "Book_Id": 2876
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2876,
+          "FileName": "fbbc1228-aa6d-4144-87d2-84ceb25324ee.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2876
+        }
+      ],
+      "Users": [],
+      "Id": 2876,
+      "Title": "Maholnama",
+      "Title_Urdu": "ماحول نامہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1280195368557",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:41:35.153",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-10T11:41:35.327",
+      "ModifiedOn": "2021-12-10T11:41:35.327",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3100,
+          "Name": "Dr. Rafiuddin Naser",
+          "Name_Urdu": "ڈاکٹر رفیع الدین ناصر",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 18,
+          "Name": "Science, Technology and Geography",
+          "Name_Urdu": "سائنس، تکنیک  جغرافیہ",
+          "Name_Hindi": "Science, Technology and Geography",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2874,
+          "FileName": "385d3f9d-6858-443e-8d0f-beb900f6d1ea.epub",
+          "IsSample": false,
+          "Book_Id": 2874
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2874,
+          "FileName": "385d3f9d-6858-443e-8d0f-beb900f6d1ea.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2874
+        }
+      ],
+      "Users": [],
+      "Id": 2874,
+      "Title": "Fizai Aludgi",
+      "Title_Urdu": "فضائی آلودگی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "3177343733219",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:37:28.293",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-10T11:37:29.263",
+      "ModifiedOn": "2021-12-10T11:37:29.263",
+      "Volume": ""
+    }
+  ],
+  "TotalBooksCount": 3,
+  "TotalPage": [
+    1
+  ]
+}

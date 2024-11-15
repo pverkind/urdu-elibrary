@@ -1,0 +1,2117 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3101,
+          "Name": "Najma Zaheer Baquer",
+          "Name_Urdu": "نجمہ ظہیر",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2875,
+          "FileName": "6baaf041-e9f7-41d1-861c-3feb88efb383.epub",
+          "IsSample": false,
+          "Book_Id": 2875
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2875,
+          "FileName": "6baaf041-e9f7-41d1-861c-3feb88efb383.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2875
+        }
+      ],
+      "Users": [],
+      "Id": 2875,
+      "Title": "Kulliyat-e-Sajjad Zaheer,Roshnai",
+      "Title_Urdu": "کلیات سجّاد ظہیر، روشنائی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4210993213546",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:39:20.633",
+      "PublishedYear": "2013",
+      "CreatedOn": "2021-12-10T11:39:20.913",
+      "ModifiedOn": "2021-12-10T11:39:20.913",
+      "Volume": "1"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3098,
+          "Name": "Meer Taqi Meer",
+          "Name_Urdu": "میر تقی میر",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2872,
+          "FileName": "4c2b5959-b4a1-4862-8779-b3c7ce1cb8c3.epub",
+          "IsSample": false,
+          "Book_Id": 2872
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2872,
+          "FileName": "4c2b5959-b4a1-4862-8779-b3c7ce1cb8c3.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2872
+        }
+      ],
+      "Users": [],
+      "Id": 2872,
+      "Title": "Kulliyat-e-Meer",
+      "Title_Urdu": "کلّیاتِ میر",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9935406931439",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:34:34.52",
+      "PublishedYear": "2003",
+      "CreatedOn": "2021-12-10T11:34:34.783",
+      "ModifiedOn": "2021-12-10T11:34:34.783",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3096,
+          "Name": "Muslim Saleem",
+          "Name_Urdu": "مسلم سلیم",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2870,
+          "FileName": "62f87a75-84b2-4771-9b9a-114403d357be.epub",
+          "IsSample": false,
+          "Book_Id": 2870
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2870,
+          "FileName": "62f87a75-84b2-4771-9b9a-114403d357be.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2870
+        }
+      ],
+      "Users": [],
+      "Id": 2870,
+      "Title": "Kulliyat-e-Saleem Wahid Saleem",
+      "Title_Urdu": "کلیاتِ سلیم واحد سلیم",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1447586801176",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:31:45.55",
+      "PublishedYear": "2014",
+      "CreatedOn": "2021-12-10T11:31:45.77",
+      "ModifiedOn": "2021-12-10T11:31:45.77",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3095,
+          "Name": "Noorul Hasan Naqvi",
+          "Name_Urdu": "نور الحسن نقوی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2869,
+          "FileName": "99dd4f38-76a5-4661-b3b8-046f243c7663.epub",
+          "IsSample": false,
+          "Book_Id": 2869
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2869,
+          "FileName": "99dd4f38-76a5-4661-b3b8-046f243c7663.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2869
+        }
+      ],
+      "Users": [],
+      "Id": 2869,
+      "Title": "Kulliyat-e-Musahfi",
+      "Title_Urdu": "کلیات مصحفی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2289621405101",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:30:55.657",
+      "PublishedYear": "2013",
+      "CreatedOn": "2021-12-10T11:30:55.953",
+      "ModifiedOn": "2021-12-10T11:30:55.953",
+      "Volume": "9"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3094,
+          "Name": "Prof. Fazle Imam",
+          "Name_Urdu": "پروفیسر فضلِ امام",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2868,
+          "FileName": "20e9cb8d-972c-4512-97d1-226fc58e9194.epub",
+          "IsSample": false,
+          "Book_Id": 2868
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2868,
+          "FileName": "20e9cb8d-972c-4512-97d1-226fc58e9194.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2868
+        }
+      ],
+      "Users": [],
+      "Id": 2868,
+      "Title": "Kulliyat-e-Mekash Akbarabadi",
+      "Title_Urdu": "کلیات میکش اکبرآبادی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8626114651359",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:30:08.35",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-10T11:30:08.85",
+      "ModifiedOn": "2021-12-10T11:30:08.85",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3093,
+          "Name": "Ataur Rahman Qasmi",
+          "Name_Urdu": "عطاء الرحمن قاسمی",
+          "Name_Hindi": "Ataur Rahman Qasmi Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2867,
+          "FileName": "70bfeabf-27ad-48fe-b1cd-2c4d2753861d.epub",
+          "IsSample": false,
+          "Book_Id": 2867
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2867,
+          "FileName": "70bfeabf-27ad-48fe-b1cd-2c4d2753861d.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2867
+        }
+      ],
+      "Users": [],
+      "Id": 2867,
+      "Title": "Kulliyate Majidi",
+      "Title_Urdu": "کلیات ماجدی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0738891745842",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:28:00.147",
+      "PublishedYear": "2014",
+      "CreatedOn": "2021-12-10T11:28:00.477",
+      "ModifiedOn": "2021-12-10T11:28:00.477",
+      "Volume": "2"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3037,
+          "Name": "Khalid Mahmood",
+          "Name_Urdu": "خالد محمود",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2811,
+          "FileName": "596d8484-3101-44c7-b9a7-d25139532bf3.epub",
+          "IsSample": false,
+          "Book_Id": 2811
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2811,
+          "FileName": "596d8484-3101-44c7-b9a7-d25139532bf3.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2811
+        }
+      ],
+      "Users": [],
+      "Id": 2811,
+      "Title": "Kulliyat-e-Mulla Ramoozi",
+      "Title_Urdu": "کلّیاتِ مُلّا رموزی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8236647419385",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-09T06:30:56.107",
+      "PublishedYear": "2013",
+      "CreatedOn": "2021-12-09T06:30:57.06",
+      "ModifiedOn": "2021-12-09T06:30:57.06",
+      "Volume": "1"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3036,
+          "Name": "Chander Bhan Khayal",
+          "Name_Urdu": "چندر بھان خیال",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2810,
+          "FileName": "10b210ac-acd7-478f-a4d4-429f3813e29e.epub",
+          "IsSample": false,
+          "Book_Id": 2810
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2810,
+          "FileName": "10b210ac-acd7-478f-a4d4-429f3813e29e.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2810
+        }
+      ],
+      "Users": [],
+      "Id": 2810,
+      "Title": "Kulliyat-e-Kumar Pashi",
+      "Title_Urdu": "کلیاتِ کمار پاشی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5079668016419",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T06:45:23.163",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-02T06:45:24.273",
+      "ModifiedOn": "2021-12-02T06:45:24.273",
+      "Volume": "1"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3035,
+          "Name": "Jameel Akhtar",
+          "Name_Urdu": "جمیل اختر",
+          "Name_Hindi": "Jameel Akhtar Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2809,
+          "FileName": "3f010a88-e467-4968-ad6b-a41994db40ef.epub",
+          "IsSample": false,
+          "Book_Id": 2809
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2809,
+          "FileName": "3f010a88-e467-4968-ad6b-a41994db40ef.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2809
+        }
+      ],
+      "Users": [],
+      "Id": 2809,
+      "Title": "Aaina-e-Jahan",
+      "Title_Urdu": "آئینۂ ادب",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5727955281337",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:34:05.763",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-02T04:34:06.077",
+      "ModifiedOn": "2021-12-02T04:34:06.077",
+      "Volume": "5"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3034,
+          "Name": "Jameel Akhtar",
+          "Name_Urdu": "جمیل اختر",
+          "Name_Hindi": "Jameel Akhtar Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2808,
+          "FileName": "2549cb62-0ebf-4ca5-808c-e14701a8cff8.epub",
+          "IsSample": false,
+          "Book_Id": 2808
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2808,
+          "FileName": "2549cb62-0ebf-4ca5-808c-e14701a8cff8.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2808
+        }
+      ],
+      "Users": [],
+      "Id": 2808,
+      "Title": "Aaina-e-Jahan Vol 6",
+      "Title_Urdu": "آئینۂ جہاں جلد ششم",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8107124070350",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:33:55.773",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-02T04:33:56.103",
+      "ModifiedOn": "2021-12-02T04:33:56.103",
+      "Volume": "6"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3033,
+          "Name": "Jameel Akhtar",
+          "Name_Urdu": "جمیل اختر",
+          "Name_Hindi": "Jameel Akhtar Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2807,
+          "FileName": "7727ded3-78d7-407e-a3f0-ba5be876241b.epub",
+          "IsSample": false,
+          "Book_Id": 2807
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2807,
+          "FileName": "7727ded3-78d7-407e-a3f0-ba5be876241b.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2807
+        }
+      ],
+      "Users": [],
+      "Id": 2807,
+      "Title": "Aaina-e-Jahan Vol 7",
+      "Title_Urdu": "آئینۂ جہاں جلد ہفتم",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9200978127751",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:33:45.123",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-02T04:33:45.42",
+      "ModifiedOn": "2021-12-02T04:33:45.42",
+      "Volume": "7"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3032,
+          "Name": "Jameel Akhtar",
+          "Name_Urdu": "جمیل اختر",
+          "Name_Hindi": "Jameel Akhtar Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2806,
+          "FileName": "a1b7c797-43d4-4f5f-a474-d2437df92f41.epub",
+          "IsSample": false,
+          "Book_Id": 2806
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2806,
+          "FileName": "a1b7c797-43d4-4f5f-a474-d2437df92f41.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2806
+        }
+      ],
+      "Users": [],
+      "Id": 2806,
+      "Title": "Aaina-e-Jahan",
+      "Title_Urdu": "آئینۂ ادب",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9428819649494",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:33:32.487",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-02T04:33:32.753",
+      "ModifiedOn": "2021-12-02T04:33:32.753",
+      "Volume": "8"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3031,
+          "Name": "Jameel Akhtar",
+          "Name_Urdu": "جمیل اختر",
+          "Name_Hindi": "Jameel Akhtar Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2805,
+          "FileName": "eedc4bfe-e4b9-48f8-84dd-2c37cf1ddd71.epub",
+          "IsSample": false,
+          "Book_Id": 2805
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2805,
+          "FileName": "eedc4bfe-e4b9-48f8-84dd-2c37cf1ddd71.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2805
+        }
+      ],
+      "Users": [],
+      "Id": 2805,
+      "Title": "Aaina-e-Jahan",
+      "Title_Urdu": "آئینۂ ادب",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2933064728964",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:33:08.927",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-02T04:33:09.147",
+      "ModifiedOn": "2021-12-02T04:33:09.147",
+      "Volume": "10"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3030,
+          "Name": "Jameel Akhtar",
+          "Name_Urdu": "جمیل اختر",
+          "Name_Hindi": "Jameel Akhtar Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2804,
+          "FileName": "cafc55d8-d74f-4b88-95fe-5efedb5bf820.epub",
+          "IsSample": false,
+          "Book_Id": 2804
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2804,
+          "FileName": "cafc55d8-d74f-4b88-95fe-5efedb5bf820.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2804
+        }
+      ],
+      "Users": [],
+      "Id": 2804,
+      "Title": "Aaina-e-Jahan",
+      "Title_Urdu": "آئینۂ ادب",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1837022624333",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:32:57.383",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-02T04:32:57.62",
+      "ModifiedOn": "2021-12-02T04:32:57.62",
+      "Volume": "11"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3029,
+          "Name": "Jameel Akhtar",
+          "Name_Urdu": "جمیل اختر",
+          "Name_Hindi": "Jameel Akhtar Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2803,
+          "FileName": "32747ddd-9411-4a06-9c72-95dfc3b24848.epub",
+          "IsSample": false,
+          "Book_Id": 2803
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2803,
+          "FileName": "32747ddd-9411-4a06-9c72-95dfc3b24848.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2803
+        }
+      ],
+      "Users": [],
+      "Id": 2803,
+      "Title": "Aaina-e-Jahan",
+      "Title_Urdu": "آئینۂ جہاں، جلد نہم",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7186559447303",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:32:20.533",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-02T04:32:20.83",
+      "ModifiedOn": "2021-12-02T04:32:20.83",
+      "Volume": "9"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3028,
+          "Name": "Yaqoob Yawar",
+          "Name_Urdu": "یعقوب یاور",
+          "Name_Hindi": "Yaqoob Yawar_Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2802,
+          "FileName": "ac5bea38-7377-497b-80c4-5552a692265e.epub",
+          "IsSample": false,
+          "Book_Id": 2802
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2802,
+          "FileName": "ac5bea38-7377-497b-80c4-5552a692265e.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2802
+        }
+      ],
+      "Users": [],
+      "Id": 2802,
+      "Title": "Agha Hashr Kashmiri",
+      "Title_Urdu": "آغا حشر کاشمیری",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5958468512716",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:23:48.797",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-02T04:23:49.077",
+      "ModifiedOn": "2021-12-02T04:23:49.077",
+      "Volume": "8"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3027,
+          "Name": "Yaqoob Yawar",
+          "Name_Urdu": "یعقوب یاور",
+          "Name_Hindi": "Yaqoob Yawar_Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2801,
+          "FileName": "ba48e1b3-2a72-48aa-8514-2e4fcd433e06.epub",
+          "IsSample": false,
+          "Book_Id": 2801
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2801,
+          "FileName": "ba48e1b3-2a72-48aa-8514-2e4fcd433e06.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2801
+        }
+      ],
+      "Users": [],
+      "Id": 2801,
+      "Title": "Agha Hashr Kashmiri",
+      "Title_Urdu": "آغا حشر کاشمیری",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7753502869177",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:23:36.477",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-02T04:23:36.68",
+      "ModifiedOn": "2021-12-02T04:23:36.68",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3026,
+          "Name": "Dr Hussain Majid",
+          "Name_Urdu": "ڈاکٹر حسین ماجد",
+          "Name_Hindi": "Dr Hussain Majid Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2800,
+          "FileName": "a8b87929-1c7a-4212-b655-17fa4f1a0b4b.epub",
+          "IsSample": false,
+          "Book_Id": 2800
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2800,
+          "FileName": "a8b87929-1c7a-4212-b655-17fa4f1a0b4b.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2800
+        }
+      ],
+      "Users": [],
+      "Id": 2800,
+      "Title": "Bahare Gulshane Kashmir Vol 2",
+      "Title_Urdu": "بہارِ گلشنِ کشمیر",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7106886719096",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:22:57.057",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-02T04:22:57.667",
+      "ModifiedOn": "2021-12-02T04:22:57.667",
+      "Volume": "2"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3025,
+          "Name": "Dr Hussain Majid",
+          "Name_Urdu": "ڈاکٹر حسین ماجد",
+          "Name_Hindi": "Dr Hussain Majid Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2799,
+          "FileName": "9e256912-c2bd-4141-aec5-ed843258106f.epub",
+          "IsSample": false,
+          "Book_Id": 2799
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2799,
+          "FileName": "9e256912-c2bd-4141-aec5-ed843258106f.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2799
+        }
+      ],
+      "Users": [],
+      "Id": 2799,
+      "Title": "Bahare Gulshane Kashmir",
+      "Title_Urdu": "بہارِ گلشنِ کشمیر",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5353052052626",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:22:38.737",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-02T04:22:39.107",
+      "ModifiedOn": "2021-12-02T04:22:39.107",
+      "Volume": "4"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3024,
+          "Name": "Dr Hussain Majid",
+          "Name_Urdu": "ڈاکٹر حسین ماجد",
+          "Name_Hindi": "Dr Hussain Majid Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2798,
+          "FileName": "daee720a-7086-40f3-91ba-90208bee04c3.epub",
+          "IsSample": false,
+          "Book_Id": 2798
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2798,
+          "FileName": "daee720a-7086-40f3-91ba-90208bee04c3.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2798
+        }
+      ],
+      "Users": [],
+      "Id": 2798,
+      "Title": "Bahare Gulshane Kashmir",
+      "Title_Urdu": "بہارِ گلشنِ کشمیر",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2305466312123",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:22:23.27",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-02T04:22:23.99",
+      "ModifiedOn": "2021-12-02T04:22:23.99",
+      "Volume": "1"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3023,
+          "Name": "Prof. Shamsul Haq Usmani",
+          "Name_Urdu": "پروفیسر شمس الحق عثمانی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2797,
+          "FileName": "9de9c5d7-ede7-4895-b3ed-a00989668cf5.epub",
+          "IsSample": false,
+          "Book_Id": 2797
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2797,
+          "FileName": "9de9c5d7-ede7-4895-b3ed-a00989668cf5.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2797
+        }
+      ],
+      "Users": [],
+      "Id": 2797,
+      "Title": "Kulliat-e-Saadat Hasan Manto",
+      "Title_Urdu": "کلّیاتِ سعادت حسن مَنٹَو",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8720793939894",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:20:53.893",
+      "PublishedYear": "2007",
+      "CreatedOn": "2021-12-02T04:20:54.423",
+      "ModifiedOn": "2021-12-02T04:20:54.423",
+      "Volume": "2"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3022,
+          "Name": "Prof. Shamsul Haq Usmani",
+          "Name_Urdu": "پروفیسر شمس الحق عثمانی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2796,
+          "FileName": "b320c076-7643-472d-af18-cc567ade3c2b.epub",
+          "IsSample": false,
+          "Book_Id": 2796
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2796,
+          "FileName": "b320c076-7643-472d-af18-cc567ade3c2b.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2796
+        }
+      ],
+      "Users": [],
+      "Id": 2796,
+      "Title": "Kulliat-e-Saadat Hasan Manto",
+      "Title_Urdu": "کلّیاتِ سعادت حسن مَنٹَو",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8918239218129",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:19:12.907",
+      "PublishedYear": "2006",
+      "CreatedOn": "2021-12-02T04:19:13.437",
+      "ModifiedOn": "2021-12-02T04:19:13.437",
+      "Volume": "1"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3021,
+          "Name": "Ataur Rahman Qasmi",
+          "Name_Urdu": "عطاء الرحمن قاسمی",
+          "Name_Hindi": "Ataur Rahman Qasmi Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2795,
+          "FileName": "2f7fa275-4a4b-44f4-afec-30f1bffcbd51.epub",
+          "IsSample": false,
+          "Book_Id": 2795
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2795,
+          "FileName": "2f7fa275-4a4b-44f4-afec-30f1bffcbd51.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2795
+        }
+      ],
+      "Users": [],
+      "Id": 2795,
+      "Title": "Kulliyate Majidi Vol 3",
+      "Title_Urdu": "کلیات ماجدی جلد ۳",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9851085553399",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:17:15.63",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-02T04:17:15.943",
+      "ModifiedOn": "2021-12-02T04:17:15.943",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3020,
+          "Name": "Dr. Sarwarul Huda",
+          "Name_Urdu": "ڈاکٹر سرورالہدیٰ",
+          "Name_Hindi": "Dr. Sarwarul Huda Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2794,
+          "FileName": "1b6246a0-6285-40de-98b7-261f9666d1cb.epub",
+          "IsSample": false,
+          "Book_Id": 2794
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2794,
+          "FileName": "1b6246a0-6285-40de-98b7-261f9666d1cb.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2794
+        }
+      ],
+      "Users": [],
+      "Id": 2794,
+      "Title": "Kulliyate Mazameene Waheed Akhtar 4",
+      "Title_Urdu": "کلیاتِ مضامینِ وحید اختر",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7589457089988",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:13:41.363",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-02T04:13:41.707",
+      "ModifiedOn": "2021-12-02T04:13:41.707",
+      "Volume": "4"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3019,
+          "Name": "Dr. Sarwarul Huda",
+          "Name_Urdu": "ڈاکٹر سرورالہدیٰ",
+          "Name_Hindi": "Dr. Sarwarul Huda Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2793,
+          "FileName": "193458ca-43f4-43a7-abba-0d4332c1ecce.epub",
+          "IsSample": false,
+          "Book_Id": 2793
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2793,
+          "FileName": "193458ca-43f4-43a7-abba-0d4332c1ecce.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2793
+        }
+      ],
+      "Users": [],
+      "Id": 2793,
+      "Title": "Kulliyate Mazameene Waheed Akhtar 5",
+      "Title_Urdu": "کلیاتِ مضامینِ وحید اختر",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "3070412561239",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:13:00.157",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-02T04:13:00.423",
+      "ModifiedOn": "2021-12-02T04:13:00.423",
+      "Volume": "5"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3018,
+          "Name": "Dr. Sarwarul Huda",
+          "Name_Urdu": "ڈاکٹر سرورالہدیٰ",
+          "Name_Hindi": "Dr. Sarwarul Huda Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2792,
+          "FileName": "a7830a6c-284c-4307-bf99-06ce57689221.epub",
+          "IsSample": false,
+          "Book_Id": 2792
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2792,
+          "FileName": "a7830a6c-284c-4307-bf99-06ce57689221.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2792
+        }
+      ],
+      "Users": [],
+      "Id": 2792,
+      "Title": "Kulliyate Mazameene Waheed Akhtar 6",
+      "Title_Urdu": "کلیاتِ مضامینِ وحید اختر",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6528478225304",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-02T04:12:22.323",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-02T04:12:22.87",
+      "ModifiedOn": "2021-12-02T04:12:22.87",
+      "Volume": "6"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3017,
+          "Name": "Abid Suhail",
+          "Name_Urdu": "عابد سہیل ",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2791,
+          "FileName": "dc767313-13d2-4556-9c56-5d08218bfb6e.epub",
+          "IsSample": false,
+          "Book_Id": 2791
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2791,
+          "FileName": "dc767313-13d2-4556-9c56-5d08218bfb6e.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2791
+        }
+      ],
+      "Users": [],
+      "Id": 2791,
+      "Title": "Kulliyat-e-Abdul Aleem",
+      "Title_Urdu": "کلّیاتِ عبدالعلیم",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0695292229723",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T15:00:18.55",
+      "PublishedYear": "2012",
+      "CreatedOn": "2021-12-01T15:00:19.127",
+      "ModifiedOn": "2021-12-01T15:00:19.127",
+      "Volume": "2"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3016,
+          "Name": "Abid Suhail",
+          "Name_Urdu": "عابد سہیل ",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2790,
+          "FileName": "1de53959-0515-4756-8130-097b7d5b3c0a.epub",
+          "IsSample": false,
+          "Book_Id": 2790
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2790,
+          "FileName": "1de53959-0515-4756-8130-097b7d5b3c0a.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2790
+        }
+      ],
+      "Users": [],
+      "Id": 2790,
+      "Title": "Kulliyat-e-Abdul Aleem",
+      "Title_Urdu": "کلّیاتِ عبدالعلیم",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1712116074468",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T14:58:50.597",
+      "PublishedYear": "2012",
+      "CreatedOn": "2021-12-01T14:58:51.16",
+      "ModifiedOn": "2021-12-01T14:58:51.16",
+      "Volume": "1"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3015,
+          "Name": "Ahmad Mahfooz",
+          "Name_Urdu": "احمد محفوظ",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2789,
+          "FileName": "087c1c97-dd7b-4abb-ac02-507e9e8aec94.epub",
+          "IsSample": false,
+          "Book_Id": 2789
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2789,
+          "FileName": "087c1c97-dd7b-4abb-ac02-507e9e8aec94.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2789
+        }
+      ],
+      "Users": [],
+      "Id": 2789,
+      "Title": "Kulliyat-e-Akbar Allahabadi",
+      "Title_Urdu": "کلیات اکبر الٰہ آبادی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5391186401860",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T14:57:25.61",
+      "PublishedYear": "2016",
+      "CreatedOn": "2021-12-01T14:57:25.75",
+      "ModifiedOn": "2021-12-01T14:57:25.75",
+      "Volume": "3"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3014,
+          "Name": "Ahmad Mahfooz",
+          "Name_Urdu": "احمد محفوظ",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2788,
+          "FileName": "051a1de5-d3a0-4e1f-a0d5-4bf77ac51cf3.epub",
+          "IsSample": false,
+          "Book_Id": 2788
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2788,
+          "FileName": "051a1de5-d3a0-4e1f-a0d5-4bf77ac51cf3.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2788
+        }
+      ],
+      "Users": [],
+      "Id": 2788,
+      "Title": "Kulliyat-e-Akbar Allahabadi",
+      "Title_Urdu": "کلیات اکبر الٰہ آبادی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8100408209445",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T14:55:28.777",
+      "PublishedYear": "2013",
+      "CreatedOn": "2021-12-01T14:55:29.027",
+      "ModifiedOn": "2021-12-01T14:55:29.027",
+      "Volume": "2"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3013,
+          "Name": "Jameel Akhtar",
+          "Name_Urdu": "جمیل اختر",
+          "Name_Hindi": "Jameel Akhtar Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2787,
+          "FileName": "188b3317-e61f-4167-bd9b-9a3e81db2443.epub",
+          "IsSample": false,
+          "Book_Id": 2787
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2787,
+          "FileName": "188b3317-e61f-4167-bd9b-9a3e81db2443.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2787
+        }
+      ],
+      "Users": [],
+      "Id": 2787,
+      "Title": "Kulliyat-e-Balwant Singh",
+      "Title_Urdu": "کلّیاتِ بلونت سنگھ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2099945063351",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T14:54:48.23",
+      "PublishedYear": "2012",
+      "CreatedOn": "2021-12-01T14:54:48.763",
+      "ModifiedOn": "2021-12-01T14:54:48.763",
+      "Volume": "8"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3012,
+          "Name": "Gobind Prasad",
+          "Name_Urdu": "گوبند پرساد",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2786,
+          "FileName": "45a5af9f-7d88-4aa9-9243-bf53b791e67e.epub",
+          "IsSample": false,
+          "Book_Id": 2786
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2786,
+          "FileName": "45a5af9f-7d88-4aa9-9243-bf53b791e67e.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2786
+        }
+      ],
+      "Users": [],
+      "Id": 2786,
+      "Title": "Kulliyat-e-Bani",
+      "Title_Urdu": "کلیات بانی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0739221652127",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T14:52:49.08",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-01T14:52:49.237",
+      "ModifiedOn": "2021-12-01T14:52:49.237",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3011,
+          "Name": "Mohd Nauman Khan",
+          "Name_Urdu": "محمد نعمان خان",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2785,
+          "FileName": "baeafb85-3a5b-4959-a7d4-567e1dd9404e.epub",
+          "IsSample": false,
+          "Book_Id": 2785
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2785,
+          "FileName": "baeafb85-3a5b-4959-a7d4-567e1dd9404e.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2785
+        }
+      ],
+      "Users": [],
+      "Id": 2785,
+      "Title": "Kulliyat-e-Ibraheem Yousuf",
+      "Title_Urdu": "کلیاتِ ابراہیم یوسف",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6121618254351",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T14:49:37.403",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-01T14:49:37.857",
+      "ModifiedOn": "2021-12-01T14:49:37.857",
+      "Volume": "3"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3010,
+          "Name": "Mohd Nauman Khan",
+          "Name_Urdu": "محمد نعمان خان",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2784,
+          "FileName": "ec0600a3-39e6-418f-86d3-bf6c4736089f.epub",
+          "IsSample": false,
+          "Book_Id": 2784
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2784,
+          "FileName": "ec0600a3-39e6-418f-86d3-bf6c4736089f.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2784
+        }
+      ],
+      "Users": [],
+      "Id": 2784,
+      "Title": "Kulliyat-e-Ibraheem Yousuf",
+      "Title_Urdu": "کلیاتِ ابراہیم یوسف",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6659907560923",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T14:48:55.387",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-01T14:48:55.933",
+      "ModifiedOn": "2021-12-01T14:48:55.933",
+      "Volume": "4"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3009,
+          "Name": "Mohd Nauman Khan",
+          "Name_Urdu": "محمد نعمان خان",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2783,
+          "FileName": "c5d1ebb3-91f3-47cb-842e-5564774e64a5.epub",
+          "IsSample": false,
+          "Book_Id": 2783
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2783,
+          "FileName": "c5d1ebb3-91f3-47cb-842e-5564774e64a5.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2783
+        }
+      ],
+      "Users": [],
+      "Id": 2783,
+      "Title": "Kulliyat-e-Ibraheem Yousuf",
+      "Title_Urdu": "کلیاتِ ابراہیم یوسف",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0731797588271",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T14:47:38.43",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-01T14:47:38.883",
+      "ModifiedOn": "2021-12-01T14:47:38.883",
+      "Volume": "2"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3008,
+          "Name": "Mohd Nauman Khan",
+          "Name_Urdu": "محمد نعمان خان",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2782,
+          "FileName": "5dca87a0-1aef-4597-8534-eb32b71a543e.epub",
+          "IsSample": false,
+          "Book_Id": 2782
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2782,
+          "FileName": "5dca87a0-1aef-4597-8534-eb32b71a543e.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2782
+        }
+      ],
+      "Users": [],
+      "Id": 2782,
+      "Title": "Kulliyat-e-Ibraheem Yusuf",
+      "Title_Urdu": "کلیاتِ ابراہیم یوسف",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5084349818330",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T14:44:00.2",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-01T14:44:00.653",
+      "ModifiedOn": "2021-12-01T14:44:00.653",
+      "Volume": "1"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3007,
+          "Name": "Qamar Rais",
+          "Name_Urdu": "قمر رئیس",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 12,
+          "Name": "Kulliyat",
+          "Name_Urdu": "کلیات",
+          "Name_Hindi": "Kulliyat",
+          "ModifiedOn": "2021-10-25T09:22:15.1866667"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2781,
+          "FileName": "d61f1216-e375-4a56-84c6-9f5d8ab9bd0c.epub",
+          "IsSample": false,
+          "Book_Id": 2781
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2781,
+          "FileName": "d61f1216-e375-4a56-84c6-9f5d8ab9bd0c.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2781
+        }
+      ],
+      "Users": [],
+      "Id": 2781,
+      "Title": "Kulliyat-e-Josh",
+      "Title_Urdu": "کلّیاتِ جوش",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "4542363094539",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T14:41:55.5",
+      "PublishedYear": "2013",
+      "CreatedOn": "2021-12-01T14:41:56.377",
+      "ModifiedOn": "2021-12-01T14:41:56.377",
+      "Volume": "1"
+    }
+  ],
+  "TotalBooksCount": 37,
+  "TotalPage": [
+    1
+  ]
+}

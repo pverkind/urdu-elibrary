@@ -1,0 +1,464 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3110,
+          "Name": "Dhirendra Singh Jafa",
+          "Name_Urdu": "دھیریندر سنگھ جفا",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 3,
+          "Name": "Non-Fiction",
+          "Name_Urdu": "غیر افسانوی ادب",
+          "Name_Hindi": "Non-Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2882,
+          "FileName": "63f343bd-bd26-4886-89a1-e4b5d8396728.epub",
+          "IsSample": false,
+          "Book_Id": 2882
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2882,
+          "FileName": "63f343bd-bd26-4886-89a1-e4b5d8396728.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2882
+        }
+      ],
+      "Users": [],
+      "Id": 2882,
+      "Title": "Jitne Door Utne Paas",
+      "Title_Urdu": "جتنے دور اُتنے پاس",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5670965218124",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-14T06:45:13.27",
+      "PublishedYear": "2018",
+      "CreatedOn": "2021-12-14T06:45:14.207",
+      "ModifiedOn": "2021-12-14T06:45:14.207",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 829,
+          "Name": "Dr. Sheikh Mohammad Abdullah",
+          "Name_Urdu": "ڈاکٹر شیخ محمد عبداللہ",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 3,
+          "Name": "Non-Fiction",
+          "Name_Urdu": "غیر افسانوی ادب",
+          "Name_Hindi": "Non-Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 607,
+          "FileName": "5244523e-2f56-468e-8e88-8275bbf52403.epub",
+          "IsSample": false,
+          "Book_Id": 607
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 607,
+          "FileName": "5244523e-2f56-468e-8e88-8275bbf52403.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 607
+        }
+      ],
+      "Users": [],
+      "Id": 607,
+      "Title": "Mushahidaat wa Taassuraat",
+      "Title_Urdu": "مشاہدات و تأثرات",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "7544751398556",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2019-10-03T17:24:14.527",
+      "PublishedYear": "2015",
+      "CreatedOn": "2019-10-03T17:24:29.46",
+      "ModifiedOn": "2019-10-03T17:24:29.46",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 823,
+          "Name": "Prof. Khwaja Md. Ekramuddin",
+          "Name_Urdu": "پروفیسر خواجہ محمد اکرام الدین",
+          "Name_Hindi": "Prof. Khwaja Md. Ekramuddin Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 3,
+          "Name": "Non-Fiction",
+          "Name_Urdu": "غیر افسانوی ادب",
+          "Name_Hindi": "Non-Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 601,
+          "FileName": "ccbd96f5-c69f-43e0-ae33-9b225eb4925e.epub",
+          "IsSample": false,
+          "Book_Id": 601
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 601,
+          "FileName": "ccbd96f5-c69f-43e0-ae33-9b225eb4925e.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 601
+        }
+      ],
+      "Users": [],
+      "Id": 601,
+      "Title": "Mulaqatein",
+      "Title_Urdu": "ملاقاتیں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0926877356999",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2019-10-03T17:21:56.7",
+      "PublishedYear": "2015",
+      "CreatedOn": "2019-10-03T17:21:59.343",
+      "ModifiedOn": "2019-10-03T17:21:59.343",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 816,
+          "Name": "Dr. Aftab Ahmad Afaqui",
+          "Name_Urdu": "ڈاکٹر آفتاب احمد آفاقی",
+          "Name_Hindi": "Dr. Aftab Ahmad Afaqui Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 3,
+          "Name": "Non-Fiction",
+          "Name_Urdu": "غیر افسانوی ادب",
+          "Name_Hindi": "Non-Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 594,
+          "FileName": "d9b43d62-d012-4917-8482-c730629e9c80.epub",
+          "IsSample": false,
+          "Book_Id": 594
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 594,
+          "FileName": "d9b43d62-d012-4917-8482-c730629e9c80.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 594
+        }
+      ],
+      "Users": [],
+      "Id": 594,
+      "Title": "Mazameen-e-Chakbast",
+      "Title_Urdu": "مضامینِ چکبست",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "3610285775987",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2019-10-03T17:20:36.617",
+      "PublishedYear": "2016",
+      "CreatedOn": "2019-10-03T17:20:39.597",
+      "ModifiedOn": "2019-10-03T17:20:39.597",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 815,
+          "Name": "Deputy Nazeer Ahmed",
+          "Name_Urdu": "ڈپٹی نذیر احمد",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 3,
+          "Name": "Non-Fiction",
+          "Name_Urdu": "غیر افسانوی ادب",
+          "Name_Hindi": "Non-Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 593,
+          "FileName": "46be25fe-6ea6-4089-831a-dd5d64f9518d.epub",
+          "IsSample": false,
+          "Book_Id": 593
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 593,
+          "FileName": "46be25fe-6ea6-4089-831a-dd5d64f9518d.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 593
+        }
+      ],
+      "Users": [],
+      "Id": 593,
+      "Title": "Maueza-e-Hasanah",
+      "Title_Urdu": "موعظۂ حسنہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6734720733928",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2019-10-03T17:20:15.08",
+      "PublishedYear": "2016",
+      "CreatedOn": "2019-10-03T17:20:17.883",
+      "ModifiedOn": "2019-10-03T17:20:17.883",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 813,
+          "Name": "Farooq Azam Qasmi",
+          "Name_Urdu": "فاروق اعظم قاسمی",
+          "Name_Hindi": "Farooq Azam Qasmi Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 3,
+          "Name": "Non-Fiction",
+          "Name_Urdu": "غیر افسانوی ادب",
+          "Name_Hindi": "Non-Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 591,
+          "FileName": "2f6ce504-34df-490d-a00f-714618e6f696.epub",
+          "IsSample": false,
+          "Book_Id": 591
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 591,
+          "FileName": "2f6ce504-34df-490d-a00f-714618e6f696.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 591
+        }
+      ],
+      "Users": [],
+      "Id": 591,
+      "Title": "Manto ke Nadir Khatoot",
+      "Title_Urdu": "منٹو کے نادر خطوط",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "0924403754282",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2019-10-03T17:18:59.217",
+      "PublishedYear": "2016",
+      "CreatedOn": "2019-10-03T17:19:01.863",
+      "ModifiedOn": "2019-10-03T17:19:01.863",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 764,
+          "Name": "Prem Nath Dar",
+          "Name_Urdu": "پریم ناتھ ڈار",
+          "Name_Hindi": "Prem Nath Dar Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 3,
+          "Name": "Non-Fiction",
+          "Name_Urdu": "غیر افسانوی ادب",
+          "Name_Hindi": "Non-Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 543,
+          "FileName": "d2bacc51-88c5-41fb-9bb6-e11e1db0b169.epub",
+          "IsSample": false,
+          "Book_Id": 543
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 543,
+          "FileName": "d2bacc51-88c5-41fb-9bb6-e11e1db0b169.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 543
+        }
+      ],
+      "Users": [],
+      "Id": 543,
+      "Title": "Kaghaz Ka Vasudev",
+      "Title_Urdu": "کاغذ کا واسودیو",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "2293132045404",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2019-10-03T17:07:53.653",
+      "PublishedYear": "201ٓ4",
+      "CreatedOn": "2019-10-03T17:07:56.633",
+      "ModifiedOn": "2019-10-03T17:07:56.633",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 757,
+          "Name": "Dr. Syed Naimuddin",
+          "Name_Urdu": "ڈاکٹر سید نعیم الدین",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 3,
+          "Name": "Non-Fiction",
+          "Name_Urdu": "غیر افسانوی ادب",
+          "Name_Hindi": "Non-Fiction",
+          "ModifiedOn": "2017-08-24T13:13:50.29"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 536,
+          "FileName": "5e7def0a-a009-4615-9a13-9fdddf2a6d74.epub",
+          "IsSample": false,
+          "Book_Id": 536
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 536,
+          "FileName": "5e7def0a-a009-4615-9a13-9fdddf2a6d74.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 536
+        }
+      ],
+      "Users": [],
+      "Id": 536,
+      "Title": "Insha Ka Turki Roznamcha",
+      "Title_Urdu": "انشاء کا ترکی روزنامچہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1451177154370",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2019-10-03T17:06:24.637",
+      "PublishedYear": "2006",
+      "CreatedOn": "2019-10-03T17:06:27.22",
+      "ModifiedOn": "2019-10-03T17:06:27.22",
+      "Volume": ""
+    }
+  ],
+  "TotalBooksCount": 8,
+  "TotalPage": [
+    1
+  ]
+}

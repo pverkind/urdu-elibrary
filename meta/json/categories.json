@@ -1,0 +1,149 @@
+{
+  "1": {
+    "Id": 1,
+    "ModifiedOn": "2017-08-24T13:13:50.2866667",
+    "Name": "Poetry",
+    "Name_Hindi": "Poetry",
+    "Name_Urdu": "شاعری"
+  },
+  "2": {
+    "Id": 2,
+    "ModifiedOn": "2017-08-24T13:13:50.29",
+    "Name": "Fiction",
+    "Name_Hindi": "Fiction",
+    "Name_Urdu": "افسانوی ادب"
+  },
+  "3": {
+    "Id": 3,
+    "ModifiedOn": "2017-08-24T13:13:50.29",
+    "Name": "Non-Fiction",
+    "Name_Hindi": "Non-Fiction",
+    "Name_Urdu": "غیر افسانوی ادب"
+  },
+  "10": {
+    "Id": 10,
+    "ModifiedOn": "2021-10-25T09:22:15.1866667",
+    "Name": "Research and Criticism",
+    "Name_Hindi": "Research and Criticism",
+    "Name_Urdu": "تحقیق و تنقید"
+  },
+  "11": {
+    "Id": 11,
+    "ModifiedOn": "2021-10-25T09:22:15.1866667",
+    "Name": "Language and Linguistics",
+    "Name_Hindi": "Language and Linguistics",
+    "Name_Urdu": "زبان ولسانیات"
+  },
+  "12": {
+    "Id": 12,
+    "ModifiedOn": "2021-10-25T09:22:15.1866667",
+    "Name": "Kulliyat",
+    "Name_Hindi": "Kulliyat",
+    "Name_Urdu": "کلیات"
+  },
+  "13": {
+    "Id": 13,
+    "ModifiedOn": "2021-10-25T09:22:15.19",
+    "Name": "Biography",
+    "Name_Hindi": "Biography",
+    "Name_Urdu": "حیات و خدمات"
+  },
+  "14": {
+    "Id": 14,
+    "ModifiedOn": "2021-10-25T09:22:15.19",
+    "Name": "Journalism",
+    "Name_Hindi": "Journalism",
+    "Name_Urdu": "صحافت"
+  },
+  "15": {
+    "Id": 15,
+    "ModifiedOn": "2021-10-25T09:22:15.19",
+    "Name": "Sociology and Religion",
+    "Name_Hindi": "Sociology and Religion",
+    "Name_Urdu": "سماجیات اور مذہب"
+  },
+  "16": {
+    "Id": 16,
+    "ModifiedOn": "2021-10-25T09:22:15.19",
+    "Name": "History",
+    "Name_Hindi": "History",
+    "Name_Urdu": "تاریخ"
+  },
+  "17": {
+    "Id": 17,
+    "ModifiedOn": "2021-10-25T09:22:15.1933333",
+    "Name": "Education and Teaching",
+    "Name_Hindi": "Education and Teaching",
+    "Name_Urdu": "تعلیم و تدریس"
+  },
+  "18": {
+    "Id": 18,
+    "ModifiedOn": "2021-10-25T09:22:15.1933333",
+    "Name": "Science, Technology and Geography",
+    "Name_Hindi": "Science, Technology and Geography",
+    "Name_Urdu": "سائنس، تکنیک  جغرافیہ"
+  },
+  "19": {
+    "Id": 19,
+    "ModifiedOn": "2021-10-25T09:22:15.1933333",
+    "Name": "Political Science",
+    "Name_Hindi": "Political Science",
+    "Name_Urdu": "سیاست"
+  },
+  "20": {
+    "Id": 20,
+    "ModifiedOn": "2021-10-25T09:22:15.1933333",
+    "Name": "Medicine and Therapies",
+    "Name_Hindi": "Medicine and Therapies",
+    "Name_Urdu": "طب ومعالجات"
+  },
+  "21": {
+    "Id": 21,
+    "ModifiedOn": "2021-10-25T09:22:15.1966667",
+    "Name": "Philosophy",
+    "Name_Hindi": "Philosophy",
+    "Name_Urdu": "فلسفہ"
+  },
+  "22": {
+    "Id": 22,
+    "ModifiedOn": "2021-10-25T09:22:15.1966667",
+    "Name": "Fine Arts",
+    "Name_Hindi": "Fine Arts",
+    "Name_Urdu": "فنون لطیفہ"
+  },
+  "23": {
+    "Id": 23,
+    "ModifiedOn": "2021-10-25T09:22:15.1966667",
+    "Name": "Laws",
+    "Name_Hindi": "Laws",
+    "Name_Urdu": "قانون"
+  },
+  "25": {
+    "Id": 25,
+    "ModifiedOn": "2021-10-25T09:22:15.2",
+    "Name": "Economics And Business",
+    "Name_Hindi": "Economics And Business",
+    "Name_Urdu": "تجارت و معاشیات"
+  },
+  "26": {
+    "Id": 26,
+    "ModifiedOn": "2021-10-25T09:22:15.2",
+    "Name": "Library Science, Bibliographies & General Knowledge",
+    "Name_Hindi": "Library Science, Bibliographies & General Knowledge",
+    "Name_Urdu": "کتب خانہ داری و کتابیات"
+  },
+  "27": {
+    "Id": 27,
+    "ModifiedOn": "2021-10-25T09:22:15.2",
+    "Name": "Encyclopedia And Dictionary",
+    "Name_Hindi": "Encyclopedia And Dictionary",
+    "Name_Urdu": " انسائیکلوپیڈیا و لغات"
+  },
+  "28": {
+    "Id": 28,
+    "ModifiedOn": "2021-11-30T12:08:38.7533333",
+    "Name": "Children Literature",
+    "Name_Hindi": "Children Literature",
+    "Name_Urdu": " بچوں کا ادب"
+  }
+}

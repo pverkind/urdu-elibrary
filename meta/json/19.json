@@ -1,0 +1,179 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3169,
+          "Name": "Mohan Rao Bhagwat",
+          "Name_Urdu": "موہن راؤ بھاگوت",
+          "Name_Hindi": "मोहन राव भागवत"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 19,
+          "Name": "Political Science",
+          "Name_Urdu": "سیاست",
+          "Name_Hindi": "Political Science",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2928,
+          "FileName": "ca708e91-02aa-49ea-b91e-70dd1cdef521.epub",
+          "IsSample": false,
+          "Book_Id": 2928
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2928,
+          "FileName": "ca708e91-02aa-49ea-b91e-70dd1cdef521.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2928
+        }
+      ],
+      "Users": [],
+      "Id": 2928,
+      "Title": "Mustaqbil ka Bharat",
+      "Title_Urdu": "مستقبل کا بھارت",
+      "Title_Hindi": "मुस्तकबिल का भारत ",
+      "Language": "Urdu",
+      "ISBN": "4569171251882",
+      "Description": "Translated by Shaik Aquil Ahmad",
+      "Description_Urdu": "ترجمہ شیخ عقیل حمد",
+      "Description_Hindi": "अनुवाद शेख अकील अहमद",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے اردو زبان",
+      "Publisher_Hindi": "राष्ट्रीय उर्दू भाषा विकास परिषद्",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2023-02-23T07:33:49.93",
+      "PublishedYear": "2021",
+      "CreatedOn": "2023-02-23T07:33:50.507",
+      "ModifiedOn": "2023-02-23T07:33:50.507",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3111,
+          "Name": "J. S. Mill",
+          "Name_Urdu": "جے ایس مِل",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 19,
+          "Name": "Political Science",
+          "Name_Urdu": "سیاست",
+          "Name_Hindi": "Political Science",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2883,
+          "FileName": "d96f05e3-36bf-4aa6-86be-25168ca8ac87.epub",
+          "IsSample": false,
+          "Book_Id": 2883
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2883,
+          "FileName": "d96f05e3-36bf-4aa6-86be-25168ca8ac87.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2883
+        }
+      ],
+      "Users": [],
+      "Id": 2883,
+      "Title": "Azadi",
+      "Title_Urdu": "آزادی",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "9225112986334",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-14T07:20:22.803",
+      "PublishedYear": "1998",
+      "CreatedOn": "2021-12-14T07:20:23.087",
+      "ModifiedOn": "2021-12-14T07:20:23.087",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3072,
+          "Name": "Syed Yasir Ali Jilani",
+          "Name_Urdu": "سیّد یاسر علی جیلانی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 19,
+          "Name": "Political Science",
+          "Name_Urdu": "سیاست",
+          "Name_Hindi": "Political Science",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2846,
+          "FileName": "8050e03c-765a-43d3-a77e-f471ef86df2f.epub",
+          "IsSample": false,
+          "Book_Id": 2846
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2846,
+          "FileName": "8050e03c-765a-43d3-a77e-f471ef86df2f.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2846
+        }
+      ],
+      "Users": [],
+      "Id": 2846,
+      "Title": "Mann  Ki Baat",
+      "Title_Urdu": "من کی بات",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6538857978391",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T07:24:34.293",
+      "PublishedYear": "2018",
+      "CreatedOn": "2021-12-10T07:24:34.623",
+      "ModifiedOn": "2021-12-10T07:24:34.623",
+      "Volume": ""
+    }
+  ],
+  "TotalBooksCount": 3,
+  "TotalPage": [
+    1
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3104,
+          "Name": "Dr Anees Siddiqui",
+          "Name_Urdu": "ڈاکٹر انیس صدیقی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 26,
+          "Name": "Library Science, Bibliographies & General Knowledge",
+          "Name_Urdu": "کتب خانہ داری و کتابیات",
+          "Name_Hindi": "Library Science, Bibliographies & General Knowledge",
+          "ModifiedOn": "2021-10-25T09:22:15.2"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2878,
+          "FileName": "e73c92e5-b448-43d1-b436-96fd9f194e29.epub",
+          "IsSample": false,
+          "Book_Id": 2878
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2878,
+          "FileName": "e73c92e5-b448-43d1-b436-96fd9f194e29.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2878
+        }
+      ],
+      "Users": [],
+      "Id": 2878,
+      "Title": "SHAB KHOON Ka Tauzeehi Ishariya",
+      "Title_Urdu": "شب خون کا توضیحی اشاریہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8997306932735",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:43:42.21",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-10T11:43:42.857",
+      "ModifiedOn": "2021-12-10T11:43:42.857",
+      "Volume": "1"
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3103,
+          "Name": "Dr Anees Siddiqui",
+          "Name_Urdu": "ڈاکٹر انیس صدیقی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 26,
+          "Name": "Library Science, Bibliographies & General Knowledge",
+          "Name_Urdu": "کتب خانہ داری و کتابیات",
+          "Name_Hindi": "Library Science, Bibliographies & General Knowledge",
+          "ModifiedOn": "2021-10-25T09:22:15.2"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2877,
+          "FileName": "f0fc8dab-58d1-4b55-8882-a9624dea4841.epub",
+          "IsSample": false,
+          "Book_Id": 2877
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2877,
+          "FileName": "f0fc8dab-58d1-4b55-8882-a9624dea4841.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2877
+        }
+      ],
+      "Users": [],
+      "Id": 2877,
+      "Title": "SHAB KHOON Ka Tauzeehi Ishariya",
+      "Title_Urdu": "شب خون کا توضیحی اشاریہ",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5941059517461",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-10T11:43:20.377",
+      "PublishedYear": "2017",
+      "CreatedOn": "2021-12-10T11:43:20.737",
+      "ModifiedOn": "2021-12-10T11:43:20.737",
+      "Volume": "2"
+    }
+  ],
+  "TotalBooksCount": 2,
+  "TotalPage": [
+    1
+  ]
+}

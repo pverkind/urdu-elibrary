@@ -1,0 +1,350 @@
+{
+  "booksPaging": [
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3206,
+          "Name": "Hifzur Rahman",
+          "Name_Urdu": "حفظ الرحمن",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 17,
+          "Name": "Education and Teaching",
+          "Name_Urdu": "تعلیم و تدریس",
+          "Name_Hindi": "Education and Teaching",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2950,
+          "FileName": "91a9cfba-c2ef-48ef-b0f5-cf6f7b4c6c58.epub",
+          "IsSample": false,
+          "Book_Id": 2950
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2950,
+          "FileName": "91a9cfba-c2ef-48ef-b0f5-cf6f7b4c6c58.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2950
+        }
+      ],
+      "Users": [],
+      "Id": 2950,
+      "Title": "Hindustan Main Mazoor Bachon Ka Nizam-e-Talim",
+      "Title_Urdu": "ہندوستان میں معذور بچوں کا نظام تعلیم",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5711293507004",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-03-21T06:56:16.873",
+      "PublishedYear": "",
+      "CreatedOn": "2024-03-21T06:56:17.467",
+      "ModifiedOn": "2024-03-21T06:56:17.467",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 3187,
+          "Name": "Saeed Ahmed sandilvi",
+          "Name_Urdu": "سعید احمد سندیلوی",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 17,
+          "Name": "Education and Teaching",
+          "Name_Urdu": "تعلیم و تدریس",
+          "Name_Hindi": "Education and Teaching",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2939,
+          "FileName": "52455536-2a5f-453f-a59e-e6f0f3eb6ac2.epub",
+          "IsSample": false,
+          "Book_Id": 2939
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2939,
+          "FileName": "52455536-2a5f-453f-a59e-e6f0f3eb6ac2.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2939
+        }
+      ],
+      "Users": [],
+      "Id": 2939,
+      "Title": "Misali Talib-e-Ilm Kaisay Banien",
+      "Title_Urdu": " مثالی طالب علم کیسے بنیں",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "6146264630948",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قومی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2024-03-07T10:56:34.503",
+      "PublishedYear": "",
+      "CreatedOn": "2024-03-07T10:56:35.27",
+      "ModifiedOn": "2024-03-07T10:56:35.27",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2984,
+          "Name": "D.S Gordon",
+          "Name_Urdu": "ڈی ایس گورڈن",
+          "Name_Hindi": "D.S Gordon_Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 17,
+          "Name": "Education and Teaching",
+          "Name_Urdu": "تعلیم و تدریس",
+          "Name_Hindi": "Education and Teaching",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2758,
+          "FileName": "f966d01d-f9c7-4432-a33f-c8754b6165bf.epub",
+          "IsSample": false,
+          "Book_Id": 2758
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2758,
+          "FileName": "f966d01d-f9c7-4432-a33f-c8754b6165bf.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2758
+        }
+      ],
+      "Users": [],
+      "Id": 2758,
+      "Title": "Usool-e-Taaleem Aur Amal-e-Taaleem",
+      "Title_Urdu": "اصول تعلیم اور عملِ تعلیم",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "1292983285583",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:33:59.267",
+      "PublishedYear": "201ً6",
+      "CreatedOn": "2021-12-01T10:33:59.58",
+      "ModifiedOn": "2021-12-01T10:33:59.58",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2983,
+          "Name": "Moienuddin",
+          "Name_Urdu": "معین الدین",
+          "Name_Hindi": "Moienuddin Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 17,
+          "Name": "Education and Teaching",
+          "Name_Urdu": "تعلیم و تدریس",
+          "Name_Hindi": "Education and Teaching",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2757,
+          "FileName": "79541678-b24c-4a68-97e3-0b9bcd29e5a1.epub",
+          "IsSample": false,
+          "Book_Id": 2757
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2757,
+          "FileName": "79541678-b24c-4a68-97e3-0b9bcd29e5a1.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2757
+        }
+      ],
+      "Users": [],
+      "Id": 2757,
+      "Title": "Urdu Zaban Ki Tadrees",
+      "Title_Urdu": "اردو زبان کی تدریس",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "5275253152362",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:32:14.357",
+      "PublishedYear": "2011",
+      "CreatedOn": "2021-12-01T10:32:14.577",
+      "ModifiedOn": "2021-12-01T10:32:14.577",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2982,
+          "Name": "Dr. Talat Aziz",
+          "Name_Urdu": "ڈاکٹر طلعت عزیز",
+          "Name_Hindi": "Dr. Talat Aziz Hindi"
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 17,
+          "Name": "Education and Teaching",
+          "Name_Urdu": "تعلیم و تدریس",
+          "Name_Hindi": "Education and Teaching",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2756,
+          "FileName": "64e90f88-0364-4229-b0a8-520d8b32e4d2.epub",
+          "IsSample": false,
+          "Book_Id": 2756
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2756,
+          "FileName": "64e90f88-0364-4229-b0a8-520d8b32e4d2.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2756
+        }
+      ],
+      "Users": [],
+      "Id": 2756,
+      "Title": "Taleemi Nafsiyat",
+      "Title_Urdu": "تعلیمی نفسیات",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "3711175780522",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:30:28.873",
+      "PublishedYear": "2015",
+      "CreatedOn": "2021-12-01T10:30:29.157",
+      "ModifiedOn": "2021-12-01T10:30:29.157",
+      "Volume": ""
+    },
+    {
+      "Authors": [
+        {
+          "Books": [],
+          "Id": 2981,
+          "Name": "Dr Salamatullah",
+          "Name_Urdu": "ڈاکٹر سلامت اللہ",
+          "Name_Hindi": ""
+        }
+      ],
+      "Cart": [],
+      "Categories": [
+        {
+          "Id": 17,
+          "Name": "Education and Teaching",
+          "Name_Urdu": "تعلیم و تدریس",
+          "Name_Hindi": "Education and Teaching",
+          "ModifiedOn": "2021-10-25T09:22:15.1933333"
+        }
+      ],
+      "Media": [
+        {
+          "Id": 2755,
+          "FileName": "60866612-0c88-4d80-9427-720621971f32.epub",
+          "IsSample": false,
+          "Book_Id": 2755
+        }
+      ],
+      "Photos": [
+        {
+          "Id": 2755,
+          "FileName": "60866612-0c88-4d80-9427-720621971f32.jpg",
+          "IsCoverPhoto": true,
+          "Book_Id": 2755
+        }
+      ],
+      "Users": [],
+      "Id": 2755,
+      "Title": "Taleem Aur Uska Samaji PasManar",
+      "Title_Urdu": "تعلیم اور اُس کا سماجی پسِ منظر",
+      "Title_Hindi": "",
+      "Language": "Urdu",
+      "ISBN": "8861888069843",
+      "Description": "",
+      "Description_Urdu": "",
+      "Description_Hindi": "",
+      "Publisher": "NCPUL",
+      "Publisher_Urdu": "قرمی کونسل برائے فروغ اردو زبان",
+      "Publisher_Hindi": "क़ौमी कॉउन्सिल बराए फ़रोग़ उर्दु ज़बान ",
+      "Price": 0.0,
+      "isActive": true,
+      "PublishedDate": "2021-12-01T10:26:18.4",
+      "PublishedYear": "1998",
+      "CreatedOn": "2021-12-01T10:26:18.777",
+      "ModifiedOn": "2021-12-01T10:26:18.777",
+      "Volume": ""
+    }
+  ],
+  "TotalBooksCount": 6,
+  "TotalPage": [
+    1
+  ]
+}
